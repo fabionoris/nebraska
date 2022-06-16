@@ -1,0 +1,14 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="ignore">nebraska_metapanel</custom-field>
+        <custom-field action="ignore">nebraska_slider</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">portfolio</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">project-type</taxonomy>
+        <taxonomy translate="1">post_format</taxonomy>
+        <taxonomy translate="1">post_tag</taxonomy>
+    </taxonomies>
+</wpml-config>

@@ -1,0 +1,2353 @@
+<?xml version="1.0"?>
+
+<nebraska_nebraska_option_tree>
+
+  <row>
+
+    <id>1</id>
+
+    <item_id>general_default</item_id>
+
+    <item_title>General</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>heading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>2</id>
+
+    <item_id>textorlogo</item_id>
+
+    <item_title>Display Text or Logo?</item_title>
+
+    <item_desc>Decide of you want to display your custom Logo or the Blog Name</item_desc>
+
+    <item_type>radio</item_type>
+
+    <item_options>Logo,Text</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>3</id>
+
+    <item_id>header_logo</item_id>
+
+    <item_title>Logo</item_title>
+
+    <item_desc>Please upload your Logo</item_desc>
+
+    <item_type>upload</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>4</id>
+
+    <item_id>login_logo</item_id>
+
+    <item_title>Login Logo</item_title>
+
+    <item_desc>Replace the standard WordPress Logo at the login screen. This logo should be at least not larger than 320x90 pixel.</item_desc>
+
+    <item_type>upload</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>5</id>
+
+    <item_id>favicon</item_id>
+
+    <item_title>Favicon</item_title>
+
+    <item_desc>Please upload your Favicon</item_desc>
+
+    <item_type>upload</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>6</id>
+
+    <item_id>apple_touch_icon_small</item_id>
+
+    <item_title>Apple Touch Icon (small)</item_title>
+
+    <item_desc>57x57 Pixel</item_desc>
+
+    <item_type>upload</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>7</id>
+
+    <item_id>apple_touch_icon_mid</item_id>
+
+    <item_title>Apple Touch Icon (medium)</item_title>
+
+    <item_desc>72x72 Pixel</item_desc>
+
+    <item_type>upload</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>8</id>
+
+    <item_id>apple_touch_icon</item_id>
+
+    <item_title>Apple Touch Icon (large)</item_title>
+
+    <item_desc>You may want users to be able to add your web application or webpage link to the Home screen. This Icon will be displayed! Best Size 114x114!</item_desc>
+
+    <item_type>upload</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>9</id>
+
+    <item_id>google_analytics</item_id>
+
+    <item_title>Google Analytics</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>textarea</item_type>
+
+    <item_options>15</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>10</id>
+
+    <item_id>lambda_styling</item_id>
+
+    <item_title>Styling</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>heading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>11</id>
+
+    <item_id>body_background_settings</item_id>
+
+    <item_title>Background Settings</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>12</id>
+
+    <item_id>bg_js_group_open</item_id>
+
+    <item_title>Body Background Settings</item_title>
+
+    <item_desc>This option will set a default body background for each page. Keep in mind, that this option will only take effect on the boxed layout.</item_desc>
+
+    <item_type>jsgroupopen</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>13</id>
+
+    <item_id>background_type</item_id>
+
+    <item_title>Background Type</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>select</item_type>
+
+    <item_options>default_backgroundcolor=Solid Color,default_backgroundimage=FullSize Image,default_backgroundpattern=Background Pattern,default_backgroundtexture=Background Texture</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>14</id>
+
+    <item_id>default_backgroundpattern</item_id>
+
+    <item_title>Background Pattern</item_title>
+
+    <item_desc>Please note, this option is only will only take effect on the boxed layout.</item_desc>
+
+    <item_type>background_pattern</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>15</id>
+
+    <item_id>default_backgroundtexture</item_id>
+
+    <item_title>Background Texture</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>background_texture</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>16</id>
+
+    <item_id>default_backgroundimage</item_id>
+
+    <item_title>Backgroundimage</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>upload</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>17</id>
+
+    <item_id>default_backgroundcolor</item_id>
+
+    <item_title>Backgroundcolor</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>colorpicker</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>18</id>
+
+    <item_id>bg_js_group_close</item_id>
+
+    <item_title>Main Background Settings</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>jsgroupclose</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>19</id>
+
+    <item_id>wbg_js_group_open</item_id>
+
+    <item_title>Wrap Background Settings</item_title>
+
+    <item_desc>This option will set a default wrap background for each page. What is a &amp;quot;Wrap&amp;quot;? That&amp;#039;s the box which holds all the content and which is displayed as a box when the boxed version is active</item_desc>
+
+    <item_type>jsgroupopen</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>20</id>
+
+    <item_id>wrap_background_type</item_id>
+
+    <item_title>Background Type</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>select</item_type>
+
+    <item_options>wrap_default_backgroundcolor=Solid Color,wrap_default_backgroundimage=FullSize Image,wrap_default_backgroundpattern=Background Pattern,wrap_default_backgroundtexture=Background Texture</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>21</id>
+
+    <item_id>wrap_default_backgroundcolor</item_id>
+
+    <item_title>Backgroundcolor</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>colorpicker</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>22</id>
+
+    <item_id>wrap_default_backgroundpattern</item_id>
+
+    <item_title>Backgroundpattern</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>background_pattern</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>23</id>
+
+    <item_id>wrap_default_backgroundtexture</item_id>
+
+    <item_title>Backgroundtexture</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>background_texture</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>24</id>
+
+    <item_id>wrap_default_backgroundimage</item_id>
+
+    <item_title>Backgroundimage</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>upload</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>25</id>
+
+    <item_id>wbg_js_group_close</item_id>
+
+    <item_title>Wrap Background Settings</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>jsgroupclose</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>26</id>
+
+    <item_id>color_settings</item_id>
+
+    <item_title>Color Settings</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>27</id>
+
+    <item_id>themecolor</item_id>
+
+    <item_title>Themecolor</item_title>
+
+    <item_desc>Choose your favorite themecolor</item_desc>
+
+    <item_type>colorpicker</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>28</id>
+
+    <item_id>hover_color_rgb</item_id>
+
+    <item_title>Hover Effects Color</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>colorpicker</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>29</id>
+
+    <item_id>hover_opacity</item_id>
+
+    <item_title>Hover Opacity</item_title>
+
+    <item_desc>for example: 0.8</item_desc>
+
+    <item_type>input</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>30</id>
+
+    <item_id>featured_header</item_id>
+
+    <item_title>Featured Header Background</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>31</id>
+
+    <item_id>sl_bg_group_open</item_id>
+
+    <item_title>Featured Header Background Settings</item_title>
+
+    <item_desc>These options will be set as the default layout settings for each page. But you can apply individual settings for each page using the Meta Panel!</item_desc>
+
+    <item_type>jsgroupopen</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>32</id>
+
+    <item_id>slider_background_type</item_id>
+
+    <item_title>Background Type</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>select</item_type>
+
+    <item_options>slider_default_backgroundimage=Custom Image or Color,slider_default_backgroundpattern=Background Pattern</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>33</id>
+
+    <item_id>slider_default_backgroundpattern</item_id>
+
+    <item_title>Background Pattern</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>background_pattern</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>34</id>
+
+    <item_id>slider_default_backgroundimage</item_id>
+
+    <item_title>Background Image</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>background</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>35</id>
+
+    <item_id>sl_bg_group_close</item_id>
+
+    <item_title>sl_bg_group_close</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>jsgroupclose</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>36</id>
+
+    <item_id>footer_styling</item_id>
+
+    <item_title>Footer Styling</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>37</id>
+
+    <item_id>fbg_js_group_open</item_id>
+
+    <item_title>Footer Background Settings</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>jsgroupopen</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>38</id>
+
+    <item_id>footer_background_type</item_id>
+
+    <item_title>Background Type</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>select</item_type>
+
+    <item_options>footer_default_backgroundpattern=Background Pattern</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>39</id>
+
+    <item_id>footer_default_backgroundpattern</item_id>
+
+    <item_title>Background Pattern</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>footer_background_pattern</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>40</id>
+
+    <item_id>fbg_js_group_close</item_id>
+
+    <item_title>Footer Background Settings</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>jsgroupclose</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>41</id>
+
+    <item_id>homepage_layout</item_id>
+
+    <item_title>Homepage Layout</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>42</id>
+
+    <item_id>sitelayout</item_id>
+
+    <item_title>Overall Sitelayout</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>radio</item_type>
+
+    <item_options>boxed,fullwidth</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>43</id>
+
+    <item_id>responsive</item_id>
+
+    <item_title>Activate Responsive</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>radio</item_type>
+
+    <item_options>on,off</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>44</id>
+
+    <item_id>navigation_styling</item_id>
+
+    <item_title>Navigation Styling</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>45</id>
+
+    <item_id>navigation_font</item_id>
+
+    <item_title>Main Navigation</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>typography_menu</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>46</id>
+
+    <item_id>main_navigation_dropdown_active_state</item_id>
+
+    <item_title>Main Navigation Dropdown Active State</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>colorpicker</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>47</id>
+
+    <item_id>navigation_active</item_id>
+
+    <item_title>Main Navigation Font Color Active State</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>colorpicker</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>48</id>
+
+    <item_id>drop_down_font_color</item_id>
+
+    <item_title>Drop Down Font Color &amp;amp; Styling</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>typography_menu</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>49</id>
+
+    <item_id>drop_down_font_color_hover</item_id>
+
+    <item_title>Drop Down Font Color Hover &amp;amp; Active State</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>colorpicker</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>50</id>
+
+    <item_id>font_styling</item_id>
+
+    <item_title>Typography</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>heading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>51</id>
+
+    <item_id>general_typography</item_id>
+
+    <item_title>Body</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>52</id>
+
+    <item_id>bodyfont</item_id>
+
+    <item_title>Bodyfont</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>typography</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>53</id>
+
+    <item_id>blog_styling</item_id>
+
+    <item_title>Blog</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>54</id>
+
+    <item_id>blog_titles</item_id>
+
+    <item_title>Titles</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>typography</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>55</id>
+
+    <item_id>blog_titles_home</item_id>
+
+    <item_title>Blog Title &amp;quot;Home Template&amp;quot;</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>typography</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>56</id>
+
+    <item_id>blog_meta</item_id>
+
+    <item_title>Meta</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>typography</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>57</id>
+
+    <item_id>fontmanager</item_id>
+
+    <item_title>Font Uploader</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>58</id>
+
+    <item_id>custom_font</item_id>
+
+    <item_title>Custom Font Upload</item_title>
+
+    <item_desc>Please do not use any special characters for the font name!</item_desc>
+
+    <item_type>fontmanager</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>59</id>
+
+    <item_id>headlines</item_id>
+
+    <item_title>Headlines</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>60</id>
+
+    <item_id>headline_font_color</item_id>
+
+    <item_title>Headline Font Color</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>colorpicker</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>61</id>
+
+    <item_id>headline_font_type_open</item_id>
+
+    <item_title>Headline Font Type</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>jsgroupopen</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>62</id>
+
+    <item_id>headline_font_face_type</item_id>
+
+    <item_title>Headline Font Face Type</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>select</item_type>
+
+    <item_options>headline_font_face_websafe=Web Safe Font,headline_font_face_google=Google Font</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>63</id>
+
+    <item_id>headline_font_face_websafe</item_id>
+
+    <item_title>Headline Font Face Web safe</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>typography_headlines</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>64</id>
+
+    <item_id>headline_font_face_google</item_id>
+
+    <item_title>Headline Font Face Google</item_title>
+
+    <item_desc>Font Face for all Headings</item_desc>
+
+    <item_type>typography_google</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>65</id>
+
+    <item_id>headline_font_type_close</item_id>
+
+    <item_title>Headline Font Type Close</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>jsgroupclose</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>66</id>
+
+    <item_id>h1_font_size</item_id>
+
+    <item_title>H1 Font Size</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>measurement</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>67</id>
+
+    <item_id>h2_font_size</item_id>
+
+    <item_title>H2 Font Size</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>measurement</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>68</id>
+
+    <item_id>h3_font_size</item_id>
+
+    <item_title>H3 Font Size</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>measurement</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>69</id>
+
+    <item_id>h4_font_size</item_id>
+
+    <item_title>H4 Font Size</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>measurement</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>70</id>
+
+    <item_id>h5_font_size</item_id>
+
+    <item_title>H5 Font Size</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>measurement</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>71</id>
+
+    <item_id>h6_font_size</item_id>
+
+    <item_title>H6 Font Size</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>measurement</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>72</id>
+
+    <item_id>misc_headlines</item_id>
+
+    <item_title>Misc Headlines</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>73</id>
+
+    <item_id>archive_title</item_id>
+
+    <item_title>Archive Title</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>typography</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>74</id>
+
+    <item_id>member_name</item_id>
+
+    <item_title>Member Name ( Team Template )</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>typography</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>75</id>
+
+    <item_id>servicebox_headline</item_id>
+
+    <item_title>Servicebox Headline</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>typography</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>76</id>
+
+    <item_id>servicecol_headline</item_id>
+
+    <item_title>Servicecolumn Headline</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>typography</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>77</id>
+
+    <item_id>service_tabs</item_id>
+
+    <item_title>Service Tabs ( Service template )</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>typography</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>78</id>
+
+    <item_id>toggle_headline</item_id>
+
+    <item_title>Toggle &amp;amp; Tabs Headline</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>typography</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>79</id>
+
+    <item_id>home_title</item_id>
+
+    <item_title>Custom Box Title ( Home Template )</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>typography</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>80</id>
+
+    <item_id>logo_styling</item_id>
+
+    <item_title>Logo</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>81</id>
+
+    <item_id>logo_font</item_id>
+
+    <item_title>Font</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>typography</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>82</id>
+
+    <item_id>teaser_font</item_id>
+
+    <item_title>Teaser</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>83</id>
+
+    <item_id>page_title</item_id>
+
+    <item_title>Page Title</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>typography</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>84</id>
+
+    <item_id>page_teaser</item_id>
+
+    <item_title>Page Teaser</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>typography</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>85</id>
+
+    <item_id>widgets</item_id>
+
+    <item_title>Widgets</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>86</id>
+
+    <item_id>footer_widget_title</item_id>
+
+    <item_title>Footer Widget Title</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>typography</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>87</id>
+
+    <item_id>sidebar_widget_title</item_id>
+
+    <item_title>Sidebar Widget Title</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>typography</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>88</id>
+
+    <item_id>sidebar_settings</item_id>
+
+    <item_title>Sidebars</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>heading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>89</id>
+
+    <item_id>sidebars</item_id>
+
+    <item_title>Add Sidebar</item_title>
+
+    <item_desc>You can add as many sidebars as you need.</item_desc>
+
+    <item_type>sidebar</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>90</id>
+
+    <item_id>select_sidebar</item_id>
+
+    <item_title>Select Page Default Sidebar</item_title>
+
+    <item_desc>The overall default sidebar for posts and pages. Can be overwritten by each page or post individually.</item_desc>
+
+    <item_type>select_sidebars</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>91</id>
+
+    <item_id>select_sidebar_second</item_id>
+
+    <item_title>Select Page Second Default Sidebar</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>select_sidebars</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>92</id>
+
+    <item_id>sidebar_alignement</item_id>
+
+    <item_title>Sidebar Alignement</item_title>
+
+    <item_desc>Default Sidebar Alignement. Will be overwritten by Meta Settings Panel!</item_desc>
+
+    <item_type>select</item_type>
+
+    <item_options>left,right,both</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>93</id>
+
+    <item_id>custom_scripts_css</item_id>
+
+    <item_title>Custom Codes</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>heading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>94</id>
+
+    <item_id>custom_css</item_id>
+
+    <item_title>Custom CSS Code</item_title>
+
+    <item_desc>Insert your Custom CSS Code right here!</item_desc>
+
+    <item_type>textarea</item_type>
+
+    <item_options>15</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>95</id>
+
+    <item_id>settings</item_id>
+
+    <item_title>Settings</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>heading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>96</id>
+
+    <item_id>blog_settings</item_id>
+
+    <item_title>Blog Settings</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>97</id>
+
+    <item_id>blog_title</item_id>
+
+    <item_title>Blog Title</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>input</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>98</id>
+
+    <item_id>excerpt_blog</item_id>
+
+    <item_title>Show Excerpt in Blog</item_title>
+
+    <item_desc>Auto generate Excerpts for each blog entry. If deactivated please make use of the WordPress more tag. For further details about the more tag, please have a look here:&#xD;
+
+&amp;lt;a href=&amp;quot;http://en.support.wordpress.com/splitting-content/more-tag/&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;The More Tag&amp;lt;/a&amp;gt;</item_desc>
+
+    <item_type>radio</item_type>
+
+    <item_options>yes,no</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>99</id>
+
+    <item_id>excerpt_blog_length</item_id>
+
+    <item_title>Excerpt Length</item_title>
+
+    <item_desc>Default : 55</item_desc>
+
+    <item_type>input</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>100</id>
+
+    <item_id>author_in_blog</item_id>
+
+    <item_title>Activate Author Bio</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>radio</item_type>
+
+    <item_options>on,off</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>101</id>
+
+    <item_id>copyright</item_id>
+
+    <item_title>Copyright</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>102</id>
+
+    <item_id>site_copyright</item_id>
+
+    <item_title>Copyright</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>textarea</item_type>
+
+    <item_options>6</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>103</id>
+
+    <item_id>plugins</item_id>
+
+    <item_title>Plugins</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>104</id>
+
+    <item_id>activate_prettyphoto</item_id>
+
+    <item_title>Activate PrettyPhoto</item_title>
+
+    <item_desc>If you are experiencing issues with other gallery plugins please turn this option off</item_desc>
+
+    <item_type>radio</item_type>
+
+    <item_options>on,off</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>105</id>
+
+    <item_id>activate_lambdagallery</item_id>
+
+    <item_title>Acivate Lambda Gallery Shortcode</item_title>
+
+    <item_desc>Deactivate this option if you are planing to use third party gallery plugins. The Lambda Gallery shortcode is the same as you can find inside the WordPress Codex, also the usage is the same, its just loading a slight modified markup.</item_desc>
+
+    <item_type>radio</item_type>
+
+    <item_options>on,off</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>106</id>
+
+    <item_id>social_media_links</item_id>
+
+    <item_title>Social Media Links</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>107</id>
+
+    <item_id>new_browser_tab</item_id>
+
+    <item_title>Open all links in a new browser tab ?</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>radio</item_type>
+
+    <item_options>yes,no</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>108</id>
+
+    <item_id>social_links</item_id>
+
+    <item_title>Manage Your Links</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>social</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>109</id>
+
+    <item_id>soundcloud</item_id>
+
+    <item_title>Soundcloud</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <!-- Shockwave Flash Disabled -->
+  <!--
+  <row>
+
+    <id>110</id>
+
+    <item_id>soundcloud_player_iframe</item_id>
+
+    <item_title>Widget Type</item_title>
+
+    <item_desc>Display HTML5 Player or Flash Version?</item_desc>
+
+    <item_type>radio</item_type>
+
+    <item_options>HTML5,Flash</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+  -->
+
+
+  <row>
+
+    <id>111</id>
+
+    <item_id>soundcloud_show_artwork</item_id>
+
+    <item_title>Show Artwork</item_title>
+
+    <item_desc>Display Author Avatar or not</item_desc>
+
+    <item_type>radio</item_type>
+
+    <item_options>Yes,No</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>112</id>
+
+    <item_id>soundcloud_player_height</item_id>
+
+    <item_title>Player Height for Tracks</item_title>
+
+    <item_desc>Leave blank to use the default, 81 (pixels).</item_desc>
+
+    <item_type>input</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>113</id>
+
+    <item_id>soundcloud_player_height_multi</item_id>
+
+    <item_title>Player Height for Groups/Sets</item_title>
+
+    <item_desc>Leave blank to use the default, 225 (pixels).</item_desc>
+
+    <item_type>input</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>114</id>
+
+    <item_id>soundcloud_player_width</item_id>
+
+    <item_title>Player Width</item_title>
+
+    <item_desc>Leave blank to use the default, 100%.</item_desc>
+
+    <item_type>input</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>115</id>
+
+    <item_id>soundcloud_auto_play</item_id>
+
+    <item_title>Auto Play</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>checkbox</item_type>
+
+    <item_options>Default,True,False</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>116</id>
+
+    <item_id>soundcloud_show_comments</item_id>
+
+    <item_title>Show Comments</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>checkbox</item_type>
+
+    <item_options>Default,True,False</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>117</id>
+
+    <item_id>default_params</item_id>
+
+    <item_title>Default Params</item_title>
+
+    <item_desc>&amp;lt;h2&amp;gt;Default Params&amp;lt;/h2&amp;gt;&#xD;
+
+please note these settings will be overwritten by the shortcode when set.</item_desc>
+
+    <item_type>textblock</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>118</id>
+
+    <item_id>top_header_contact</item_id>
+
+    <item_title>Top Header Contact</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>119</id>
+
+    <item_id>top_email</item_id>
+
+    <item_title>Email</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>input</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>120</id>
+
+    <item_id>top_phonenumber</item_id>
+
+    <item_title>Phone</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>input</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>121</id>
+
+    <item_id>video_player</item_id>
+
+    <item_title>Video Player</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>subheading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>122</id>
+
+    <item_id>video_main_color</item_id>
+
+    <item_title>Main Color</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>colorpicker</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>123</id>
+
+    <item_id>video_control_color</item_id>
+
+    <item_title>Control Color</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>colorpicker</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>124</id>
+
+    <item_id>video_control_bg_color</item_id>
+
+    <item_title>Control Background Color</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>colorpicker</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>125</id>
+
+    <item_id>image_options</item_id>
+
+    <item_title>Image Options</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>heading</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>126</id>
+
+    <item_id>activate_image_cropping</item_id>
+
+    <item_title>Activate Image Cropping</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>radio</item_type>
+
+    <item_options>yes,no</item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>127</id>
+
+    <item_id>blog_preview_height</item_id>
+
+    <item_title>Blog Image Height</item_title>
+
+    <item_desc>size in &amp;quot;pixel&amp;quot;</item_desc>
+
+    <item_type>input</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>128</id>
+
+    <item_id>blog_single_height</item_id>
+
+    <item_title>Single Blog Image Height</item_title>
+
+    <item_desc>size in &amp;quot;pixel&amp;quot;</item_desc>
+
+    <item_type>input</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>129</id>
+
+    <item_id>blog_preview_gallery_height</item_id>
+
+    <item_title>Blog Gallery Height</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>input</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+  <row>
+
+    <id>130</id>
+
+    <item_id>blog_single_gallery_height</item_id>
+
+    <item_title>Single Blog Gallery Height</item_title>
+
+    <item_desc></item_desc>
+
+    <item_type>input</item_type>
+
+    <item_options></item_options>
+
+    <item_sort>0</item_sort>
+
+  </row>
+
+</nebraska_nebraska_option_tree>

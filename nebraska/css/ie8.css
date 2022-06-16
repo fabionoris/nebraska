@@ -1,0 +1,9 @@
+#teaser-content #page-title:after {
+    content: "---";
+    display: inline-block;
+    text-align: center;
+}
+
+#navigation ul.sub-menu {
+    margin-left: -1px !important;
+}
