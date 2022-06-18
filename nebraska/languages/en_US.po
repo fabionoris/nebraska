@@ -1,1 +1,7231 @@
-msgid ""msgstr """Project-Id-Version: Nevada v1.1\n""Report-Msgid-Bugs-To: \n""POT-Creation-Date: \n""PO-Revision-Date: 2012-10-01 14:27:50+0000\n""Last-Translator: admin <demo@unitedthemes.com>\n""Language-Team: \n""MIME-Version: 1.0\n""Content-Type: text/plain; charset=UTF-8\n""Content-Transfer-Encoding: 8bit\n""Plural-Forms: nplurals=2; plural=n != 1;\n""X-Poedit-Language: English\n""X-Poedit-Country: UNITED STATES\n""X-Poedit-SourceCharset: utf-8\n""X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n""X-Poedit-Basepath: ../\n""X-Poedit-Bookmarks: \n""X-Poedit-SearchPath-0: .\n""X-Textdomain-Support: yes"#: 404.php:21#@ Nevadamsgid "Apologies, but the page you requested could not be found. Perhaps searching will help."msgstr "Apologies, but the page you requested could not be found. Perhaps searching will help."#: comments.php:12#@ Nevadamsgid "This post is password protected. Enter the password to view comments."msgstr "This post is password protected. Enter the password to view comments."#: comments.php:25#, php-format#@ Nevadamsgid "One Response to %2$s"msgid_plural "%1$s Responses to %2$s"msgstr[0] "One Response to %2$s"msgstr[1] "%1$s Responses to %2$s"#: comments.php:52#@ Nevadamsgid "Leave a Reply"msgstr "Leave a Reply"#: comments.php:59#@ Nevadamsgid "You must be logged in to post a comment."msgstr "You must be logged in to post a comment."#: comments.php:66#@ Nevadamsgid "Logged in as:"msgstr "Logged in as:"#: comments.php:66#@ Nevadamsgid "Log out"msgstr "Log out"#: comments.php:71#@ Nevadamsgid "Name"msgstr "Name"#: comments.php:71#@ Nevadamsgid "required"msgstr "required"#: comments.php:76#: lambda/widgets/lambda_contact.php:28#@ Nevadamsgid "Email"msgstr "Email"#: comments.php:76#@ Nevadamsgid " (will not be published) "msgstr " (will not be published) "#: comments.php:76#@ Nevadamsgid "(required)"msgstr "(required)"#: comments.php:81#@ Nevadamsgid "Website"msgstr "Website"#: comments.php:91#@ Nevadamsgid "Submit Comment"msgstr "Submit Comment"#: functions/ajax-request.php:27#@ Nevadamsgid "You need to be logged in to vote!"msgstr "You need to be logged in to vote!"#: functions/ajax-request.php:57#@ Nevadamsgid "Thanks for voting!"msgstr "Thanks for voting!"#: functions/ajax-request.php:62#@ Nevadamsgid "Sorry, a technical error has occured. Please try again later"msgstr "Sorry, a technical error has occured. Please try again later"#: functions/default-menu.php:2#@ Nevadamsgid "Set Up Your Menu"msgstr "Set Up Your Menu"#: functions/pagecreator-functions.php:615#: functions/pagetool-functions.php:571#: functions/theme-post-formats.php:105#: loop.php:90#: loop.php:199#: loop.php:312#: loop.php:423#: loop.php:501#: loop.php:597#: post-formats/link.php:16#, php-format#@ Nevadamsgid "Permalink to %s"msgstr "Permalink to %s"#: functions/pagecreator-functions.php:625#: functions/pagetool-functions.php:581#: loop-single.php:38#: loop.php:108#: loop.php:217#: loop.php:330#: loop.php:441#: loop.php:519#: loop.php:615#@ Nevadamsgid "0 Comments"msgstr "0 Comments"#: functions/pagecreator-functions.php:625#: functions/pagetool-functions.php:581#: loop-single.php:38#: loop.php:108#: loop.php:217#: loop.php:330#: loop.php:441#: loop.php:519#: loop.php:615#@ Nevadamsgid "1 Comment"msgstr "1 Comment"#: functions/pagecreator-functions.php:625#: functions/pagetool-functions.php:581#: loop-single.php:38#: loop.php:108#: loop.php:217#: loop.php:330#: loop.php:441#: loop.php:519#: loop.php:615#@ Nevadamsgid "% Comments"msgstr "% Comments"#: functions/pagecreator-functions.php:681#: functions/pagetool-functions.php:629#: functions/theme-functions.php:123#@ Nevadamsgid "Read more <span class=\"meta-nav\"></span>"msgstr "Read more <span class=\"meta-nav\"></span>"#: functions/theme-form-functions.php:55#@ Nevadamsgid "Your input must consist of at least "msgstr "Your input must consist of at least "#: functions/theme-form-functions.php:55#@ Nevadamsgid " characters"msgstr " characters"#: functions/theme-form-functions.php:248#@ Nevadamsgid "Send email"msgstr "Send email"#: functions/theme-functions.php:8#@ Nevadamsgid "Primary Navigation"msgstr "Primary Navigation"#: functions/theme-functions.php:82#@ Nevadamsgid "Read More"msgstr "Read More"#: functions/theme-layout-functions.php:190#@ Nevadamsgid "Comment is awaiting moderation"msgstr "Comment is awaiting moderation"#: functions/theme-layout-functions.php:196#@ Nevadamsgid "Reply"msgstr "Reply"#: functions/theme-layout-functions.php:202#@ Nevadamsgid "Edit Comment"msgstr "Edit Comment"#: functions/theme-layout-functions.php:431#@ Nevadamsgid "Like"msgstr "Like"#: functions/theme-mailer.php:58#@ Nevadamsgid " From "msgstr " From "#: functions/theme-portfolio-init.php:11#: lambda/metaboxes/lambda.metapanel.php:175#@ Nevadamsgid "Portfolio"msgstr "Portfolio"#: functions/theme-portfolio-init.php:12#@ Nevadamsgid "Project"msgstr "Project"#: functions/theme-portfolio-init.php:32#@ Nevadamsgid "Project Categories"msgstr "Project Categories"#: functions/theme-portfolio-init.php:33#@ Nevadamsgid "Project Category"msgstr "Project Category"#: functions.php:309#: lambda/lambda.admin.functions.php:95#@ Nevadamsgid "Default Sidebar"msgstr "Default Sidebar"#: functions.php:311#@ Nevadamsgid "The Default Sidebar"msgstr "The Default Sidebar"#: functions.php:340#@ Nevadamsgid "First Footer Widget Area"msgstr "First Footer Widget Area"#: functions.php:342#@ Nevadamsgid "The first footer widget area"msgstr "The first footer widget area"#: functions.php:351#@ Nevadamsgid "Second Footer Widget Area"msgstr "Second Footer Widget Area"#: functions.php:353#@ Nevadamsgid "The second footer widget area"msgstr "The second footer widget area"#: functions.php:362#@ Nevadamsgid "Third Footer Widget Area"msgstr "Third Footer Widget Area"#: functions.php:364#@ Nevadamsgid "The third footer widget area"msgstr "The third footer widget area"#: functions.php:373#@ Nevadamsgid "Fourth Footer Widget Area"msgstr "Fourth Footer Widget Area"#: functions.php:375#@ Nevadamsgid "The fourth footer widget area"msgstr "The fourth footer widget area"#: functions.php:384#@ Nevadamsgid "Header Widget Area"msgstr "Header Widget Area"#: functions.php:386#@ Nevadamsgid "The header widget area. Only for Lambda Social Media Widget"msgstr "The header widget area. Only for Lambda Social Media Widget"#: functions.php:405#, php-format#@ Nevadamsgid "%2$s"msgstr "%2$s"#: functions.php:414#, php-format#@ Nevadamsgid "View all posts by %s"msgstr "View all posts by %s"#: functions.php:432#, php-format#@ Nevadamsgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."msgstr "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."#: functions.php:434#, php-format#@ Nevadamsgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."msgstr "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."#: functions.php:436#, php-format#@ Nevadamsgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."msgstr "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."#: header.php:50#, php-format#@ Nevadamsgid "Page %s"msgstr "Page %s"#: header.php:200#@ Nevadamsgid "Option Tree Plugin has been detected! Please deactivate this Plugin to prevent themecrashes and failures!"msgstr "Option Tree Plugin has been detected! Please deactivate this Plugin to prevent themecrashes and failures!"#: header.php:203#@ Nevadamsgid "Soundcloud Plugin has been detected! Please deactivate this Plugin to prevent themecrashes and failures!"msgstr "Soundcloud Plugin has been detected! Please deactivate this Plugin to prevent themecrashes and failures!"#: lambda/classes/class.admin.php:1555#@ Nevadamsgid "Options"msgstr "Options"#: lambda/classes/class.admin.php:1633#@ Nevadamsgid "Somebody"msgstr "Somebody"#: lambda/classes/class.admin.php:1634#@ Nevadamsgid "Theme Options"msgstr "Theme Options"#: lambda/classes/class.admin.php:1634#@ Nevadamsgid "Settings"msgstr "Settings"#: lambda/classes/class.admin.php:1636#, php-format#@ Nevadamsgid "Warning: %s is currently editing the %s."msgstr "Warning: %s is currently editing the %s."#: lambda/classes/class.admin.php:1736#@ option-treemsgid "Show Settings &amp; Docs"msgstr ""#: lambda/classes/class.admin.php:1739#@ option-treemsgid "Yes"msgstr ""#: lambda/front-end/docs.php:9#@ Nevadamsgid "Option Usage (for Developers)"msgstr "Option Usage (for Developers)"#: lambda/front-end/options.php:15#@ Nevadamsgid "Manage Preset"msgstr "Manage Preset"#: lambda/front-end/options.php:16#: lambda/front-end/options.php:240#@ Nevadamsgid "Save All Changes"msgstr "Save All Changes"#: lambda/front-end/options.php:27#@ Nevadamsgid "Manage Layouts"msgstr "Manage Layouts"#: lambda/front-end/options.php:34#@ Nevadamsgid "New Layout"msgstr "New Layout"#: lambda/front-end/options.php:62#@ Nevadamsgid "Activate Layout"msgstr "Activate Layout"#: lambda/front-end/options.php:65#@ Nevadamsgid "Reload XML"msgstr "Reload XML"#: lambda/front-end/options.php:80#@ Nevadamsgid " Theme Options"msgstr " Theme Options"#: lambda/front-end/options.php:241#@ Nevadamsgid "Reset Options"msgstr "Reset Options"#: lambda/front-end/settings.php:21#@ Nevadamsgid " Theme Settings"msgstr " Theme Settings"#: lambda/front-end/settings.php:246#@ Nevadamsgid "Import XML"msgstr "Import XML"#: lambda/front-end/settings.php:272#@ Nevadamsgid "Import Data"msgstr "Import Data"#: lambda/front-end/settings.php:298#@ Nevadamsgid "Import Layouts"msgstr "Import Layouts"#: lambda/functions/admin/background.php:46#: lambda/metaboxes/lambda.slider.php:499#@ Nevadamsgid "Background-Color"msgstr "Background-Color"#: lambda/functions/admin/background.php:54#: lambda/metaboxes/lambda.slider.php:507#@ Nevadamsgid "Background-Repeat"msgstr "Background-Repeat"#: lambda/functions/admin/background.php:66#: lambda/metaboxes/lambda.slider.php:520#@ Nevadamsgid "Background-Attachment"msgstr "Background-Attachment"#: lambda/functions/admin/background.php:78#: lambda/metaboxes/lambda.slider.php:533#@ Nevadamsgid "Background-Position"msgstr "Background-Position"#: lambda/functions/admin/background.php:88#@ Nevadamsgid "Background-Image"msgstr "Background-Image"#: lambda/functions/admin/checkbox.php:45#@ Nevadamsgid "Inactive"msgstr "Inactive"#: lambda/functions/admin/checkbox.php:49#@ Nevadamsgid "Active"msgstr "Active"#: lambda/functions/admin/easing.php:32#@ Nevadamsgid "-- Choose Easing Effect --"msgstr "-- Choose Easing Effect --"#: lambda/functions/admin/image_effect.php:33#@ Nevadamsgid "-- Choose Image Start Effect --"msgstr "-- Choose Image Start Effect --"#: lambda/functions/admin/image_hover.php:33#@ Nevadamsgid "-- Choose Image Hover Effect --"msgstr "-- Choose Image Hover Effect --"#: lambda/functions/admin/typography.php:45#: lambda/functions/admin/typography_menu.php:50#@ Nevadamsgid "Font Color"msgstr "Font Color"#: lambda/functions/admin/typography.php:56#: lambda/functions/admin/typography_headlines.php:31#: lambda/functions/admin/typography_menu.php:61#@ Nevadamsgid "Font Family"msgstr "Font Family"#: lambda/functions/admin/typography.php:70#: lambda/functions/admin/typography_headlines.php:45#: lambda/functions/admin/typography_menu.php:76#@ Nevadamsgid "Font Style"msgstr "Font Style"#: lambda/functions/admin/typography.php:84#: lambda/functions/admin/typography_headlines.php:59#: lambda/functions/admin/typography_menu.php:106#@ Nevadamsgid "Font Weight"msgstr "Font Weight"#: lambda/functions/admin/typography.php:98#: lambda/functions/admin/typography_menu.php:120#@ Nevadamsgid "Font Size"msgstr "Font Size"#: lambda/functions/admin/typography_menu.php:91#@ Nevadamsgid "Font Transform"msgstr "Font Transform"#: lambda/functions/admin/upload.php:26#@ Nevadamsgid "Upload"msgstr "Upload"#: lambda/lambda.admin.functions.php:95#@ Nevadamsgid "No Sidebar"msgstr "No Sidebar"#: lambda/metaboxes/lambda.meta.spec.php:19#@ Nevadamsgid "Featured Header Settings"msgstr "Featured Header Settings"#: lambda/metaboxes/lambda.metapanel.php:28#@ Nevadamsgid "Save"msgstr "Save"#: lambda/metaboxes/lambda.metapanel.php:32#@ Nevadamsgid "Editor"msgstr "Editor"#: lambda/metaboxes/lambda.metapanel.php:35#: lambda/metaboxes/lambda.metapanel.php:1300#@ Nevadamsgid "Post Format Settings"msgstr "Post Format Settings"#: lambda/metaboxes/lambda.metapanel.php:39#@ Nevadamsgid "Page Creator"msgstr "Page Creator"#: lambda/metaboxes/lambda.metapanel.php:42#: lambda/metaboxes/lambda.slider.php:21#@ Nevadamsgid "Featured Header"msgstr "Featured Header"#: lambda/metaboxes/lambda.metapanel.php:43#: lambda/metaboxes/lambda.metapanel.php:829#@ Nevadamsgid "Page Settings"msgstr "Page Settings"#: lambda/metaboxes/lambda.metapanel.php:44#: lambda/metaboxes/lambda.metapanel.php:945#@ Nevadamsgid "Style Settings"msgstr "Style Settings"#: lambda/metaboxes/lambda.metapanel.php:47#@ Nevadamsgid "Portfolio Overview Settings"msgstr "Portfolio Overview Settings"#: lambda/metaboxes/lambda.metapanel.php:51#: lambda/metaboxes/lambda.metapanel.php:2187#: lambda/metaboxes/lambda.metapanel.php:2484#@ Nevadamsgid "Portfolio Items"msgstr "Portfolio Items"#: lambda/metaboxes/lambda.metapanel.php:56#: lambda/metaboxes/lambda.metapanel.php:1833#: lambda/metaboxes/lambda.metapanel.php:1847#@ Nevadamsgid "Contact Form Builder"msgstr "Contact Form Builder"#: lambda/metaboxes/lambda.metapanel.php:57#@ Nevadamsgid "Home Settings"msgstr "Home Settings"#: lambda/metaboxes/lambda.metapanel.php:58#@ Nevadamsgid "Team Settings"msgstr "Team Settings"#: lambda/metaboxes/lambda.metapanel.php:59#@ Nevadamsgid "FAQ Settings"msgstr "FAQ Settings"#: lambda/metaboxes/lambda.metapanel.php:60#@ Nevadamsgid "Testimonials"msgstr "Testimonials"#: lambda/metaboxes/lambda.metapanel.php:61#@ Nevadamsgid "Service"msgstr "Service"#: lambda/metaboxes/lambda.metapanel.php:62#: lambda/metaboxes/lambda.metapanel.php:2190#@ Nevadamsgid "Clients"msgstr "Clients"#: lambda/metaboxes/lambda.metapanel.php:98#@ Nevadamsgid "Expand Page Creator"msgstr "Expand Page Creator"#: lambda/metaboxes/lambda.metapanel.php:99#@ Nevadamsgid "Shrink Page Creator"msgstr "Shrink Page Creator"#: lambda/metaboxes/lambda.metapanel.php:103#@ Nevadamsgid "Add New Box"msgstr "Add New Box"#: lambda/metaboxes/lambda.metapanel.php:115#@ Nevadamsgid "New box"msgstr "New box"#: lambda/metaboxes/lambda.metapanel.php:132#@ Nevadamsgid "edit"msgstr "edit"#: lambda/metaboxes/lambda.metapanel.php:153#@ Nevadamsgid "Enter Boxname"msgstr "Enter Boxname"#: lambda/metaboxes/lambda.metapanel.php:156#@ Nevadamsgid "only for internal use"msgstr "only for internal use"#: lambda/metaboxes/lambda.metapanel.php:161#@ Nevadamsgid "Choose Boxtype"msgstr "Choose Boxtype"#: lambda/metaboxes/lambda.metapanel.php:163#@ Nevadamsgid "Choose Box Type"msgstr "Choose Box Type"#: lambda/metaboxes/lambda.metapanel.php:164#@ Nevadamsgid "Textbox (with Editor)"msgstr "Textbox (with Editor)"#: lambda/metaboxes/lambda.metapanel.php:165#: lambda/metaboxes/lambda.metapanel.php:1337#@ Nevadamsgid "Quote"msgstr "Quote"#: lambda/metaboxes/lambda.metapanel.php:166#: revslider/inc_php/revslider_widget.class.php:9#@ Nevadamsgid "Revolution Slider"msgstr "Revolution Slider"#: lambda/metaboxes/lambda.metapanel.php:167#@ Nevadamsgid "Standard Slider"msgstr "Standard Slider"#: lambda/metaboxes/lambda.metapanel.php:168#@ Nevadamsgid "Soundcloud"msgstr "Soundcloud"#: lambda/metaboxes/lambda.metapanel.php:169#@ Nevadamsgid "Horizontal Row"msgstr "Horizontal Row"#: lambda/metaboxes/lambda.metapanel.php:170#: lambda/metaboxes/lambda.metapanel.php:1524#@ Nevadamsgid "Video"msgstr "Video"#: lambda/metaboxes/lambda.metapanel.php:171#@ Nevadamsgid "Service Column"msgstr "Service Column"#: lambda/metaboxes/lambda.metapanel.php:172#@ Nevadamsgid "Single Testimonial"msgstr "Single Testimonial"#: lambda/metaboxes/lambda.metapanel.php:173#@ Nevadamsgid "Testimonial Carousel"msgstr "Testimonial Carousel"#: lambda/metaboxes/lambda.metapanel.php:174#@ Nevadamsgid "Pricing Table"msgstr "Pricing Table"#: lambda/metaboxes/lambda.metapanel.php:176#@ Nevadamsgid "Blog"msgstr "Blog"#: lambda/metaboxes/lambda.metapanel.php:177#@ Nevadamsgid "Google Map"msgstr "Google Map"#: lambda/metaboxes/lambda.metapanel.php:178#: lambda/metaboxes/lambda.metapanel.php:2191#@ Nevadamsgid "Call to Action"msgstr "Call to Action"#: lambda/metaboxes/lambda.metapanel.php:183#: lambda/widgets/lambda_contact.php:23#: lambda/widgets/lambda_like.php:58#: lambda/widgets/lambda_video.php:23#@ Nevadamsgid "Title"msgstr "Title"#: lambda/metaboxes/lambda.metapanel.php:186#@ Nevadamsgid "this will create a designed headline above the box, leave empty to hide"msgstr "this will create a designed headline above the box, leave empty to hide"#: lambda/metaboxes/lambda.metapanel.php:223#@ Nevadamsgid "Quote!"msgstr "Quote!"#: lambda/metaboxes/lambda.metapanel.php:228#: lambda/metaboxes/lambda.metapanel.php:2917#@ Nevadamsgid "Authorname"msgstr "Authorname"#: lambda/metaboxes/lambda.metapanel.php:244#@ Nevadamsgid "Choose Revolution Slider"msgstr "Choose Revolution Slider"#: lambda/metaboxes/lambda.metapanel.php:247#: lambda/metaboxes/lambda.metapanel.php:275#: lambda/metaboxes/lambda.metapanel.php:278#: lambda/metaboxes/lambda.slider.php:215#@ Nevadamsgid "Choose Slider"msgstr "Choose Slider"#: lambda/metaboxes/lambda.metapanel.php:306#: lambda/metaboxes/lambda.metapanel.php:1419#: lambda/metaboxes/lambda.metapanel.php:1546#@ Nevadamsgid "Soundcloud URL"msgstr "Soundcloud URL"#: lambda/metaboxes/lambda.metapanel.php:323#: lambda/metaboxes/lambda.metapanel.php:1366#: lambda/metaboxes/lambda.metapanel.php:1585#: lambda/metaboxes/lambda.slider.php:148#: lambda/metaboxes/lambda.slider.php:361#@ Nevadamsgid "Upload Video"msgstr "Upload Video"#: lambda/metaboxes/lambda.metapanel.php:325#: lambda/metaboxes/lambda.metapanel.php:335#: lambda/metaboxes/lambda.metapanel.php:1368#: lambda/metaboxes/lambda.metapanel.php:1378#: lambda/metaboxes/lambda.metapanel.php:1587#: lambda/metaboxes/lambda.metapanel.php:1597#: lambda/metaboxes/lambda.slider.php:150#: lambda/metaboxes/lambda.slider.php:160#: lambda/metaboxes/lambda.slider.php:363#: lambda/metaboxes/lambda.slider.php:373#@ Nevadamsgid "can be .mov, .flv"msgstr "can be .mov, .flv"#: lambda/metaboxes/lambda.metapanel.php:333#: lambda/metaboxes/lambda.metapanel.php:1376#: lambda/metaboxes/lambda.metapanel.php:1595#: lambda/metaboxes/lambda.slider.php:158#: lambda/metaboxes/lambda.slider.php:371#@ Nevadamsgid "Upload HD Video"msgstr "Upload HD Video"#: lambda/metaboxes/lambda.metapanel.php:343#: lambda/metaboxes/lambda.metapanel.php:1605#: lambda/metaboxes/lambda.slider.php:168#: lambda/metaboxes/lambda.slider.php:381#@ Nevadamsgid "Poster Image"msgstr "Poster Image"#: lambda/metaboxes/lambda.metapanel.php:345#: lambda/metaboxes/lambda.metapanel.php:1607#: lambda/metaboxes/lambda.slider.php:170#: lambda/metaboxes/lambda.slider.php:383#@ Nevadamsgid "should be same size as Video"msgstr "should be same size as Video"#: lambda/metaboxes/lambda.metapanel.php:353#: lambda/metaboxes/lambda.metapanel.php:1386#: lambda/metaboxes/lambda.metapanel.php:1615#: lambda/metaboxes/lambda.slider.php:178#: lambda/metaboxes/lambda.slider.php:391#@ Nevadamsgid "MP4 File URL"msgstr "MP4 File URL"#: lambda/metaboxes/lambda.metapanel.php:355#: lambda/metaboxes/lambda.metapanel.php:1388#: lambda/metaboxes/lambda.metapanel.php:1617#: lambda/metaboxes/lambda.slider.php:180#: lambda/metaboxes/lambda.slider.php:393#@ Nevadamsgid "The URL to .mp4 video file for Ipad"msgstr "The URL to .mp4 video file for Ipad"#: lambda/metaboxes/lambda.metapanel.php:362#: lambda/metaboxes/lambda.metapanel.php:365#: lambda/metaboxes/lambda.metapanel.php:1395#: lambda/metaboxes/lambda.metapanel.php:1398#: lambda/metaboxes/lambda.metapanel.php:1624#: lambda/metaboxes/lambda.metapanel.php:1627#: lambda/metaboxes/lambda.slider.php:186#: lambda/metaboxes/lambda.slider.php:189#: lambda/metaboxes/lambda.slider.php:399#: lambda/metaboxes/lambda.slider.php:402#@ Nevadamsgid "Embedded Code"msgstr "Embedded Code"#: lambda/metaboxes/lambda.metapanel.php:380#@ Nevadamsgid "This is only a horizontal divider!"msgstr "This is only a horizontal divider!"#: lambda/metaboxes/lambda.metapanel.php:400#: lambda/metaboxes/lambda.metapanel.php:2265#: lambda/metaboxes/lambda.metapanel.php:2323#: lambda/metaboxes/lambda.metapanel.php:2381#: lambda/metaboxes/lambda.metapanel.php:2439#@ Nevadamsgid "Icon URL"msgstr "Icon URL"#: lambda/metaboxes/lambda.metapanel.php:402#: lambda/metaboxes/lambda.metapanel.php:2267#: lambda/metaboxes/lambda.metapanel.php:2325#: lambda/metaboxes/lambda.metapanel.php:2383#: lambda/metaboxes/lambda.metapanel.php:2441#@ Nevadamsgid "Icon size should be 32x32"msgstr "Icon size should be 32x32"#: lambda/metaboxes/lambda.metapanel.php:407#: lambda/metaboxes/lambda.metapanel.php:555#: lambda/metaboxes/lambda.metapanel.php:2272#: lambda/metaboxes/lambda.metapanel.php:2330#: lambda/metaboxes/lambda.metapanel.php:2388#: lambda/metaboxes/lambda.metapanel.php:2446#: lambda/metaboxes/lambda.metapanel.php:2515#: lambda/metaboxes/lambda.metapanel.php:2599#: lambda/metaboxes/lambda.slider.php:264#@ Nevadamsgid "Headline"msgstr "Headline"#: lambda/metaboxes/lambda.metapanel.php:410#: lambda/metaboxes/lambda.metapanel.php:792#: lambda/metaboxes/lambda.metapanel.php:2275#: lambda/metaboxes/lambda.metapanel.php:2333#: lambda/metaboxes/lambda.metapanel.php:2391#: lambda/metaboxes/lambda.metapanel.php:2449#: lambda/metaboxes/lambda.metapanel.php:3157#@ Nevadamsgid "Content"msgstr "Content"#: lambda/metaboxes/lambda.metapanel.php:413#: lambda/metaboxes/lambda.metapanel.php:453#: lambda/metaboxes/lambda.metapanel.php:2278#: lambda/metaboxes/lambda.metapanel.php:2336#: lambda/metaboxes/lambda.metapanel.php:2394#: lambda/metaboxes/lambda.metapanel.php:2452#: lambda/metaboxes/lambda.metapanel.php:3284#@ Nevadamsgid "This field accepts shortcodes"msgstr "This field accepts shortcodes"#: lambda/metaboxes/lambda.metapanel.php:416#: lambda/metaboxes/lambda.metapanel.php:1316#: lambda/metaboxes/lambda.metapanel.php:2281#: lambda/metaboxes/lambda.metapanel.php:2339#: lambda/metaboxes/lambda.metapanel.php:2397#: lambda/metaboxes/lambda.metapanel.php:2455#: lambda/widgets/lambda_social.php:147#: lambda/widgets/lambda_social.php:229#: lambda/widgets/lambda_social.php:252#@ Nevadamsgid "Link"msgstr "Link"#: lambda/metaboxes/lambda.metapanel.php:420#: lambda/metaboxes/lambda.metapanel.php:782#: lambda/metaboxes/lambda.metapanel.php:2285#: lambda/metaboxes/lambda.metapanel.php:2343#: lambda/metaboxes/lambda.metapanel.php:2401#: lambda/metaboxes/lambda.metapanel.php:2459#: lambda/metaboxes/lambda.metapanel.php:3147#: lambda/metaboxes/lambda.slider.php:346#: lambda/slidermanager/index.php:622#: lambda/slidermanager/lambda.ajax.class.php:103#: lambda/slidermanager/lambda.slider.init.php:153#: lambda/tablemanager/index.php:379#@ Nevadamsgid "Buttontext"msgstr "Buttontext"#: lambda/metaboxes/lambda.metapanel.php:440#: lambda/metaboxes/lambda.metapanel.php:2925#: lambda/metaboxes/lambda.metapanel.php:3271#@ Nevadamsgid "Author Image"msgstr "Author Image"#: lambda/metaboxes/lambda.metapanel.php:442#@ Nevadamsgid "Image size should be 200x200"msgstr "Image size should be 200x200"#: lambda/metaboxes/lambda.metapanel.php:447#@ Nevadamsgid "Author Name"msgstr "Author Name"#: lambda/metaboxes/lambda.metapanel.php:450#@ Nevadamsgid "Comment"msgstr "Comment"#: lambda/metaboxes/lambda.metapanel.php:456#: lambda/metaboxes/lambda.metapanel.php:2936#: lambda/metaboxes/lambda.metapanel.php:3287#@ Nevadamsgid "Testimonial Authors Company"msgstr "Testimonial Authors Company"#: lambda/metaboxes/lambda.metapanel.php:471#: lambda/metaboxes/lambda.metapanel.php:2855#@ Nevadamsgid "Testimonial Color"msgstr "Testimonial Color"#: lambda/metaboxes/lambda.metapanel.php:473#: lambda/metaboxes/lambda.metapanel.php:2857#@ Nevadamsgid "Select color ..."msgstr "Select color ..."#: lambda/metaboxes/lambda.metapanel.php:474#: lambda/metaboxes/lambda.metapanel.php:2858#@ Nevadamsgid "white"msgstr "white"#: lambda/metaboxes/lambda.metapanel.php:475#: lambda/metaboxes/lambda.metapanel.php:2859#@ Nevadamsgid "darken"msgstr "darken"#: lambda/metaboxes/lambda.metapanel.php:476#: lambda/metaboxes/lambda.metapanel.php:2860#@ Nevadamsgid "alternating colors"msgstr "alternating colors"#: lambda/metaboxes/lambda.metapanel.php:480#@ Nevadamsgid "Choose Testimonials Page"msgstr "Choose Testimonials Page"#: lambda/metaboxes/lambda.metapanel.php:503#: lambda/metaboxes/lambda.metapanel.php:707#: lambda/metaboxes/lambda.metapanel.php:2683#@ Nevadamsgid "No Pages Available"msgstr "No Pages Available"#: lambda/metaboxes/lambda.metapanel.php:508#@ Nevadamsgid "Choose Testimonials from an existing <br /> Testimonials Template Page"msgstr "Choose Testimonials from an existing <br /> Testimonials Template Page"#: lambda/metaboxes/lambda.metapanel.php:522#: lambda/metaboxes/lambda.metapanel.php:526#@ Nevadamsgid "Choose Pricing Table"msgstr "Choose Pricing Table"#: lambda/metaboxes/lambda.metapanel.php:559#: lambda/metaboxes/lambda.metapanel.php:2519#@ Nevadamsgid "Load the last x items out of the portfolio"msgstr "Load the last x items out of the portfolio"#: lambda/metaboxes/lambda.metapanel.php:563#: lambda/metaboxes/lambda.metapanel.php:1187#: lambda/metaboxes/lambda.metapanel.php:2523#@ Nevadamsgid "Portfolio Column Layout"msgstr "Portfolio Column Layout"#: lambda/metaboxes/lambda.metapanel.php:566#: lambda/metaboxes/lambda.metapanel.php:670#: lambda/metaboxes/lambda.metapanel.php:2526#@ Nevadamsgid "Select Column Layout ..."msgstr "Select Column Layout ..."#: lambda/metaboxes/lambda.metapanel.php:567#: lambda/metaboxes/lambda.metapanel.php:672#: lambda/metaboxes/lambda.metapanel.php:2527#@ Nevadamsgid "2 Columns"msgstr "2 Columns"#: lambda/metaboxes/lambda.metapanel.php:568#: lambda/metaboxes/lambda.metapanel.php:673#: lambda/metaboxes/lambda.metapanel.php:2528#@ Nevadamsgid "3 Columns"msgstr "3 Columns"#: lambda/metaboxes/lambda.metapanel.php:569#: lambda/metaboxes/lambda.metapanel.php:674#: lambda/metaboxes/lambda.metapanel.php:2529#@ Nevadamsgid "4 Columns"msgstr "4 Columns"#: lambda/metaboxes/lambda.metapanel.php:573#: lambda/metaboxes/lambda.metapanel.php:2533#@ Nevadamsgid "Display items out of the following category"msgstr "Display items out of the following category"#: lambda/metaboxes/lambda.metapanel.php:587#: lambda/metaboxes/lambda.metapanel.php:1178#: lambda/metaboxes/lambda.metapanel.php:2544#@ Nevadamsgid "No Portfolio Categories created yet!"msgstr "No Portfolio Categories created yet!"#: lambda/metaboxes/lambda.metapanel.php:592#: lambda/metaboxes/lambda.metapanel.php:1262#: lambda/metaboxes/lambda.metapanel.php:2548#@ Nevadamsgid "Show Portfolio Item Title"msgstr "Show Portfolio Item Title"#: lambda/metaboxes/lambda.metapanel.php:598#: lambda/metaboxes/lambda.metapanel.php:640#: lambda/metaboxes/lambda.metapanel.php:657#: lambda/metaboxes/lambda.metapanel.php:2554#: lambda/metaboxes/lambda.metapanel.php:2629#: lambda/metaboxes/lambda.metapanel.php:2646#: lambda/tablemanager/index.php:303#@ Nevadamsgid "on"msgstr "on"#: lambda/metaboxes/lambda.metapanel.php:600#: lambda/metaboxes/lambda.metapanel.php:642#: lambda/metaboxes/lambda.metapanel.php:659#: lambda/metaboxes/lambda.metapanel.php:2556#: lambda/metaboxes/lambda.metapanel.php:2631#: lambda/metaboxes/lambda.metapanel.php:2648#: lambda/tablemanager/index.php:304#@ Nevadamsgid "off"msgstr "off"#: lambda/metaboxes/lambda.metapanel.php:617#: lambda/metaboxes/lambda.metapanel.php:2606#@ Nevadamsgid "Activate featured Images?"msgstr "Activate featured Images?"#: lambda/metaboxes/lambda.metapanel.php:623#: lambda/metaboxes/lambda.metapanel.php:917#: lambda/metaboxes/lambda.metapanel.php:1226#: lambda/metaboxes/lambda.metapanel.php:1268#: lambda/metaboxes/lambda.metapanel.php:2225#: lambda/metaboxes/lambda.metapanel.php:2250#: lambda/metaboxes/lambda.metapanel.php:2308#: lambda/metaboxes/lambda.metapanel.php:2366#: lambda/metaboxes/lambda.metapanel.php:2424#: lambda/metaboxes/lambda.metapanel.php:2497#: lambda/metaboxes/lambda.metapanel.php:2589#: lambda/metaboxes/lambda.metapanel.php:2612#: lambda/metaboxes/lambda.metapanel.php:2744#: lambda/metaboxes/lambda.metapanel.php:2980#: lambda/metaboxes/lambda.metapanel.php:3133#: lambda/metaboxes/lambda.slider.php:434#@ Nevadamsgid "show"msgstr "show"#: lambda/metaboxes/lambda.metapanel.php:625#: lambda/metaboxes/lambda.metapanel.php:919#: lambda/metaboxes/lambda.metapanel.php:1228#: lambda/metaboxes/lambda.metapanel.php:1270#: lambda/metaboxes/lambda.metapanel.php:2227#: lambda/metaboxes/lambda.metapanel.php:2252#: lambda/metaboxes/lambda.metapanel.php:2310#: lambda/metaboxes/lambda.metapanel.php:2368#: lambda/metaboxes/lambda.metapanel.php:2426#: lambda/metaboxes/lambda.metapanel.php:2499#: lambda/metaboxes/lambda.metapanel.php:2591#: lambda/metaboxes/lambda.metapanel.php:2614#: lambda/metaboxes/lambda.metapanel.php:2746#: lambda/metaboxes/lambda.metapanel.php:2982#: lambda/metaboxes/lambda.metapanel.php:3135#: lambda/metaboxes/lambda.slider.php:436#@ Nevadamsgid "hide"msgstr "hide"#: lambda/metaboxes/lambda.metapanel.php:634#: lambda/metaboxes/lambda.metapanel.php:2623#@ Nevadamsgid "Activate Blog Excerpt"msgstr "Activate Blog Excerpt"#: lambda/metaboxes/lambda.metapanel.php:651#: lambda/metaboxes/lambda.metapanel.php:2640#@ Nevadamsgid "Activate \"Like Voting\""msgstr "Activate \"Like Voting\""#: lambda/metaboxes/lambda.metapanel.php:667#@ Nevadamsgid "Blog Column Layout"msgstr "Blog Column Layout"#: lambda/metaboxes/lambda.metapanel.php:671#@ Nevadamsgid "Full Width"msgstr "Full Width"#: lambda/metaboxes/lambda.metapanel.php:679#: lambda/metaboxes/lambda.metapanel.php:2656#@ Nevadamsgid "Excerpt length"msgstr "Excerpt length"#: lambda/metaboxes/lambda.metapanel.php:681#: lambda/metaboxes/lambda.metapanel.php:2658#@ Nevadamsgid "for example: 55"msgstr "for example: 55"#: lambda/metaboxes/lambda.metapanel.php:684#: lambda/metaboxes/lambda.metapanel.php:2661#@ Nevadamsgid "Blog length"msgstr "Blog length"#: lambda/metaboxes/lambda.metapanel.php:686#: lambda/metaboxes/lambda.metapanel.php:2663#@ Nevadamsgid "how many items to display? for example: 6"msgstr "how many items to display? for example: 6"#: lambda/metaboxes/lambda.metapanel.php:691#: lambda/metaboxes/lambda.metapanel.php:2666#@ Nevadamsgid "Exclude Post (optional)"msgstr "Exclude Post (optional)"#: lambda/metaboxes/lambda.metapanel.php:698#: lambda/metaboxes/lambda.metapanel.php:2674#@ Nevadamsgid "Choose posts to exclude"msgstr "Choose posts to exclude"#: lambda/metaboxes/lambda.metapanel.php:714#: lambda/metaboxes/lambda.metapanel.php:739#: lambda/metaboxes/lambda.metapanel.php:2687#: lambda/metaboxes/lambda.metapanel.php:2713#@ Nevadamsgid "use shift or control to select multiple items"msgstr "use shift or control to select multiple items"#: lambda/metaboxes/lambda.metapanel.php:719#: lambda/metaboxes/lambda.metapanel.php:2692#@ Nevadamsgid "Show only Posts of this category (optional)"msgstr "Show only Posts of this category (optional)"#: lambda/metaboxes/lambda.metapanel.php:726#: lambda/metaboxes/lambda.metapanel.php:2700#@ Nevadamsgid "Choose"msgstr "Choose"#: lambda/metaboxes/lambda.metapanel.php:735#: lambda/metaboxes/lambda.metapanel.php:2709#@ Nevadamsgid "No Categories Available"msgstr "No Categories Available"#: lambda/metaboxes/lambda.metapanel.php:752#: lambda/metaboxes/lambda.metapanel.php:1786#@ Nevadamsgid "Address to display"msgstr "Address to display"#: lambda/metaboxes/lambda.metapanel.php:754#: lambda/metaboxes/lambda.metapanel.php:1788#@ Nevadamsgid "for example: 100 Biscayne Blvd. Florida 33148"msgstr "for example: 100 Biscayne Blvd. Florida 33148"#: lambda/metaboxes/lambda.metapanel.php:757#: lambda/metaboxes/lambda.metapanel.php:1791#@ Nevadamsgid "Zoom"msgstr "Zoom"#: lambda/metaboxes/lambda.metapanel.php:759#: lambda/metaboxes/lambda.metapanel.php:1793#@ Nevadamsgid "for example: 14"msgstr "for example: 14"#: lambda/metaboxes/lambda.metapanel.php:762#: lambda/metaboxes/lambda.metapanel.php:1796#@ Nevadamsgid "Map height"msgstr "Map height"#: lambda/metaboxes/lambda.metapanel.php:764#: lambda/metaboxes/lambda.metapanel.php:1798#@ Nevadamsgid "for example: 300"msgstr "for example: 300"#: lambda/metaboxes/lambda.metapanel.php:777#: lambda/metaboxes/lambda.metapanel.php:3142#@ Nevadamsgid "CTA Headline"msgstr "CTA Headline"#: lambda/metaboxes/lambda.metapanel.php:779#: lambda/metaboxes/lambda.metapanel.php:3144#@ Nevadamsgid "Headline for CTA Field"msgstr "Headline for CTA Field"#: lambda/metaboxes/lambda.metapanel.php:784#: lambda/metaboxes/lambda.metapanel.php:789#: lambda/metaboxes/lambda.metapanel.php:1668#: lambda/metaboxes/lambda.metapanel.php:3092#: lambda/metaboxes/lambda.metapanel.php:3096#: lambda/metaboxes/lambda.metapanel.php:3149#: lambda/metaboxes/lambda.metapanel.php:3154#: lambda/metaboxes/lambda.metapanel.php:3492#: lambda/metaboxes/lambda.metapanel.php:3496#@ Nevadamsgid "optional"msgstr "optional"#: lambda/metaboxes/lambda.metapanel.php:787#: lambda/metaboxes/lambda.metapanel.php:3152#: lambda/metaboxes/lambda.slider.php:350#: lambda/slidermanager/index.php:610#: lambda/slidermanager/lambda.ajax.class.php:92#: lambda/slidermanager/lambda.slider.init.php:142#@ Nevadamsgid "Buttonlink"msgstr "Buttonlink"#: lambda/metaboxes/lambda.metapanel.php:840#@ Nevadamsgid "Sidebar Settings"msgstr "Sidebar Settings"#: lambda/metaboxes/lambda.metapanel.php:845#@ Nevadamsgid "Choose Main Sidebar"msgstr "Choose Main Sidebar"#: lambda/metaboxes/lambda.metapanel.php:861#@ Nevadamsgid "overwrites the default sidebar"msgstr "overwrites the default sidebar"#: lambda/metaboxes/lambda.metapanel.php:865#@ Nevadamsgid "Choose Second Sidebar"msgstr "Choose Second Sidebar"#: lambda/metaboxes/lambda.metapanel.php:881#@ Nevadamsgid "only available when you choose <br /> Sidebar Alignement both"msgstr "only available when you choose <br /> Sidebar Alignement both"#: lambda/metaboxes/lambda.metapanel.php:885#@ Nevadamsgid "Sidebar Alignement"msgstr "Sidebar Alignement"#: lambda/metaboxes/lambda.metapanel.php:889#@ Nevadamsgid "right"msgstr "right"#: lambda/metaboxes/lambda.metapanel.php:890#@ Nevadamsgid "left"msgstr "left"#: lambda/metaboxes/lambda.metapanel.php:891#@ Nevadamsgid "both"msgstr "both"#: lambda/metaboxes/lambda.metapanel.php:893#@ Nevadamsgid "optional - not available in all templates!"msgstr "optional - not available in all templates!"#: lambda/metaboxes/lambda.metapanel.php:905#@ Nevadamsgid "Show Hide Author Box"msgstr "Show Hide Author Box"#: lambda/metaboxes/lambda.metapanel.php:954#@ Nevadamsgid "Main Background Settings"msgstr "Main Background Settings"#: lambda/metaboxes/lambda.metapanel.php:955#@ Nevadamsgid "Please note: This option will only take effect on the boxed layout"msgstr "Please note: This option will only take effect on the boxed layout"#: lambda/metaboxes/lambda.metapanel.php:964#: lambda/metaboxes/lambda.slider.php:458#@ Nevadamsgid "Choose Background Type"msgstr "Choose Background Type"#: lambda/metaboxes/lambda.metapanel.php:965#@ Nevadamsgid "Solid Color"msgstr "Solid Color"#: lambda/metaboxes/lambda.metapanel.php:966#: lambda/metaboxes/lambda.slider.php:460#@ Nevadamsgid "Background Pattern"msgstr "Background Pattern"#: lambda/metaboxes/lambda.metapanel.php:967#@ Nevadamsgid "FullSize Image (upload)"msgstr "FullSize Image (upload)"#: lambda/metaboxes/lambda.metapanel.php:968#: lambda/metaboxes/lambda.slider.php:461#@ Nevadamsgid "Background Texture"msgstr "Background Texture"#: lambda/metaboxes/lambda.metapanel.php:969#@ Nevadamsgid "Background Slider"msgstr "Background Slider"#: lambda/metaboxes/lambda.metapanel.php:1008#@ Nevadamsgid "a solid backgroundcolor"msgstr "a solid backgroundcolor"#: lambda/metaboxes/lambda.metapanel.php:1052#@ Nevadamsgid "Image Size should be 1600x900"msgstr "Image Size should be 1600x900"#: lambda/metaboxes/lambda.metapanel.php:1054#: lambda/metaboxes/lambda.metapanel.php:1662#: lambda/metaboxes/lambda.metapanel.php:1987#: lambda/metaboxes/lambda.metapanel.php:3086#: lambda/metaboxes/lambda.metapanel.php:3486#: lambda/metaboxes/lambda.slider.php:550#@ Nevadamsgid "Image URL"msgstr "Image URL"#: lambda/metaboxes/lambda.metapanel.php:1098#@ Nevadamsgid "Choose Backgroundslider"msgstr "Choose Backgroundslider"#: lambda/metaboxes/lambda.metapanel.php:1150#: lambda/metaboxes/lambda.metapanel.php:2509#@ Nevadamsgid "Portfolio Settings"msgstr "Portfolio Settings"#: lambda/metaboxes/lambda.metapanel.php:1160#@ Nevadamsgid "Choose Project Types"msgstr "Choose Project Types"#: lambda/metaboxes/lambda.metapanel.php:1181#@ Nevadamsgid "show only projects of the checked type in this portfolio page"msgstr "show only projects of the checked type in this portfolio page"#: lambda/metaboxes/lambda.metapanel.php:1192#@ Nevadamsgid "Portfolio 2 Column"msgstr "Portfolio 2 Column"#: lambda/metaboxes/lambda.metapanel.php:1195#@ Nevadamsgid "Portfolio 3 Column"msgstr "Portfolio 3 Column"#: lambda/metaboxes/lambda.metapanel.php:1198#@ Nevadamsgid "Portfolio 4 Column"msgstr "Portfolio 4 Column"#: lambda/metaboxes/lambda.metapanel.php:1220#@ Nevadamsgid "Show / Hide Filter"msgstr "Show / Hide Filter"#: lambda/metaboxes/lambda.metapanel.php:1233#@ Nevadamsgid "Portfolio Items per Page"msgstr "Portfolio Items per Page"#: lambda/metaboxes/lambda.metapanel.php:1236#@ Nevadamsgid "default: 9"msgstr "default: 9"#: lambda/metaboxes/lambda.metapanel.php:1239#@ Nevadamsgid "Pagination: previous text"msgstr "Pagination: previous text"#: lambda/metaboxes/lambda.metapanel.php:1242#@ Nevadamsgid "Text for \"prev works\" link."msgstr "Text for \"prev works\" link."#: lambda/metaboxes/lambda.metapanel.php:1245#@ Nevadamsgid "Pagination: next text"msgstr "Pagination: next text"#: lambda/metaboxes/lambda.metapanel.php:1248#@ Nevadamsgid "Text for \"next works\" link."msgstr "Text for \"next works\" link."#: lambda/metaboxes/lambda.metapanel.php:1254#@ Nevadamsgid "Portfolio Item Title"msgstr "Portfolio Item Title"#: lambda/metaboxes/lambda.metapanel.php:1321#@ Nevadamsgid "Share a link!"msgstr "Share a link!"#: lambda/metaboxes/lambda.metapanel.php:1342#@ Nevadamsgid "Share a Quote!"msgstr "Share a Quote!"#: lambda/metaboxes/lambda.metapanel.php:1358#@ Nevadamsgid "Video Details"msgstr "Video Details"#: lambda/metaboxes/lambda.metapanel.php:1414#: lambda/metaboxes/lambda.metapanel.php:1541#@ Nevadamsgid "Audio Details"msgstr "Audio Details"#: lambda/metaboxes/lambda.metapanel.php:1422#: lambda/metaboxes/lambda.metapanel.php:1549#@ Nevadamsgid "The URL to Soundcloud"msgstr "The URL to Soundcloud"#: lambda/metaboxes/lambda.metapanel.php:1424#: lambda/metaboxes/lambda.metapanel.php:1551#@ Nevadamsgid "or"msgstr "or"#: lambda/metaboxes/lambda.metapanel.php:1426#: lambda/metaboxes/lambda.metapanel.php:1553#@ Nevadamsgid "MP3 URL"msgstr "MP3 URL"#: lambda/metaboxes/lambda.metapanel.php:1429#: lambda/metaboxes/lambda.metapanel.php:1556#@ Nevadamsgid "URL to MP3 file"msgstr "URL to MP3 file"#: lambda/metaboxes/lambda.metapanel.php:1431#: lambda/metaboxes/lambda.metapanel.php:1558#@ Nevadamsgid "OGG URL"msgstr "OGG URL"#: lambda/metaboxes/lambda.metapanel.php:1434#: lambda/metaboxes/lambda.metapanel.php:1561#@ Nevadamsgid "URL to OGG file"msgstr "URL to OGG file"#: lambda/metaboxes/lambda.metapanel.php:1446#: lambda/metaboxes/lambda.metapanel.php:1453#: lambda/metaboxes/lambda.metapanel.php:1460#: lambda/metaboxes/lambda.metapanel.php:1467#@ Nevadamsgid "No Post Settings available for this Format!"msgstr "No Post Settings available for this Format!"#: lambda/metaboxes/lambda.metapanel.php:1497#@ Nevadamsgid "Project Items"msgstr "Project Items"#: lambda/metaboxes/lambda.metapanel.php:1507#@ Nevadamsgid "Project Type"msgstr "Project Type"#: lambda/metaboxes/lambda.metapanel.php:1513#@ Nevadamsgid "Portfolio Description Title"msgstr "Portfolio Description Title"#: lambda/metaboxes/lambda.metapanel.php:1516#@ Nevadamsgid "displayed above the portfolio description"msgstr "displayed above the portfolio description"#: lambda/metaboxes/lambda.metapanel.php:1522#@ Nevadamsgid "Choose Portfolio Type"msgstr "Choose Portfolio Type"#: lambda/metaboxes/lambda.metapanel.php:1523#@ Nevadamsgid "Audio"msgstr "Audio"#: lambda/metaboxes/lambda.metapanel.php:1525#: lambda/metaboxes/lambda.slider.php:46#@ Nevadamsgid "Slider"msgstr "Slider"#: lambda/metaboxes/lambda.metapanel.php:1526#@ Nevadamsgid "Single Image"msgstr "Single Image"#: lambda/metaboxes/lambda.metapanel.php:1575#@ Nevadamsgid "Manage your Video"msgstr "Manage your Video"#: lambda/metaboxes/lambda.metapanel.php:1576#@ Nevadamsgid "to build up a video on the project page!"msgstr "to build up a video on the project page!"#: lambda/metaboxes/lambda.metapanel.php:1641#@ Nevadamsgid "Manage your Project Items"msgstr "Manage your Project Items"#: lambda/metaboxes/lambda.metapanel.php:1642#@ Nevadamsgid "to build up a gallery /slider on the project page!"msgstr "to build up a gallery /slider on the project page!"#: lambda/metaboxes/lambda.metapanel.php:1654#@ Nevadamsgid "new slide"msgstr "new slide"#: lambda/metaboxes/lambda.metapanel.php:1665#: lambda/metaboxes/lambda.metapanel.php:1725#: lambda/metaboxes/lambda.metapanel.php:3089#: lambda/metaboxes/lambda.metapanel.php:3290#: lambda/metaboxes/lambda.metapanel.php:3489#@ Nevadamsgid "Remove"msgstr "Remove"#: lambda/metaboxes/lambda.metapanel.php:1668#: lambda/metaboxes/lambda.metapanel.php:3096#: lambda/metaboxes/lambda.metapanel.php:3496#@ Nevadamsgid "Set \"alt\" (for SEO)"msgstr "Set \"alt\" (for SEO)"#: lambda/metaboxes/lambda.metapanel.php:1679#@ Nevadamsgid "Add New Item"msgstr "Add New Item"#: lambda/metaboxes/lambda.metapanel.php:1682#@ Nevadamsgid "Remove All Items"msgstr "Remove All Items"#: lambda/metaboxes/lambda.metapanel.php:1693#@ Nevadamsgid "Work Description"msgstr "Work Description"#: lambda/metaboxes/lambda.metapanel.php:1698#@ Nevadamsgid "Work Description Title"msgstr "Work Description Title"#: lambda/metaboxes/lambda.metapanel.php:1701#@ Nevadamsgid "displayed above the work description"msgstr "displayed above the work description"#: lambda/metaboxes/lambda.metapanel.php:1704#@ Nevadamsgid "Add Work Description"msgstr "Add Work Description"#: lambda/metaboxes/lambda.metapanel.php:1711#@ Nevadamsgid "new work description"msgstr "new work description"#: lambda/metaboxes/lambda.metapanel.php:1717#@ Nevadamsgid "Title and Name / Description"msgstr "Title and Name / Description"#: lambda/metaboxes/lambda.metapanel.php:1724#@ Nevadamsgid "Description is a link"msgstr "Description is a link"#: lambda/metaboxes/lambda.metapanel.php:1733#@ Nevadamsgid "Add Description"msgstr "Add Description"#: lambda/metaboxes/lambda.metapanel.php:1759#@ Nevadamsgid "Contact Form Settings & Builder"msgstr "Contact Form Settings & Builder"#: lambda/metaboxes/lambda.metapanel.php:1768#@ Nevadamsgid "Google Maps"msgstr "Google Maps"#: lambda/metaboxes/lambda.metapanel.php:1775#@ Nevadamsgid "show google map above contact form"msgstr "show google map above contact form"#: lambda/metaboxes/lambda.metapanel.php:1780#@ Nevadamsgid "Map Title"msgstr "Map Title"#: lambda/metaboxes/lambda.metapanel.php:1782#@ Nevadamsgid "Insert title for Google Map"msgstr "Insert title for Google Map"#: lambda/metaboxes/lambda.metapanel.php:1803#@ Nevadamsgid "Email Settings"msgstr "Email Settings"#: lambda/metaboxes/lambda.metapanel.php:1810#@ Nevadamsgid "Email Recipient"msgstr "Email Recipient"#: lambda/metaboxes/lambda.metapanel.php:1812#@ Nevadamsgid "Send email to a specified email (leave empty to send an email to Admin)"msgstr "Send email to a specified email (leave empty to send an email to Admin)"#: lambda/metaboxes/lambda.metapanel.php:1818#@ Nevadamsgid "Email subject"msgstr "Email subject"#: lambda/metaboxes/lambda.metapanel.php:1825#@ Nevadamsgid "Text on submit button"msgstr "Text on submit button"#: lambda/metaboxes/lambda.metapanel.php:1834#@ Nevadamsgid "Drag and Drop Elements to change the order! Click on item to unroll"msgstr "Drag and Drop Elements to change the order! Click on item to unroll"#: lambda/metaboxes/lambda.metapanel.php:1841#@ Nevadamsgid "Contact Form Title"msgstr "Contact Form Title"#: lambda/metaboxes/lambda.metapanel.php:1854#@ Nevadamsgid "new field"msgstr "new field"#: lambda/metaboxes/lambda.metapanel.php:1859#@ Nevadamsgid "Field Name"msgstr "Field Name"#: lambda/metaboxes/lambda.metapanel.php:1861#@ Nevadamsgid "Choose a Fieldname, for example: Name, Website, Message etc."msgstr "Choose a Fieldname, for example: Name, Website, Message etc."#: lambda/metaboxes/lambda.metapanel.php:1867#@ Nevadamsgid "Field Type"msgstr "Field Type"#: lambda/metaboxes/lambda.metapanel.php:1880#@ Nevadamsgid "Enter Values"msgstr "Enter Values"#: lambda/metaboxes/lambda.metapanel.php:1882#@ Nevadamsgid "semicolon delimited for example: Yes;No or Los Angels;San Francisco"msgstr "semicolon delimited for example: Yes;No or Los Angels;San Francisco"#: lambda/metaboxes/lambda.metapanel.php:1889#@ Nevadamsgid "this field is required"msgstr "this field is required"#: lambda/metaboxes/lambda.metapanel.php:1894#@ Nevadamsgid "Error Message"msgstr "Error Message"#: lambda/metaboxes/lambda.metapanel.php:1897#@ Nevadamsgid "Enter custom error message"msgstr "Enter custom error message"#: lambda/metaboxes/lambda.metapanel.php:1901#@ Nevadamsgid "min length"msgstr "min length"#: lambda/metaboxes/lambda.metapanel.php:1904#@ Nevadamsgid "Min length of input (not available for radio / select or checkbox)"msgstr "Min length of input (not available for radio / select or checkbox)"#: lambda/metaboxes/lambda.metapanel.php:1908#@ Nevadamsgid "Delete Field"msgstr "Delete Field"#: lambda/metaboxes/lambda.metapanel.php:1917#@ Nevadamsgid "add new field"msgstr "add new field"#: lambda/metaboxes/lambda.metapanel.php:1945#@ Nevadamsgid "Manage Template"msgstr "Manage Template"#: lambda/metaboxes/lambda.metapanel.php:1956#@ Nevadamsgid "Add Team Member"msgstr "Add Team Member"#: lambda/metaboxes/lambda.metapanel.php:1966#@ Nevadamsgid "new member"msgstr "new member"#: lambda/metaboxes/lambda.metapanel.php:1971#@ Nevadamsgid "Member Name"msgstr "Member Name"#: lambda/metaboxes/lambda.metapanel.php:1975#@ Nevadamsgid "Member Title"msgstr "Member Title"#: lambda/metaboxes/lambda.metapanel.php:1985#@ Nevadamsgid "Image Size should be 140x140"msgstr "Image Size should be 140x140"#: lambda/metaboxes/lambda.metapanel.php:1994#@ Nevadamsgid "Member Email"msgstr "Member Email"#: lambda/metaboxes/lambda.metapanel.php:1998#@ Nevadamsgid "Member Website"msgstr "Member Website"#: lambda/metaboxes/lambda.metapanel.php:2002#@ Nevadamsgid "Member Twitter Account"msgstr "Member Twitter Account"#: lambda/metaboxes/lambda.metapanel.php:2006#@ Nevadamsgid "Member Facebook Profile"msgstr "Member Facebook Profile"#: lambda/metaboxes/lambda.metapanel.php:2010#@ Nevadamsgid "Member GogolePlus Account"msgstr "Member GogolePlus Account"#: lambda/metaboxes/lambda.metapanel.php:2026#@ Nevadamsgid "Delete Member"msgstr "Delete Member"#: lambda/metaboxes/lambda.metapanel.php:2033#@ Nevadamsgid "add new member"msgstr "add new member"#: lambda/metaboxes/lambda.metapanel.php:2060#@ Nevadamsgid "Manage FAQ"msgstr "Manage FAQ"#: lambda/metaboxes/lambda.metapanel.php:2070#@ Nevadamsgid "Add FAQ Item"msgstr "Add FAQ Item"#: lambda/metaboxes/lambda.metapanel.php:2080#@ Nevadamsgid "new question"msgstr "new question"#: lambda/metaboxes/lambda.metapanel.php:2085#@ Nevadamsgid "Question"msgstr "Question"#: lambda/metaboxes/lambda.metapanel.php:2095#@ Nevadamsgid "Delete FAQ"msgstr "Delete FAQ"#: lambda/metaboxes/lambda.metapanel.php:2104#@ Nevadamsgid "add new question"msgstr "add new question"#: lambda/metaboxes/lambda.metapanel.php:2110#@ Nevadamsgid "Additional Content to display beneath the FAQ"msgstr "Additional Content to display beneath the FAQ"#: lambda/metaboxes/lambda.metapanel.php:2155#@ Nevadamsgid "Manage Home Site"msgstr "Manage Home Site"#: lambda/metaboxes/lambda.metapanel.php:2186#: lambda/metaboxes/lambda.metapanel.php:2212#@ Nevadamsgid "Service Columns"msgstr "Service Columns"#: lambda/metaboxes/lambda.metapanel.php:2188#@ Nevadamsgid "Blog Excerpt"msgstr "Blog Excerpt"#: lambda/metaboxes/lambda.metapanel.php:2189#: lambda/metaboxes/lambda.metapanel.php:2730#@ Nevadamsgid "Toggles & Testimonials"msgstr "Toggles & Testimonials"#: lambda/metaboxes/lambda.metapanel.php:2192#@ Nevadamsgid "Element Order"msgstr "Element Order"#: lambda/metaboxes/lambda.metapanel.php:2219#@ Nevadamsgid "Activate Service Columns"msgstr "Activate Service Columns"#: lambda/metaboxes/lambda.metapanel.php:2244#@ Nevadamsgid "Activate Service Column 1"msgstr "Activate Service Column 1"#: lambda/metaboxes/lambda.metapanel.php:2302#@ Nevadamsgid "Activate Service Column 2"msgstr "Activate Service Column 2"#: lambda/metaboxes/lambda.metapanel.php:2360#@ Nevadamsgid "Activate Service Column 3"msgstr "Activate Service Column 3"#: lambda/metaboxes/lambda.metapanel.php:2418#@ Nevadamsgid "Activate Service Column 4"msgstr "Activate Service Column 4"#: lambda/metaboxes/lambda.metapanel.php:2491#@ Nevadamsgid "Activate Portfolio"msgstr "Activate Portfolio"#: lambda/metaboxes/lambda.metapanel.php:2576#@ Nevadamsgid "Blog Intro Box"msgstr "Blog Intro Box"#: lambda/metaboxes/lambda.metapanel.php:2583#@ Nevadamsgid "Activate latest Blog?"msgstr "Activate latest Blog?"#: lambda/metaboxes/lambda.metapanel.php:2737#@ Nevadamsgid "Activate Toggles & Testimonials"msgstr "Activate Toggles & Testimonials"#: lambda/metaboxes/lambda.metapanel.php:2754#@ Nevadamsgid "Service Headline"msgstr "Service Headline"#: lambda/metaboxes/lambda.metapanel.php:2756#@ Nevadamsgid "headline above service toggles"msgstr "headline above service toggles"#: lambda/metaboxes/lambda.metapanel.php:2761#@ Nevadamsgid "Toggle Content Type"msgstr "Toggle Content Type"#: lambda/metaboxes/lambda.metapanel.php:2763#: lambda/metaboxes/lambda.metapanel.php:3025#@ Nevadamsgid "Select content ..."msgstr "Select content ..."#: lambda/metaboxes/lambda.metapanel.php:2764#@ Nevadamsgid "from an existing page (Service Template)"msgstr "from an existing page (Service Template)"#: lambda/metaboxes/lambda.metapanel.php:2765#@ Nevadamsgid "create own toggles"msgstr "create own toggles"#: lambda/metaboxes/lambda.metapanel.php:2772#: lambda/metaboxes/lambda.metapanel.php:3035#@ Nevadamsgid "Load last X client logos"msgstr "Load last X client logos"#: lambda/metaboxes/lambda.metapanel.php:2777#@ Nevadamsgid "Choose Service Page"msgstr "Choose Service Page"#: lambda/metaboxes/lambda.metapanel.php:2805#: lambda/metaboxes/lambda.metapanel.php:3068#@ Nevadamsgid "Choose Services from an existing <br /> Service Template"msgstr "Choose Services from an existing <br /> Service Template"#: lambda/metaboxes/lambda.metapanel.php:2815#: lambda/metaboxes/lambda.metapanel.php:3368#@ Nevadamsgid "new tab"msgstr "new tab"#: lambda/metaboxes/lambda.metapanel.php:2820#: lambda/metaboxes/lambda.metapanel.php:3373#@ Nevadamsgid "Tab Name"msgstr "Tab Name"#: lambda/metaboxes/lambda.metapanel.php:2833#: lambda/metaboxes/lambda.metapanel.php:2939#: lambda/metaboxes/lambda.metapanel.php:3385#: lambda/slidermanager/index.php:133#: lambda/tablemanager/index.php:103#@ Nevadamsgid "Delete"msgstr "Delete"#: lambda/metaboxes/lambda.metapanel.php:2841#: lambda/metaboxes/lambda.metapanel.php:3107#@ Nevadamsgid "add new tab"msgstr "add new tab"#: lambda/metaboxes/lambda.metapanel.php:2848#@ Nevadamsgid "Testimonial Headline"msgstr "Testimonial Headline"#: lambda/metaboxes/lambda.metapanel.php:2850#@ Nevadamsgid "headline above testimonials"msgstr "headline above testimonials"#: lambda/metaboxes/lambda.metapanel.php:2866#@ Nevadamsgid "Testimonial Type"msgstr "Testimonial Type"#: lambda/metaboxes/lambda.metapanel.php:2868#@ Nevadamsgid "Select testimonial type ..."msgstr "Select testimonial type ..."#: lambda/metaboxes/lambda.metapanel.php:2869#@ Nevadamsgid "from an existing page"msgstr "from an existing page"#: lambda/metaboxes/lambda.metapanel.php:2870#@ Nevadamsgid "create own testimonials"msgstr "create own testimonials"#: lambda/metaboxes/lambda.metapanel.php:2875#@ Nevadamsgid "Choose Testimonial Page"msgstr "Choose Testimonial Page"#: lambda/metaboxes/lambda.metapanel.php:2903#@ Nevadamsgid "Choose Testimonials from an existing Testimonial Template"msgstr "Choose Testimonials from an existing Testimonial Template"#: lambda/metaboxes/lambda.metapanel.php:2913#: lambda/metaboxes/lambda.metapanel.php:3263#@ Nevadamsgid "new testimonial"msgstr "new testimonial"#: lambda/metaboxes/lambda.metapanel.php:2927#: lambda/metaboxes/lambda.metapanel.php:3273#@ Nevadamsgid "Image size should be 50x50"msgstr "Image size should be 50x50"#: lambda/metaboxes/lambda.metapanel.php:2932#@ Nevadamsgid "Testimonial"msgstr "Testimonial"#: lambda/metaboxes/lambda.metapanel.php:2947#@ Nevadamsgid "Add new testimonial"msgstr "Add new testimonial"#: lambda/metaboxes/lambda.metapanel.php:2966#@ Nevadamsgid "Client Section"msgstr "Client Section"#: lambda/metaboxes/lambda.metapanel.php:2973#@ Nevadamsgid "Activate Clients"msgstr "Activate Clients"#: lambda/metaboxes/lambda.metapanel.php:2990#@ Nevadamsgid "Client Headline"msgstr "Client Headline"#: lambda/metaboxes/lambda.metapanel.php:2992#@ Nevadamsgid "headline above client section"msgstr "headline above client section"#: lambda/metaboxes/lambda.metapanel.php:2997#: lambda/metaboxes/lambda.metapanel.php:3435#@ Nevadamsgid "Client - 4 Column"msgstr "Client - 4 Column"#: lambda/metaboxes/lambda.metapanel.php:3000#: lambda/metaboxes/lambda.metapanel.php:3438#@ Nevadamsgid "Client - 5 Column"msgstr "Client - 5 Column"#: lambda/metaboxes/lambda.metapanel.php:3007#@ Nevadamsgid "Client Column Layout"msgstr "Client Column Layout"#: lambda/metaboxes/lambda.metapanel.php:3023#@ Nevadamsgid "Client Content Type"msgstr "Client Content Type"#: lambda/metaboxes/lambda.metapanel.php:3026#@ Nevadamsgid "from an existing page (Client Template)"msgstr "from an existing page (Client Template)"#: lambda/metaboxes/lambda.metapanel.php:3027#@ Nevadamsgid "create own client list"msgstr "create own client list"#: lambda/metaboxes/lambda.metapanel.php:3040#@ Nevadamsgid "Choose Client Page"msgstr "Choose Client Page"#: lambda/metaboxes/lambda.metapanel.php:3092#: lambda/metaboxes/lambda.metapanel.php:3492#@ Nevadamsgid "Client URL"msgstr "Client URL"#: lambda/metaboxes/lambda.metapanel.php:3126#@ Nevadamsgid "Activate Call to Action Box"msgstr "Activate Call to Action Box"#: lambda/metaboxes/lambda.metapanel.php:3174#@ Nevadamsgid "Order the Start Elements"msgstr "Order the Start Elements"#: lambda/metaboxes/lambda.metapanel.php:3243#@ Nevadamsgid "Manage Testimonial Template"msgstr "Manage Testimonial Template"#: lambda/metaboxes/lambda.metapanel.php:3253#@ Nevadamsgid "Manage Testimonial"msgstr "Manage Testimonial"#: lambda/metaboxes/lambda.metapanel.php:3278#@ Nevadamsgid "Testimonial Author Name"msgstr "Testimonial Author Name"#: lambda/metaboxes/lambda.metapanel.php:3281#@ Nevadamsgid "Testimonial Comment"msgstr "Testimonial Comment"#: lambda/metaboxes/lambda.metapanel.php:3298#@ Nevadamsgid "add new testimonial"msgstr "add new testimonial"#: lambda/metaboxes/lambda.metapanel.php:3304#@ Nevadamsgid "Additional Content to display beneath the Testimonials"msgstr "Additional Content to display beneath the Testimonials"#: lambda/metaboxes/lambda.metapanel.php:3347#@ Nevadamsgid "Manage Service Template"msgstr "Manage Service Template"#: lambda/metaboxes/lambda.metapanel.php:3358#@ Nevadamsgid "Manage Tabs"msgstr "Manage Tabs"#: lambda/metaboxes/lambda.metapanel.php:3393#@ Nevadamsgid "add new service tab"msgstr "add new service tab"#: lambda/metaboxes/lambda.metapanel.php:3418#@ Nevadamsgid "Manage Client Template"msgstr "Manage Client Template"#: lambda/metaboxes/lambda.metapanel.php:3428#@ Nevadamsgid "Manage Layout"msgstr "Manage Layout"#: lambda/metaboxes/lambda.metapanel.php:3464#@ Nevadamsgid "Manage Clients"msgstr "Manage Clients"#: lambda/metaboxes/lambda.metapanel.php:3469#@ Nevadamsgid "We recommend to use identical logo sizes for each client"msgstr "We recommend to use identical logo sizes for each client"#: lambda/metaboxes/lambda.metapanel.php:3508#@ Nevadamsgid "Add New Client"msgstr "Add New Client"#: lambda/metaboxes/lambda.metapanel.php:3511#@ Nevadamsgid "Remove All Clients"msgstr "Remove All Clients"#: lambda/metaboxes/lambda.slider.php:31#: lambda/metaboxes/lambda.slider.php:43#@ Nevadamsgid "Choose Header Type"msgstr "Choose Header Type"#: lambda/metaboxes/lambda.slider.php:44#: lambda/metaboxes/lambda.slider.php:81#: lambda/metaboxes/lambda.slider.php:87#@ Nevadamsgid "Static Image"msgstr "Static Image"#: lambda/metaboxes/lambda.slider.php:45#: lambda/metaboxes/lambda.slider.php:139#@ Nevadamsgid "Static Video"msgstr "Static Video"#: lambda/metaboxes/lambda.slider.php:47#@ Nevadamsgid "Static Video + Text"msgstr "Static Video + Text"#: lambda/metaboxes/lambda.slider.php:87#@ Nevadamsgid "This Image should be at least 980px wide"msgstr "This Image should be at least 980px wide"#: lambda/metaboxes/lambda.slider.php:99#@ Nevadamsgid "URL (optional)"msgstr "URL (optional)"#: lambda/metaboxes/lambda.slider.php:105#@ Nevadamsgid "Caption (optional)"msgstr "Caption (optional)"#: lambda/metaboxes/lambda.slider.php:113#@ Nevadamsgid "Image width"msgstr "Image width"#: lambda/metaboxes/lambda.slider.php:119#@ Nevadamsgid "centered"msgstr "centered"#: lambda/metaboxes/lambda.slider.php:121#@ Nevadamsgid "fullwidth"msgstr "fullwidth"#: lambda/metaboxes/lambda.slider.php:123#@ Nevadamsgid "only takes effect on full width layouts!"msgstr "only takes effect on full width layouts!"#: lambda/metaboxes/lambda.slider.php:206#@ Nevadamsgid "Static Slider"msgstr "Static Slider"#: lambda/metaboxes/lambda.slider.php:257#@ Nevadamsgid "Static Video & Text"msgstr "Static Video & Text"#: lambda/metaboxes/lambda.slider.php:300#@ Nevadamsgid "Headline Color"msgstr "Headline Color"#: lambda/metaboxes/lambda.slider.php:305#: lambda/widgets/lambda_video.php:24#@ Nevadamsgid "Text"msgstr "Text"#: lambda/metaboxes/lambda.slider.php:341#@ Nevadamsgid "Textcolor"msgstr "Textcolor"#: lambda/metaboxes/lambda.slider.php:421#@ Nevadamsgid "Hide Teaser?"msgstr "Hide Teaser?"#: lambda/metaboxes/lambda.slider.php:449#@ Nevadamsgid "Background Settings"msgstr "Background Settings"#: lambda/metaboxes/lambda.slider.php:459#@ Nevadamsgid "Image or Color"msgstr "Image or Color"#: lambda/metaboxes/lambda.taxonomy.php:2#@ Nevadamsgid "SortID"msgstr "SortID"#: lambda/slidermanager/index.php:113#@ Nevadamsgid "Manage your Sliders"msgstr "Manage your Sliders"#: lambda/slidermanager/index.php:123#@ Nevadamsgid "List of created sliders"msgstr "List of created sliders"#: lambda/slidermanager/index.php:128#: lambda/tablemanager/index.php:99#@ Nevadamsgid "ID"msgstr "ID"#: lambda/slidermanager/index.php:129#: lambda/slidermanager/index.php:203#@ Nevadamsgid "Slider Name"msgstr "Slider Name"#: lambda/slidermanager/index.php:130#@ Nevadamsgid "Slider Type"msgstr "Slider Type"#: lambda/slidermanager/index.php:131#: lambda/tablemanager/index.php:101#: lambda/tinymce/lambda.sc.generator.php:345#@ Nevadamsgid "Shortcode"msgstr "Shortcode"#: lambda/slidermanager/index.php:132#: lambda/tablemanager/index.php:102#: loop-page.php:38#: loop-pagebuilder.php:110#: loop-pagecreator.php:120#: loop-portfolio.php:134#: loop-single.php:87#: loop-sliderpage.php:23#: loop.php:159#: loop.php:272#: loop.php:398#: loop.php:478#: loop.php:574#: loop.php:677#@ Nevadamsgid "Edit"msgstr "Edit"#: lambda/slidermanager/index.php:200#@ Nevadamsgid "Enter Slider Name"msgstr "Enter Slider Name"#: lambda/slidermanager/index.php:206#@ Nevadamsgid "Choose Slider Type"msgstr "Choose Slider Type"#: lambda/slidermanager/index.php:211#@ Nevadamsgid "Select Slidertype"msgstr "Select Slidertype"#: lambda/slidermanager/index.php:212#@ Nevadamsgid "Camera Slider"msgstr "Camera Slider"#: lambda/slidermanager/index.php:213#@ Nevadamsgid "superSized Slider"msgstr "superSized Slider"#: lambda/slidermanager/index.php:221#: lambda/tablemanager/index.php:174#@ Nevadamsgid "* Do not use spaces or special characters in the name. This Name is only for internal use!"msgstr "* Do not use spaces or special characters in the name. This Name is only for internal use!"#: lambda/slidermanager/index.php:301#@ Nevadamsgid "Slider deleted"msgstr "Slider deleted"#: lambda/slidermanager/index.php:316#@ Nevadamsgid "Slider deactivated"msgstr "Slider deactivated"#: lambda/slidermanager/index.php:331#@ Nevadamsgid "Slider activated"msgstr "Slider activated"#: lambda/slidermanager/index.php:377#@ Nevadamsgid "Slider Manager"msgstr "Slider Manager"#: lambda/slidermanager/index.php:378#: lambda/slidermanager/index.php:655#: lambda/tablemanager/index.php:282#@ Nevadamsgid "Save Settings"msgstr "Save Settings"#: lambda/slidermanager/index.php:388#@ Nevadamsgid "General Slider Settings"msgstr "General Slider Settings"#: lambda/slidermanager/index.php:392#@ Nevadamsgid "Add Slider Items"msgstr "Add Slider Items"#: lambda/slidermanager/index.php:480#@ Nevadamsgid "Choose Category"msgstr "Choose Category"#: lambda/slidermanager/index.php:487#@ Nevadamsgid "All Categories"msgstr "All Categories"#: lambda/slidermanager/index.php:500#@ Nevadamsgid "Add Slide"msgstr "Add Slide"#: lambda/slidermanager/index.php:524#: lambda/slidermanager/lambda.ajax.class.php:22#: lambda/slidermanager/lambda.slider.init.php:85#@ Nevadamsgid "Choose an Image"msgstr "Choose an Image"#: lambda/slidermanager/index.php:542#: lambda/slidermanager/lambda.ajax.class.php:34#: lambda/slidermanager/lambda.slider.init.php:97#@ Nevadamsgid "or place an embedded video code"msgstr "or place an embedded video code"#: lambda/slidermanager/index.php:547#: lambda/slidermanager/lambda.ajax.class.php:38#: lambda/slidermanager/lambda.slider.init.php:101#@ Nevadamsgid "You can also insert an image if using a video, this will be used as a poster!"msgstr "You can also insert an image if using a video, this will be used as a poster!"#: lambda/slidermanager/index.php:557#: lambda/slidermanager/lambda.ajax.class.php:48#: lambda/slidermanager/lambda.slider.init.php:111#@ Nevadamsgid "Caption Headline"msgstr "Caption Headline"#: lambda/slidermanager/index.php:572#: lambda/slidermanager/lambda.ajax.class.php:60#: lambda/slidermanager/lambda.slider.init.php:122#@ Nevadamsgid "Caption Text"msgstr "Caption Text"#: lambda/slidermanager/lambda.ajax.class.php:27#: lambda/slidermanager/lambda.slider.init.php:90#@ Nevadamsgid "upload"msgstr "upload"#: lambda/slidermanager/lambda.slider.init.php:78#@ Nevadamsgid "New Slide"msgstr "New Slide"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:69#@ Nevadamsgid "Transition Effect"msgstr "Transition Effect"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:70#@ Nevadamsgid "Select your transition effect type"msgstr "Select your transition effect type"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:77#@ Nevadamsgid "Easing Effect"msgstr "Easing Effect"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:78#@ Nevadamsgid "Select your easing effect type"msgstr "Select your easing effect type"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:84#@ Nevadamsgid "Slide Show Height"msgstr "Slide Show Height"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:85#@ Nevadamsgid "here you can type pixels (for instance 300px), a percentage (relative to the width of the slideshow, for instance 50%)"msgstr "here you can type pixels (for instance 300px), a percentage (relative to the width of the slideshow, for instance 50%)"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:91#@ Nevadamsgid "Slide Show Speed"msgstr "Slide Show Speed"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:92#@ Nevadamsgid "milliseconds between the end of the sliding effect and the start of the nex one"msgstr "milliseconds between the end of the sliding effect and the start of the nex one"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:97#@ Nevadamsgid "Animation Speed"msgstr "Animation Speed"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:98#@ Nevadamsgid "length of the sliding effect in milliseconds"msgstr "length of the sliding effect in milliseconds"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:105#@ Nevadamsgid "Loader Style"msgstr "Loader Style"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:106#@ Nevadamsgid "even if you choose \"pie\", old browsers like IE8- can't display it... they will display always a loading bar"msgstr "even if you choose \"pie\", old browsers like IE8- can't display it... they will display always a loading bar"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:113#@ Nevadamsgid "Loader Position"msgstr "Loader Position"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:114#@ Nevadamsgid "choose one of the 4 Positions"msgstr "choose one of the 4 Positions"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:121#@ Nevadamsgid "Loader Opacity"msgstr "Loader Opacity"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:122#@ Nevadamsgid "Change the loader opacity"msgstr "Change the loader opacity"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:129#@ Nevadamsgid "Display Controls on hover?"msgstr "Display Controls on hover?"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:130#@ Nevadamsgid "if true the navigation button (prev, next and play/stop buttons) will be visible on hover state only, if false they will be visible always"msgstr "if true the navigation button (prev, next and play/stop buttons) will be visible on hover state only, if false they will be visible always"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:137#@ Nevadamsgid "Display Bullets?"msgstr "Display Bullets?"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:138#@ Nevadamsgid "If true each slide will create a bullet instead of a thumbnail"msgstr "If true each slide will create a bullet instead of a thumbnail"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:145#@ Nevadamsgid "Display Thumbnails?"msgstr "Display Thumbnails?"#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:146#@ Nevadamsgid "If true the user will see thumbnails as an additional menu when hovering the bullets"msgstr "If true the user will see thumbnails as an additional menu when hovering the bullets"#: lambda/tablemanager/index.php:84#@ Nevadamsgid "Manage your Tables"msgstr "Manage your Tables"#: lambda/tablemanager/index.php:94#@ Nevadamsgid "List of created Tables"msgstr "List of created Tables"#: lambda/tablemanager/index.php:100#: lambda/tablemanager/index.php:167#@ Nevadamsgid "Table Name"msgstr "Table Name"#: lambda/tablemanager/index.php:164#@ Nevadamsgid "Enter Table Name"msgstr "Enter Table Name"#: lambda/tablemanager/index.php:170#@ Nevadamsgid "Add new Table"msgstr "Add new Table"#: lambda/tablemanager/index.php:259#@ Nevadamsgid "Table deleted"msgstr "Table deleted"#: lambda/tablemanager/index.php:279#@ Nevadamsgid "Table Manager"msgstr "Table Manager"#: lambda/tablemanager/index.php:297#@ Nevadamsgid "Activate Column?"msgstr "Activate Column?"#: lambda/tablemanager/index.php:315#@ Nevadamsgid "Column is featured?"msgstr "Column is featured?"#: lambda/tablemanager/index.php:321#@ Nevadamsgid "yes"msgstr "yes"#: lambda/tablemanager/index.php:322#@ Nevadamsgid "no"msgstr "no"#: lambda/tablemanager/index.php:333#@ Nevadamsgid "Column Headline"msgstr "Column Headline"#: lambda/tablemanager/index.php:338#@ Nevadamsgid "Column Price"msgstr "Column Price"#: lambda/tablemanager/index.php:343#@ Nevadamsgid "Price Currency"msgstr "Price Currency"#: lambda/tablemanager/index.php:348#@ Nevadamsgid "Period"msgstr "Period"#: lambda/tablemanager/index.php:353#@ Nevadamsgid "Features"msgstr "Features"#: lambda/tablemanager/index.php:367#@ Nevadamsgid "Add Row"msgstr "Add Row"#: lambda/tablemanager/index.php:374#@ Nevadamsgid "Custom URL"msgstr "Custom URL"#: lambda/themeupdater/class-envato-protected-api.php:67#@ envatomsgid "Please enter your Envato Marketplace Username."msgstr ""#: lambda/themeupdater/class-envato-protected-api.php:71#@ envatomsgid "Please enter your Envato Marketplace API Key."msgstr ""#: lambda/themeupdater/class-envato-protected-api.php:96#@ envatomsgid "The API \"set\" is a required parameter."msgstr ""#: lambda/themeupdater/class-envato-protected-api.php:167#@ envatomsgid "The Envato Marketplace \"item ID\" is a required parameter."msgstr ""#: lambda/themeupdater/class-envato-wordpress-theme-upgrader.php:279#@ envatomsgid "Downloading upgrade package from the Envato API&#8230;"msgstr ""#: lambda/themeupdater/class-envato-wordpress-theme-upgrader.php:290#@ envatomsgid "Downloading install package from the Envato API&#8230;"msgstr ""#: lambda/themeupdater/index.php:55#@ Nevadamsgid "There is a new Version available at Themeforest. We recommend to update the theme!"msgstr "There is a new Version available at Themeforest. We recommend to update the theme!"#: lambda/themeupdater/index.php:61#@ Nevadamsgid "Congratulations! You are running the newest theme version"msgstr "Congratulations! You are running the newest theme version"#: lambda/themeupdater/index.php:128#@ Nevadamsgid "Copyright"msgstr "Copyright"#: lambda/themeupdater/index.php:131#@ Nevadamsgid "Copyrightlink"msgstr "Copyrightlink"#: lambda/themeupdater/index.php:134#@ Nevadamsgid "change"msgstr "change"#: lambda/tinymce/lambda.button.popup.php:72#: lambda/tinymce/lambda.cta.popup.php:68#@ Nevadamsgid "Lambda Button Generator"msgstr "Lambda Button Generator"#: lambda/tinymce/lambda.google.popup.php:13#@ Nevadamsgid "Insert your individual Google Map"msgstr "Insert your individual Google Map"#: lambda/tinymce/lambda.google.popup.php:64#@ Nevadamsgid "Map information"msgstr "Map information"#: lambda/tinymce/lambda.sc.definitions.php:8#@ Nevadamsgid "One Third Column Shortcodes"msgstr "One Third Column Shortcodes"#: lambda/tinymce/lambda.sc.definitions.php:9#@ Nevadamsgid "One Third Column"msgstr "One Third Column"#: lambda/tinymce/lambda.sc.definitions.php:10#@ Nevadamsgid "Two Thirds Column"msgstr "Two Thirds Column"#: lambda/tinymce/lambda.sc.definitions.php:13#@ Nevadamsgid "One Half Column Shortcodes"msgstr "One Half Column Shortcodes"#: lambda/tinymce/lambda.sc.definitions.php:14#@ Nevadamsgid "One Half Column"msgstr "One Half Column"#: lambda/tinymce/lambda.sc.definitions.php:17#@ Nevadamsgid "One Fourth Column Shortcodes"msgstr "One Fourth Column Shortcodes"#: lambda/tinymce/lambda.sc.definitions.php:18#@ Nevadamsgid "One Fourth Column"msgstr "One Fourth Column"#: lambda/tinymce/lambda.sc.definitions.php:19#@ Nevadamsgid "Three Fourths Column"msgstr "Three Fourths Column"#: lambda/tinymce/lambda.sc.definitions.php:22#@ Nevadamsgid "One Fifth Column Shortcodes"msgstr "One Fifth Column Shortcodes"#: lambda/tinymce/lambda.sc.definitions.php:23#@ Nevadamsgid "One Fifth Column"msgstr "One Fifth Column"#: lambda/tinymce/lambda.sc.definitions.php:24#@ Nevadamsgid "Two Fifth Column"msgstr "Two Fifth Column"#: lambda/tinymce/lambda.sc.definitions.php:25#@ Nevadamsgid "Three Fifth Column"msgstr "Three Fifth Column"#: lambda/tinymce/lambda.sc.definitions.php:26#@ Nevadamsgid "Four Fifth Column"msgstr "Four Fifth Column"#: lambda/tinymce/lambda.sc.definitions.php:29#@ Nevadamsgid "One Sixth Column Shortcodes"msgstr "One Sixth Column Shortcodes"#: lambda/tinymce/lambda.sc.definitions.php:30#@ Nevadamsgid "One Sixth Column"msgstr "One Sixth Column"#: lambda/tinymce/lambda.sc.definitions.php:31#@ Nevadamsgid "Five Sixth Column"msgstr "Five Sixth Column"#: lambda/tinymce/lambda.sc.definitions.php:36#@ Nevadamsgid "Elements"msgstr "Elements"#: lambda/tinymce/lambda.sc.definitions.php:39#@ Nevadamsgid "Toggle Panel"msgstr "Toggle Panel"#: lambda/tinymce/lambda.sc.definitions.php:42#@ Nevadamsgid "Tabs"msgstr "Tabs"#: lambda/tinymce/lambda.sc.definitions.php:45#@ Nevadamsgid "Blockquote (left)"msgstr "Blockquote (left)"#: lambda/tinymce/lambda.sc.definitions.php:48#@ Nevadamsgid "Blockquote (right)"msgstr "Blockquote (right)"#: lambda/tinymce/lambda.sc.definitions.php:51#@ Nevadamsgid "Highlight (style one)"msgstr "Highlight (style one)"#: lambda/tinymce/lambda.sc.definitions.php:52#@ Nevadamsgid "Highlight (style two)"msgstr "Highlight (style two)"#: lambda/tinymce/lambda.sc.definitions.php:53#@ Nevadamsgid "Highlight (style three)"msgstr "Highlight (style three)"#: lambda/tinymce/lambda.sc.definitions.php:54#@ Nevadamsgid "Highlight (style four)"msgstr "Highlight (style four)"#: lambda/tinymce/lambda.sc.definitions.php:57#@ Nevadamsgid "Dropcap One"msgstr "Dropcap One"#: lambda/tinymce/lambda.sc.definitions.php:58#@ Nevadamsgid "Dropcap Two"msgstr "Dropcap Two"#: lambda/tinymce/lambda.sc.definitions.php:61#@ Nevadamsgid "Notification Box"msgstr "Notification Box"#: lambda/tinymce/lambda.sc.generator.php:48#@ Nevadamsgid "Manage Items"msgstr "Manage Items"#: lambda/tinymce/lambda.sc.generator.php:52#@ Nevadamsgid "Add Item"msgstr "Add Item"#: lambda/tinymce/lambda.sc.generator.php:92#@ Nevadamsgid "Lambda Shortcode Generator"msgstr "Lambda Shortcode Generator"#: lambda/tinymce/lambda.sc.generator.php:97#@ Nevadamsgid "Choose a Shortcode"msgstr "Choose a Shortcode"#: lambda/tinymce/lambda.sc.generator.php:125#@ Nevadamsgid "Shortcode Generator"msgstr "Shortcode Generator"#: lambda/tinymce/lambda.sc.generator.php:364#@ Nevadamsgid "Insert Shortcode"msgstr "Insert Shortcode"#: lambda/tinymce/lambda.slider.popup.php:13#@ Nevadamsgid "Insert your individual Slider"msgstr "Insert your individual Slider"#: lambda/tinymce/lambda.slider.popup.php:61#@ Nevadamsgid "available Sliders"msgstr "available Sliders"#: lambda/tinymce/lambda.soundcloud.popup.php:13#@ Nevadamsgid "Insert Soundcloud"msgstr "Insert Soundcloud"#: lambda/tinymce/lambda.soundcloud.popup.php:61#@ Nevadamsgid "Insert Soundcloud URL"msgstr "Insert Soundcloud URL"#: lambda/tinymce/lambda.table.popup.php:13#@ Nevadamsgid "Insert your individual Table"msgstr "Insert your individual Table"#: lambda/tinymce/lambda.table.popup.php:61#@ Nevadamsgid "available Tables"msgstr "available Tables"#: lambda/tinymce/lambda.vimeo.popup.php:13#@ Nevadamsgid "Insert Vimeo Video"msgstr "Insert Vimeo Video"#: lambda/tinymce/lambda.vimeo.popup.php:61#@ Nevadamsgid "Insert Vimeo ID"msgstr "Insert Vimeo ID"#: lambda/tinymce/lambda.youtube.popup.php:13#@ Nevadamsgid "Insert Youtube Video"msgstr "Insert Youtube Video"#: lambda/tinymce/lambda.youtube.popup.php:61#@ Nevadamsgid "Insert Youtube ID"msgstr "Insert Youtube ID"#: lambda/widgets/lambda_contact.php:14#@ Nevadamsgid "Insert your contact data in here!"msgstr "Insert your contact data in here!"#: lambda/widgets/lambda_contact.php:15#@ Nevadamsgid "Lambda - Contact"msgstr "Lambda - Contact"#: lambda/widgets/lambda_contact.php:25#@ Nevadamsgid "Address"msgstr "Address"#: lambda/widgets/lambda_contact.php:26#@ Nevadamsgid "Phone"msgstr "Phone"#: lambda/widgets/lambda_contact.php:27#@ Nevadamsgid "Fax"msgstr "Fax"#: lambda/widgets/lambda_contact.php:29#@ Nevadamsgid "Internet"msgstr "Internet"#: lambda/widgets/lambda_flickr.php:16#@ Nevadamsgid "Displays Flickr images by user or tags."msgstr "Displays Flickr images by user or tags."#: lambda/widgets/lambda_flickr.php:17#@ Nevadamsgid "Lambda - Flickrstream"msgstr "Lambda - Flickrstream"#: lambda/widgets/lambda_flickr.php:31#: lambda/widgets/lambda_recent_comment.php:99#: lambda/widgets/lambda_recent_post.php:110#: lambda/widgets/lambda_social.php:192#: lambda/widgets/lambda_twitter.php:54#@ Nevadamsgid "Title:"msgstr "Title:"#: lambda/widgets/lambda_flickr.php:36#@ Nevadamsgid "Flickr ID:"msgstr "Flickr ID:"#: lambda/widgets/lambda_flickr.php:40#@ Nevadamsgid "Limit:"msgstr "Limit:"#: lambda/widgets/lambda_like.php:14#@ Nevadamsgid "Widget to display most liked posts for a given time range."msgstr "Widget to display most liked posts for a given time range."#: lambda/widgets/lambda_like.php:15#@ Nevadamsgid "Lambda - Most Liked Posts"msgstr "Lambda - Most Liked Posts"#: lambda/widgets/lambda_like.php:27#@ Nevadamsgid "Most Liked Posts"msgstr "Most Liked Posts"#: lambda/widgets/lambda_like.php:41#@ Nevadamsgid "All time"msgstr "All time"#: lambda/widgets/lambda_like.php:42#@ Nevadamsgid "Last one day"msgstr "Last one day"#: lambda/widgets/lambda_like.php:43#@ Nevadamsgid "Last two days"msgstr "Last two days"#: lambda/widgets/lambda_like.php:44#@ Nevadamsgid "Last three days"msgstr "Last three days"#: lambda/widgets/lambda_like.php:45#@ Nevadamsgid "Last one week"msgstr "Last one week"#: lambda/widgets/lambda_like.php:46#@ Nevadamsgid "Last two weeks"msgstr "Last two weeks"#: lambda/widgets/lambda_like.php:47#@ Nevadamsgid "Last three weeks"msgstr "Last three weeks"#: lambda/widgets/lambda_like.php:48#@ Nevadamsgid "Last one month"msgstr "Last one month"#: lambda/widgets/lambda_like.php:49#@ Nevadamsgid "Last two months"msgstr "Last two months"#: lambda/widgets/lambda_like.php:50#@ Nevadamsgid "Last three months"msgstr "Last three months"#: lambda/widgets/lambda_like.php:51#@ Nevadamsgid "Last six months"msgstr "Last six months"#: lambda/widgets/lambda_like.php:52#@ Nevadamsgid "Last one year"msgstr "Last one year"#: lambda/widgets/lambda_like.php:55#@ Nevadamsgid "Most Liked"msgstr "Most Liked"#: lambda/widgets/lambda_like.php:55#@ Nevadamsgid "Recently Liked"msgstr "Recently Liked"#: lambda/widgets/lambda_like.php:62#@ Nevadamsgid "Number of posts to show"msgstr "Number of posts to show"#: lambda/widgets/lambda_like.php:66#@ Nevadamsgid "Time range"msgstr "Time range"#: lambda/widgets/lambda_like.php:77#@ Nevadamsgid "Show like count"msgstr "Show like count"#: lambda/widgets/lambda_like.php:134#@ Nevadamsgid "No posts liked yet."msgstr "No posts liked yet."#: lambda/widgets/lambda_recent_comment.php:14#@ Nevadamsgid "The most recent comments with Avatar"msgstr "The most recent comments with Avatar"#: lambda/widgets/lambda_recent_comment.php:15#@ Nevadamsgid "Lambda - Recent Comments"msgstr "Lambda - Recent Comments"#: lambda/widgets/lambda_recent_comment.php:56#@ Nevadamsgid "Recent Comments"msgstr "Recent Comments"#: lambda/widgets/lambda_recent_comment.php:71#, php-format#@ Nevadamsgctxt "widgets"msgid "%1$s on %2$s"msgstr ""#: lambda/widgets/lambda_recent_comment.php:102#@ Nevadamsgid "Number of comments to show:"msgstr "Number of comments to show:"#: lambda/widgets/lambda_recent_post.php:14#@ Nevadamsgid "The most recent posts with on your site with postformats"msgstr "The most recent posts with on your site with postformats"#: lambda/widgets/lambda_recent_post.php:15#@ Nevadamsgid "Lambda - Recent Posts"msgstr "Lambda - Recent Posts"#: lambda/widgets/lambda_recent_post.php:40#@ Nevadamsgid "Recent Posts"msgstr "Recent Posts"#: lambda/widgets/lambda_recent_post.php:66#, php-format#@ Nevadamsgid "Permanent link to %s"msgstr "Permanent link to %s"#: lambda/widgets/lambda_recent_post.php:113#@ Nevadamsgid "Number of posts to show:"msgstr "Number of posts to show:"#: lambda/widgets/lambda_social.php:15#@ Nevadamsgid "Displays Social messages by User!"msgstr "Displays Social messages by User!"#: lambda/widgets/lambda_social.php:16#@ Nevadamsgid "Lambda - Social"msgstr "Lambda - Social"#: lambda/widgets/lambda_social.php:137#: lambda/widgets/lambda_social.php:217#: lambda/widgets/lambda_social.php:241#@ Nevadamsgid "Icon"msgstr "Icon"#: lambda/widgets/lambda_social.php:148#: lambda/widgets/lambda_social.php:231#: lambda/widgets/lambda_social.php:255#@ Nevadamsgid "remove"msgstr "remove"#: lambda/widgets/lambda_social.php:196#@ Nevadamsgid "Color:"msgstr "Color:"#: lambda/widgets/lambda_social.php:202#@ Nevadamsgid "Black Icons"msgstr "Black Icons"#: lambda/widgets/lambda_social.php:203#@ Nevadamsgid "White Icons"msgstr "White Icons"#: lambda/widgets/lambda_social.php:269#@ defaultmsgid "Please \"save\" first <br /> to activate the Widget!"msgstr ""#: lambda/widgets/lambda_twitter.php:16#@ Nevadamsgid "Displays Twitter messages by User!"msgstr "Displays Twitter messages by User!"#: lambda/widgets/lambda_twitter.php:17#@ Nevadamsgid "Lambda - Twitter"msgstr "Lambda - Twitter"#: lambda/widgets/lambda_twitter.php:57#@ Nevadamsgid "The widgets title."msgstr "The widgets title."#: lambda/widgets/lambda_twitter.php:59#@ Nevadamsgid "Username(s):"msgstr "Username(s):"#: lambda/widgets/lambda_twitter.php:62#@ Nevadamsgid "Enter one or more usernames seperated by comma."msgstr "Enter one or more usernames seperated by comma."#: lambda/widgets/lambda_twitter.php:64#@ Nevadamsgid "Count:"msgstr "Count:"#: lambda/widgets/lambda_twitter.php:67#@ Nevadamsgid "How many tweets to display."msgstr "How many tweets to display."#: lambda/widgets/lambda_twitter.php:69#@ Nevadamsgid "Text loading:"msgstr "Text loading:"#: lambda/widgets/lambda_twitter.php:72#@ Nevadamsgid "Optional loading text, displayed while tweets load."msgstr "Optional loading text, displayed while tweets load."#: lambda/widgets/lambda_video.php:14#@ Nevadamsgid "Insert your embedded code in here!"msgstr "Insert your embedded code in here!"#: lambda/widgets/lambda_video.php:15#@ Nevadamsgid "Lambda - Embedded Video"msgstr "Lambda - Embedded Video"#: loop-contactform.php:63#@ Nevadamsgid "Message has been sent!"msgstr "Message has been sent!"#: loop-contactform.php:66#@ Nevadamsgid "Message has not been sent! Reason: Incorrect Caption!"msgstr "Message has not been sent! Reason: Incorrect Caption!"#: loop-contactform.php:124#@ Nevadamsgid "Submit"msgstr "Submit"#: loop-contactform.php:129#: loop-page.php:32#: loop-page.php:33#: loop-portfolio.php:102#: loop-single.php:62#: loop-sliderpage.php:19#: loop.php:673#@ Nevada#@ woothemesmsgid "Pages:"msgstr "Pages:"#: loop-portfolio.php:113#@ Nevadamsgid "Visit Site"msgstr "Visit Site"#: loop-single.php:27#: loop.php:96#: loop.php:206#: loop.php:319#: loop.php:430#: loop.php:508#: loop.php:604#@ Nevadamsgid "By "msgstr "By "#: loop-single.php:75#, php-format#@ Nevadamsgid "<span class=\"%1$s\"></span> %2$s"msgstr "<span class=\"%1$s\"></span> %2$s"#: loop-single.php:105#@ Nevadamsgid "About "msgstr "About "#: loop-single.php:176#@ Nevadamsgctxt "Previous post link"msgid "&#8656;"msgstr ""#: loop-single.php:177#@ Nevadamsgctxt "Next post link"msgid "&#8658;"msgstr ""#: loop.php:36#@ Nevadamsgid "Not Found"msgstr ""#: loop.php:38#@ Nevadamsgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."msgstr "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."#: loop.php:67#@ Nevadamsgctxt "gallery category slug"msgid "gallery"msgstr ""#: loop.php:143#: loop.php:256#: loop.php:383#: loop.php:472#: loop.php:568#: loop.php:657#@ Nevadamsgid "Read more <span class=\"meta-nav\">&#043;</span>"msgstr ""#: loop.php:174#@ Nevadamsgctxt "video category slug"msgid "videos"msgstr ""#: loop.php:287#@ Nevadamsgctxt "audio category slug"msgid "audio"msgstr ""#: loop.php:411#@ Nevadamsgctxt "link category slug"msgid "links"msgstr ""#: loop.php:490#@ Nevadamsgctxt "quote category slug"msgid "quotes"msgstr ""#: loop.php:694#@ Nevadamsgid "<span class=\"meta-nav\">&#8656;</span> Older posts"msgstr "<span class=\"meta-nav\">&#8656;</span> Older posts"#: loop.php:695#@ Nevadamsgid "Newer posts <span class=\"meta-nav\">&#8658;</span>"msgstr "Newer posts <span class=\"meta-nav\">&#8658;</span>"#: revslider/inc_php/revslider_widget.class.php:8#@ Nevadamsgid "Displays a revolution slider on the page"msgstr "Displays a revolution slider on the page"#: revslider/inc_php/revslider_widget.class.php:24#@ Nevadamsgid "No sliders found, Please create a slider"msgstr "No sliders found, Please create a slider"#: search.php:34#, php-format#@ Nevadamsgid "Search Results for:<span> %s </span>"msgstr "Search Results for:<span> %s </span>"#: search.php:44#@ Nevadamsgid "Nothing Found"msgstr "Nothing Found"#: search.php:46#@ Nevadamsgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."msgstr "Sorry, but nothing matched your search criteria. Please try again with some different keywords."#: tag.php:21#, php-format#@ Nevadamsgid "Tag Archives: %s"msgstr "Tag Archives: %s"#: template-archiv.php:48#@ Nevadamsgid "Last 30 Posts"msgstr "Last 30 Posts"#: template-archiv.php:70#@ Nevadamsgid "Top 10 Likes"msgstr "Top 10 Likes"#: template-archiv.php:86#@ Nevadamsgid "No posts voted yet."msgstr "No posts voted yet."#: template-archiv.php:102#@ Nevadamsgid "Archives by Subject:"msgstr "Archives by Subject:"#: template-archiv.php:116#@ Nevadamsgid "Archives by Month:"msgstr "Archives by Month:"#: template-part-teaser.php:41#@ Nevadamsgid "404 Error"msgstr "404 Error"#: template-part-teaser.php:47#: template-part-teaser.php:50#: template-part-teaser.php:53#: template-part-teaser.php:56#, php-format#@ Nevadamsgid "%s"msgstr "%s"#: template-part-teaser.php:60#@ Nevadamsgid "Blog Archives"msgstr "Blog Archives"
+msgid ""
+
+msgstr ""
+
+"Project-Id-Version: Nevada v1.1\n"
+
+"Report-Msgid-Bugs-To: \n"
+
+"POT-Creation-Date: \n"
+
+"PO-Revision-Date: 2012-10-01 14:27:50+0000\n"
+
+"Last-Translator: admin <demo@unitedthemes.com>\n"
+
+"Language-Team: \n"
+
+"MIME-Version: 1.0\n"
+
+"Content-Type: text/plain; charset=UTF-8\n"
+
+"Content-Transfer-Encoding: 8bit\n"
+
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+"X-Poedit-Language: English\n"
+
+"X-Poedit-Country: UNITED STATES\n"
+
+"X-Poedit-SourceCharset: utf-8\n"
+
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+
+"X-Poedit-Basepath: ../\n"
+
+"X-Poedit-Bookmarks: \n"
+
+"X-Poedit-SearchPath-0: .\n"
+
+"X-Textdomain-Support: yes"
+
+
+
+#: 404.php:21
+
+#@ Nevada
+
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+
+msgstr "Apologies, but the page you requested could not be found. Perhaps searching will help."
+
+
+
+#: comments.php:12
+
+#@ Nevada
+
+msgid "This post is password protected. Enter the password to view comments."
+
+msgstr "This post is password protected. Enter the password to view comments."
+
+
+
+#: comments.php:25
+
+#, php-format
+
+#@ Nevada
+
+msgid "One Response to %2$s"
+
+msgid_plural "%1$s Responses to %2$s"
+
+msgstr[0] "One Response to %2$s"
+
+msgstr[1] "%1$s Responses to %2$s"
+
+
+
+#: comments.php:52
+
+#@ Nevada
+
+msgid "Leave a Reply"
+
+msgstr "Leave a Reply"
+
+
+
+#: comments.php:59
+
+#@ Nevada
+
+msgid "You must be logged in to post a comment."
+
+msgstr "You must be logged in to post a comment."
+
+
+
+#: comments.php:66
+
+#@ Nevada
+
+msgid "Logged in as:"
+
+msgstr "Logged in as:"
+
+
+
+#: comments.php:66
+
+#@ Nevada
+
+msgid "Log out"
+
+msgstr "Log out"
+
+
+
+#: comments.php:71
+
+#@ Nevada
+
+msgid "Name"
+
+msgstr "Name"
+
+
+
+#: comments.php:71
+
+#@ Nevada
+
+msgid "required"
+
+msgstr "required"
+
+
+
+#: comments.php:76
+
+#: lambda/widgets/lambda_contact.php:28
+
+#@ Nevada
+
+msgid "Email"
+
+msgstr "Email"
+
+
+
+#: comments.php:76
+
+#@ Nevada
+
+msgid " (will not be published) "
+
+msgstr " (will not be published) "
+
+
+
+#: comments.php:76
+
+#@ Nevada
+
+msgid "(required)"
+
+msgstr "(required)"
+
+
+
+#: comments.php:81
+
+#@ Nevada
+
+msgid "Website"
+
+msgstr "Website"
+
+
+
+#: comments.php:91
+
+#@ Nevada
+
+msgid "Submit Comment"
+
+msgstr "Submit Comment"
+
+
+
+#: functions/ajax-request.php:27
+
+#@ Nevada
+
+msgid "You need to be logged in to vote!"
+
+msgstr "You need to be logged in to vote!"
+
+
+
+#: functions/ajax-request.php:57
+
+#@ Nevada
+
+msgid "Thanks for voting!"
+
+msgstr "Thanks for voting!"
+
+
+
+#: functions/ajax-request.php:62
+
+#@ Nevada
+
+msgid "Sorry, a technical error has occured. Please try again later"
+
+msgstr "Sorry, a technical error has occured. Please try again later"
+
+
+
+#: functions/default-menu.php:2
+
+#@ Nevada
+
+msgid "Set Up Your Menu"
+
+msgstr "Set Up Your Menu"
+
+
+
+#: functions/pagecreator-functions.php:615
+
+#: functions/pagetool-functions.php:571
+
+#: functions/theme-post-formats.php:105
+
+#: loop.php:90
+
+#: loop.php:199
+
+#: loop.php:312
+
+#: loop.php:423
+
+#: loop.php:501
+
+#: loop.php:597
+
+#: post-formats/link.php:16
+
+#, php-format
+
+#@ Nevada
+
+msgid "Permalink to %s"
+
+msgstr "Permalink to %s"
+
+
+
+#: functions/pagecreator-functions.php:625
+
+#: functions/pagetool-functions.php:581
+
+#: loop-single.php:38
+
+#: loop.php:108
+
+#: loop.php:217
+
+#: loop.php:330
+
+#: loop.php:441
+
+#: loop.php:519
+
+#: loop.php:615
+
+#@ Nevada
+
+msgid "0 Comments"
+
+msgstr "0 Comments"
+
+
+
+#: functions/pagecreator-functions.php:625
+
+#: functions/pagetool-functions.php:581
+
+#: loop-single.php:38
+
+#: loop.php:108
+
+#: loop.php:217
+
+#: loop.php:330
+
+#: loop.php:441
+
+#: loop.php:519
+
+#: loop.php:615
+
+#@ Nevada
+
+msgid "1 Comment"
+
+msgstr "1 Comment"
+
+
+
+#: functions/pagecreator-functions.php:625
+
+#: functions/pagetool-functions.php:581
+
+#: loop-single.php:38
+
+#: loop.php:108
+
+#: loop.php:217
+
+#: loop.php:330
+
+#: loop.php:441
+
+#: loop.php:519
+
+#: loop.php:615
+
+#@ Nevada
+
+msgid "% Comments"
+
+msgstr "% Comments"
+
+
+
+#: functions/pagecreator-functions.php:681
+
+#: functions/pagetool-functions.php:629
+
+#: functions/theme-functions.php:123
+
+#@ Nevada
+
+msgid "Read more <span class=\"meta-nav\"></span>"
+
+msgstr "Read more <span class=\"meta-nav\"></span>"
+
+
+
+#: functions/theme-form-functions.php:55
+
+#@ Nevada
+
+msgid "Your input must consist of at least "
+
+msgstr "Your input must consist of at least "
+
+
+
+#: functions/theme-form-functions.php:55
+
+#@ Nevada
+
+msgid " characters"
+
+msgstr " characters"
+
+
+
+#: functions/theme-form-functions.php:248
+
+#@ Nevada
+
+msgid "Send email"
+
+msgstr "Send email"
+
+
+
+#: functions/theme-functions.php:8
+
+#@ Nevada
+
+msgid "Primary Navigation"
+
+msgstr "Primary Navigation"
+
+
+
+#: functions/theme-functions.php:82
+
+#@ Nevada
+
+msgid "Read More"
+
+msgstr "Read More"
+
+
+
+#: functions/theme-layout-functions.php:190
+
+#@ Nevada
+
+msgid "Comment is awaiting moderation"
+
+msgstr "Comment is awaiting moderation"
+
+
+
+#: functions/theme-layout-functions.php:196
+
+#@ Nevada
+
+msgid "Reply"
+
+msgstr "Reply"
+
+
+
+#: functions/theme-layout-functions.php:202
+
+#@ Nevada
+
+msgid "Edit Comment"
+
+msgstr "Edit Comment"
+
+
+
+#: functions/theme-layout-functions.php:431
+
+#@ Nevada
+
+msgid "Like"
+
+msgstr "Like"
+
+
+
+#: functions/theme-mailer.php:58
+
+#@ Nevada
+
+msgid " From "
+
+msgstr " From "
+
+
+
+#: functions/theme-portfolio-init.php:11
+
+#: lambda/metaboxes/lambda.metapanel.php:175
+
+#@ Nevada
+
+msgid "Portfolio"
+
+msgstr "Portfolio"
+
+
+
+#: functions/theme-portfolio-init.php:12
+
+#@ Nevada
+
+msgid "Project"
+
+msgstr "Project"
+
+
+
+#: functions/theme-portfolio-init.php:32
+
+#@ Nevada
+
+msgid "Project Categories"
+
+msgstr "Project Categories"
+
+
+
+#: functions/theme-portfolio-init.php:33
+
+#@ Nevada
+
+msgid "Project Category"
+
+msgstr "Project Category"
+
+
+
+#: functions.php:309
+
+#: lambda/lambda.admin.functions.php:95
+
+#@ Nevada
+
+msgid "Default Sidebar"
+
+msgstr "Default Sidebar"
+
+
+
+#: functions.php:311
+
+#@ Nevada
+
+msgid "The Default Sidebar"
+
+msgstr "The Default Sidebar"
+
+
+
+#: functions.php:340
+
+#@ Nevada
+
+msgid "First Footer Widget Area"
+
+msgstr "First Footer Widget Area"
+
+
+
+#: functions.php:342
+
+#@ Nevada
+
+msgid "The first footer widget area"
+
+msgstr "The first footer widget area"
+
+
+
+#: functions.php:351
+
+#@ Nevada
+
+msgid "Second Footer Widget Area"
+
+msgstr "Second Footer Widget Area"
+
+
+
+#: functions.php:353
+
+#@ Nevada
+
+msgid "The second footer widget area"
+
+msgstr "The second footer widget area"
+
+
+
+#: functions.php:362
+
+#@ Nevada
+
+msgid "Third Footer Widget Area"
+
+msgstr "Third Footer Widget Area"
+
+
+
+#: functions.php:364
+
+#@ Nevada
+
+msgid "The third footer widget area"
+
+msgstr "The third footer widget area"
+
+
+
+#: functions.php:373
+
+#@ Nevada
+
+msgid "Fourth Footer Widget Area"
+
+msgstr "Fourth Footer Widget Area"
+
+
+
+#: functions.php:375
+
+#@ Nevada
+
+msgid "The fourth footer widget area"
+
+msgstr "The fourth footer widget area"
+
+
+
+#: functions.php:384
+
+#@ Nevada
+
+msgid "Header Widget Area"
+
+msgstr "Header Widget Area"
+
+
+
+#: functions.php:386
+
+#@ Nevada
+
+msgid "The header widget area. Only for Lambda Social Media Widget"
+
+msgstr "The header widget area. Only for Lambda Social Media Widget"
+
+
+
+#: functions.php:405
+
+#, php-format
+
+#@ Nevada
+
+msgid "%2$s"
+
+msgstr "%2$s"
+
+
+
+#: functions.php:414
+
+#, php-format
+
+#@ Nevada
+
+msgid "View all posts by %s"
+
+msgstr "View all posts by %s"
+
+
+
+#: functions.php:432
+
+#, php-format
+
+#@ Nevada
+
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+msgstr "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+
+
+#: functions.php:434
+
+#, php-format
+
+#@ Nevada
+
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+msgstr "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+
+
+#: functions.php:436
+
+#, php-format
+
+#@ Nevada
+
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+msgstr "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+
+
+#: header.php:50
+
+#, php-format
+
+#@ Nevada
+
+msgid "Page %s"
+
+msgstr "Page %s"
+
+
+
+#: header.php:200
+
+#@ Nevada
+
+msgid "Option Tree Plugin has been detected! Please deactivate this Plugin to prevent themecrashes and failures!"
+
+msgstr "Option Tree Plugin has been detected! Please deactivate this Plugin to prevent themecrashes and failures!"
+
+
+
+#: header.php:203
+
+#@ Nevada
+
+msgid "Soundcloud Plugin has been detected! Please deactivate this Plugin to prevent themecrashes and failures!"
+
+msgstr "Soundcloud Plugin has been detected! Please deactivate this Plugin to prevent themecrashes and failures!"
+
+
+
+#: lambda/classes/class.admin.php:1555
+
+#@ Nevada
+
+msgid "Options"
+
+msgstr "Options"
+
+
+
+#: lambda/classes/class.admin.php:1633
+
+#@ Nevada
+
+msgid "Somebody"
+
+msgstr "Somebody"
+
+
+
+#: lambda/classes/class.admin.php:1634
+
+#@ Nevada
+
+msgid "Theme Options"
+
+msgstr "Theme Options"
+
+
+
+#: lambda/classes/class.admin.php:1634
+
+#@ Nevada
+
+msgid "Settings"
+
+msgstr "Settings"
+
+
+
+#: lambda/classes/class.admin.php:1636
+
+#, php-format
+
+#@ Nevada
+
+msgid "Warning: %s is currently editing the %s."
+
+msgstr "Warning: %s is currently editing the %s."
+
+
+
+#: lambda/classes/class.admin.php:1736
+
+#@ option-tree
+
+msgid "Show Settings &amp; Docs"
+
+msgstr ""
+
+
+
+#: lambda/classes/class.admin.php:1739
+
+#@ option-tree
+
+msgid "Yes"
+
+msgstr ""
+
+
+
+#: lambda/front-end/docs.php:9
+
+#@ Nevada
+
+msgid "Option Usage (for Developers)"
+
+msgstr "Option Usage (for Developers)"
+
+
+
+#: lambda/front-end/options.php:15
+
+#@ Nevada
+
+msgid "Manage Preset"
+
+msgstr "Manage Preset"
+
+
+
+#: lambda/front-end/options.php:16
+
+#: lambda/front-end/options.php:240
+
+#@ Nevada
+
+msgid "Save All Changes"
+
+msgstr "Save All Changes"
+
+
+
+#: lambda/front-end/options.php:27
+
+#@ Nevada
+
+msgid "Manage Layouts"
+
+msgstr "Manage Layouts"
+
+
+
+#: lambda/front-end/options.php:34
+
+#@ Nevada
+
+msgid "New Layout"
+
+msgstr "New Layout"
+
+
+
+#: lambda/front-end/options.php:62
+
+#@ Nevada
+
+msgid "Activate Layout"
+
+msgstr "Activate Layout"
+
+
+
+#: lambda/front-end/options.php:65
+
+#@ Nevada
+
+msgid "Reload XML"
+
+msgstr "Reload XML"
+
+
+
+#: lambda/front-end/options.php:80
+
+#@ Nevada
+
+msgid " Theme Options"
+
+msgstr " Theme Options"
+
+
+
+#: lambda/front-end/options.php:241
+
+#@ Nevada
+
+msgid "Reset Options"
+
+msgstr "Reset Options"
+
+
+
+#: lambda/front-end/settings.php:21
+
+#@ Nevada
+
+msgid " Theme Settings"
+
+msgstr " Theme Settings"
+
+
+
+#: lambda/front-end/settings.php:246
+
+#@ Nevada
+
+msgid "Import XML"
+
+msgstr "Import XML"
+
+
+
+#: lambda/front-end/settings.php:272
+
+#@ Nevada
+
+msgid "Import Data"
+
+msgstr "Import Data"
+
+
+
+#: lambda/front-end/settings.php:298
+
+#@ Nevada
+
+msgid "Import Layouts"
+
+msgstr "Import Layouts"
+
+
+
+#: lambda/functions/admin/background.php:46
+
+#: lambda/metaboxes/lambda.slider.php:499
+
+#@ Nevada
+
+msgid "Background-Color"
+
+msgstr "Background-Color"
+
+
+
+#: lambda/functions/admin/background.php:54
+
+#: lambda/metaboxes/lambda.slider.php:507
+
+#@ Nevada
+
+msgid "Background-Repeat"
+
+msgstr "Background-Repeat"
+
+
+
+#: lambda/functions/admin/background.php:66
+
+#: lambda/metaboxes/lambda.slider.php:520
+
+#@ Nevada
+
+msgid "Background-Attachment"
+
+msgstr "Background-Attachment"
+
+
+
+#: lambda/functions/admin/background.php:78
+
+#: lambda/metaboxes/lambda.slider.php:533
+
+#@ Nevada
+
+msgid "Background-Position"
+
+msgstr "Background-Position"
+
+
+
+#: lambda/functions/admin/background.php:88
+
+#@ Nevada
+
+msgid "Background-Image"
+
+msgstr "Background-Image"
+
+
+
+#: lambda/functions/admin/checkbox.php:45
+
+#@ Nevada
+
+msgid "Inactive"
+
+msgstr "Inactive"
+
+
+
+#: lambda/functions/admin/checkbox.php:49
+
+#@ Nevada
+
+msgid "Active"
+
+msgstr "Active"
+
+
+
+#: lambda/functions/admin/easing.php:32
+
+#@ Nevada
+
+msgid "-- Choose Easing Effect --"
+
+msgstr "-- Choose Easing Effect --"
+
+
+
+#: lambda/functions/admin/image_effect.php:33
+
+#@ Nevada
+
+msgid "-- Choose Image Start Effect --"
+
+msgstr "-- Choose Image Start Effect --"
+
+
+
+#: lambda/functions/admin/image_hover.php:33
+
+#@ Nevada
+
+msgid "-- Choose Image Hover Effect --"
+
+msgstr "-- Choose Image Hover Effect --"
+
+
+
+#: lambda/functions/admin/typography.php:45
+
+#: lambda/functions/admin/typography_menu.php:50
+
+#@ Nevada
+
+msgid "Font Color"
+
+msgstr "Font Color"
+
+
+
+#: lambda/functions/admin/typography.php:56
+
+#: lambda/functions/admin/typography_headlines.php:31
+
+#: lambda/functions/admin/typography_menu.php:61
+
+#@ Nevada
+
+msgid "Font Family"
+
+msgstr "Font Family"
+
+
+
+#: lambda/functions/admin/typography.php:70
+
+#: lambda/functions/admin/typography_headlines.php:45
+
+#: lambda/functions/admin/typography_menu.php:76
+
+#@ Nevada
+
+msgid "Font Style"
+
+msgstr "Font Style"
+
+
+
+#: lambda/functions/admin/typography.php:84
+
+#: lambda/functions/admin/typography_headlines.php:59
+
+#: lambda/functions/admin/typography_menu.php:106
+
+#@ Nevada
+
+msgid "Font Weight"
+
+msgstr "Font Weight"
+
+
+
+#: lambda/functions/admin/typography.php:98
+
+#: lambda/functions/admin/typography_menu.php:120
+
+#@ Nevada
+
+msgid "Font Size"
+
+msgstr "Font Size"
+
+
+
+#: lambda/functions/admin/typography_menu.php:91
+
+#@ Nevada
+
+msgid "Font Transform"
+
+msgstr "Font Transform"
+
+
+
+#: lambda/functions/admin/upload.php:26
+
+#@ Nevada
+
+msgid "Upload"
+
+msgstr "Upload"
+
+
+
+#: lambda/lambda.admin.functions.php:95
+
+#@ Nevada
+
+msgid "No Sidebar"
+
+msgstr "No Sidebar"
+
+
+
+#: lambda/metaboxes/lambda.meta.spec.php:19
+
+#@ Nevada
+
+msgid "Featured Header Settings"
+
+msgstr "Featured Header Settings"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:28
+
+#@ Nevada
+
+msgid "Save"
+
+msgstr "Save"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:32
+
+#@ Nevada
+
+msgid "Editor"
+
+msgstr "Editor"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:35
+
+#: lambda/metaboxes/lambda.metapanel.php:1300
+
+#@ Nevada
+
+msgid "Post Format Settings"
+
+msgstr "Post Format Settings"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:39
+
+#@ Nevada
+
+msgid "Page Creator"
+
+msgstr "Page Creator"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:42
+
+#: lambda/metaboxes/lambda.slider.php:21
+
+#@ Nevada
+
+msgid "Featured Header"
+
+msgstr "Featured Header"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:43
+
+#: lambda/metaboxes/lambda.metapanel.php:829
+
+#@ Nevada
+
+msgid "Page Settings"
+
+msgstr "Page Settings"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:44
+
+#: lambda/metaboxes/lambda.metapanel.php:945
+
+#@ Nevada
+
+msgid "Style Settings"
+
+msgstr "Style Settings"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:47
+
+#@ Nevada
+
+msgid "Portfolio Overview Settings"
+
+msgstr "Portfolio Overview Settings"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:51
+
+#: lambda/metaboxes/lambda.metapanel.php:2187
+
+#: lambda/metaboxes/lambda.metapanel.php:2484
+
+#@ Nevada
+
+msgid "Portfolio Items"
+
+msgstr "Portfolio Items"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:56
+
+#: lambda/metaboxes/lambda.metapanel.php:1833
+
+#: lambda/metaboxes/lambda.metapanel.php:1847
+
+#@ Nevada
+
+msgid "Contact Form Builder"
+
+msgstr "Contact Form Builder"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:57
+
+#@ Nevada
+
+msgid "Home Settings"
+
+msgstr "Home Settings"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:58
+
+#@ Nevada
+
+msgid "Team Settings"
+
+msgstr "Team Settings"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:59
+
+#@ Nevada
+
+msgid "FAQ Settings"
+
+msgstr "FAQ Settings"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:60
+
+#@ Nevada
+
+msgid "Testimonials"
+
+msgstr "Testimonials"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:61
+
+#@ Nevada
+
+msgid "Service"
+
+msgstr "Service"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:62
+
+#: lambda/metaboxes/lambda.metapanel.php:2190
+
+#@ Nevada
+
+msgid "Clients"
+
+msgstr "Clients"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:98
+
+#@ Nevada
+
+msgid "Expand Page Creator"
+
+msgstr "Expand Page Creator"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:99
+
+#@ Nevada
+
+msgid "Shrink Page Creator"
+
+msgstr "Shrink Page Creator"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:103
+
+#@ Nevada
+
+msgid "Add New Box"
+
+msgstr "Add New Box"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:115
+
+#@ Nevada
+
+msgid "New box"
+
+msgstr "New box"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:132
+
+#@ Nevada
+
+msgid "edit"
+
+msgstr "edit"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:153
+
+#@ Nevada
+
+msgid "Enter Boxname"
+
+msgstr "Enter Boxname"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:156
+
+#@ Nevada
+
+msgid "only for internal use"
+
+msgstr "only for internal use"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:161
+
+#@ Nevada
+
+msgid "Choose Boxtype"
+
+msgstr "Choose Boxtype"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:163
+
+#@ Nevada
+
+msgid "Choose Box Type"
+
+msgstr "Choose Box Type"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:164
+
+#@ Nevada
+
+msgid "Textbox (with Editor)"
+
+msgstr "Textbox (with Editor)"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:165
+
+#: lambda/metaboxes/lambda.metapanel.php:1337
+
+#@ Nevada
+
+msgid "Quote"
+
+msgstr "Quote"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:166
+
+#: revslider/inc_php/revslider_widget.class.php:9
+
+#@ Nevada
+
+msgid "Revolution Slider"
+
+msgstr "Revolution Slider"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:167
+
+#@ Nevada
+
+msgid "Standard Slider"
+
+msgstr "Standard Slider"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:168
+
+#@ Nevada
+
+msgid "Soundcloud"
+
+msgstr "Soundcloud"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:169
+
+#@ Nevada
+
+msgid "Horizontal Row"
+
+msgstr "Horizontal Row"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:170
+
+#: lambda/metaboxes/lambda.metapanel.php:1524
+
+#@ Nevada
+
+msgid "Video"
+
+msgstr "Video"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:171
+
+#@ Nevada
+
+msgid "Service Column"
+
+msgstr "Service Column"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:172
+
+#@ Nevada
+
+msgid "Single Testimonial"
+
+msgstr "Single Testimonial"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:173
+
+#@ Nevada
+
+msgid "Testimonial Carousel"
+
+msgstr "Testimonial Carousel"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:174
+
+#@ Nevada
+
+msgid "Pricing Table"
+
+msgstr "Pricing Table"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:176
+
+#@ Nevada
+
+msgid "Blog"
+
+msgstr "Blog"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:177
+
+#@ Nevada
+
+msgid "Google Map"
+
+msgstr "Google Map"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:178
+
+#: lambda/metaboxes/lambda.metapanel.php:2191
+
+#@ Nevada
+
+msgid "Call to Action"
+
+msgstr "Call to Action"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:183
+
+#: lambda/widgets/lambda_contact.php:23
+
+#: lambda/widgets/lambda_like.php:58
+
+#: lambda/widgets/lambda_video.php:23
+
+#@ Nevada
+
+msgid "Title"
+
+msgstr "Title"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:186
+
+#@ Nevada
+
+msgid "this will create a designed headline above the box, leave empty to hide"
+
+msgstr "this will create a designed headline above the box, leave empty to hide"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:223
+
+#@ Nevada
+
+msgid "Quote!"
+
+msgstr "Quote!"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:228
+
+#: lambda/metaboxes/lambda.metapanel.php:2917
+
+#@ Nevada
+
+msgid "Authorname"
+
+msgstr "Authorname"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:244
+
+#@ Nevada
+
+msgid "Choose Revolution Slider"
+
+msgstr "Choose Revolution Slider"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:247
+
+#: lambda/metaboxes/lambda.metapanel.php:275
+
+#: lambda/metaboxes/lambda.metapanel.php:278
+
+#: lambda/metaboxes/lambda.slider.php:215
+
+#@ Nevada
+
+msgid "Choose Slider"
+
+msgstr "Choose Slider"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:306
+
+#: lambda/metaboxes/lambda.metapanel.php:1419
+
+#: lambda/metaboxes/lambda.metapanel.php:1546
+
+#@ Nevada
+
+msgid "Soundcloud URL"
+
+msgstr "Soundcloud URL"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:323
+
+#: lambda/metaboxes/lambda.metapanel.php:1366
+
+#: lambda/metaboxes/lambda.metapanel.php:1585
+
+#: lambda/metaboxes/lambda.slider.php:148
+
+#: lambda/metaboxes/lambda.slider.php:361
+
+#@ Nevada
+
+msgid "Upload Video"
+
+msgstr "Upload Video"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:325
+
+#: lambda/metaboxes/lambda.metapanel.php:335
+
+#: lambda/metaboxes/lambda.metapanel.php:1368
+
+#: lambda/metaboxes/lambda.metapanel.php:1378
+
+#: lambda/metaboxes/lambda.metapanel.php:1587
+
+#: lambda/metaboxes/lambda.metapanel.php:1597
+
+#: lambda/metaboxes/lambda.slider.php:150
+
+#: lambda/metaboxes/lambda.slider.php:160
+
+#: lambda/metaboxes/lambda.slider.php:363
+
+#: lambda/metaboxes/lambda.slider.php:373
+
+#@ Nevada
+
+msgid "can be .mov, .flv"
+
+msgstr "can be .mov, .flv"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:333
+
+#: lambda/metaboxes/lambda.metapanel.php:1376
+
+#: lambda/metaboxes/lambda.metapanel.php:1595
+
+#: lambda/metaboxes/lambda.slider.php:158
+
+#: lambda/metaboxes/lambda.slider.php:371
+
+#@ Nevada
+
+msgid "Upload HD Video"
+
+msgstr "Upload HD Video"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:343
+
+#: lambda/metaboxes/lambda.metapanel.php:1605
+
+#: lambda/metaboxes/lambda.slider.php:168
+
+#: lambda/metaboxes/lambda.slider.php:381
+
+#@ Nevada
+
+msgid "Poster Image"
+
+msgstr "Poster Image"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:345
+
+#: lambda/metaboxes/lambda.metapanel.php:1607
+
+#: lambda/metaboxes/lambda.slider.php:170
+
+#: lambda/metaboxes/lambda.slider.php:383
+
+#@ Nevada
+
+msgid "should be same size as Video"
+
+msgstr "should be same size as Video"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:353
+
+#: lambda/metaboxes/lambda.metapanel.php:1386
+
+#: lambda/metaboxes/lambda.metapanel.php:1615
+
+#: lambda/metaboxes/lambda.slider.php:178
+
+#: lambda/metaboxes/lambda.slider.php:391
+
+#@ Nevada
+
+msgid "MP4 File URL"
+
+msgstr "MP4 File URL"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:355
+
+#: lambda/metaboxes/lambda.metapanel.php:1388
+
+#: lambda/metaboxes/lambda.metapanel.php:1617
+
+#: lambda/metaboxes/lambda.slider.php:180
+
+#: lambda/metaboxes/lambda.slider.php:393
+
+#@ Nevada
+
+msgid "The URL to .mp4 video file for Ipad"
+
+msgstr "The URL to .mp4 video file for Ipad"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:362
+
+#: lambda/metaboxes/lambda.metapanel.php:365
+
+#: lambda/metaboxes/lambda.metapanel.php:1395
+
+#: lambda/metaboxes/lambda.metapanel.php:1398
+
+#: lambda/metaboxes/lambda.metapanel.php:1624
+
+#: lambda/metaboxes/lambda.metapanel.php:1627
+
+#: lambda/metaboxes/lambda.slider.php:186
+
+#: lambda/metaboxes/lambda.slider.php:189
+
+#: lambda/metaboxes/lambda.slider.php:399
+
+#: lambda/metaboxes/lambda.slider.php:402
+
+#@ Nevada
+
+msgid "Embedded Code"
+
+msgstr "Embedded Code"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:380
+
+#@ Nevada
+
+msgid "This is only a horizontal divider!"
+
+msgstr "This is only a horizontal divider!"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:400
+
+#: lambda/metaboxes/lambda.metapanel.php:2265
+
+#: lambda/metaboxes/lambda.metapanel.php:2323
+
+#: lambda/metaboxes/lambda.metapanel.php:2381
+
+#: lambda/metaboxes/lambda.metapanel.php:2439
+
+#@ Nevada
+
+msgid "Icon URL"
+
+msgstr "Icon URL"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:402
+
+#: lambda/metaboxes/lambda.metapanel.php:2267
+
+#: lambda/metaboxes/lambda.metapanel.php:2325
+
+#: lambda/metaboxes/lambda.metapanel.php:2383
+
+#: lambda/metaboxes/lambda.metapanel.php:2441
+
+#@ Nevada
+
+msgid "Icon size should be 32x32"
+
+msgstr "Icon size should be 32x32"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:407
+
+#: lambda/metaboxes/lambda.metapanel.php:555
+
+#: lambda/metaboxes/lambda.metapanel.php:2272
+
+#: lambda/metaboxes/lambda.metapanel.php:2330
+
+#: lambda/metaboxes/lambda.metapanel.php:2388
+
+#: lambda/metaboxes/lambda.metapanel.php:2446
+
+#: lambda/metaboxes/lambda.metapanel.php:2515
+
+#: lambda/metaboxes/lambda.metapanel.php:2599
+
+#: lambda/metaboxes/lambda.slider.php:264
+
+#@ Nevada
+
+msgid "Headline"
+
+msgstr "Headline"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:410
+
+#: lambda/metaboxes/lambda.metapanel.php:792
+
+#: lambda/metaboxes/lambda.metapanel.php:2275
+
+#: lambda/metaboxes/lambda.metapanel.php:2333
+
+#: lambda/metaboxes/lambda.metapanel.php:2391
+
+#: lambda/metaboxes/lambda.metapanel.php:2449
+
+#: lambda/metaboxes/lambda.metapanel.php:3157
+
+#@ Nevada
+
+msgid "Content"
+
+msgstr "Content"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:413
+
+#: lambda/metaboxes/lambda.metapanel.php:453
+
+#: lambda/metaboxes/lambda.metapanel.php:2278
+
+#: lambda/metaboxes/lambda.metapanel.php:2336
+
+#: lambda/metaboxes/lambda.metapanel.php:2394
+
+#: lambda/metaboxes/lambda.metapanel.php:2452
+
+#: lambda/metaboxes/lambda.metapanel.php:3284
+
+#@ Nevada
+
+msgid "This field accepts shortcodes"
+
+msgstr "This field accepts shortcodes"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:416
+
+#: lambda/metaboxes/lambda.metapanel.php:1316
+
+#: lambda/metaboxes/lambda.metapanel.php:2281
+
+#: lambda/metaboxes/lambda.metapanel.php:2339
+
+#: lambda/metaboxes/lambda.metapanel.php:2397
+
+#: lambda/metaboxes/lambda.metapanel.php:2455
+
+#: lambda/widgets/lambda_social.php:147
+
+#: lambda/widgets/lambda_social.php:229
+
+#: lambda/widgets/lambda_social.php:252
+
+#@ Nevada
+
+msgid "Link"
+
+msgstr "Link"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:420
+
+#: lambda/metaboxes/lambda.metapanel.php:782
+
+#: lambda/metaboxes/lambda.metapanel.php:2285
+
+#: lambda/metaboxes/lambda.metapanel.php:2343
+
+#: lambda/metaboxes/lambda.metapanel.php:2401
+
+#: lambda/metaboxes/lambda.metapanel.php:2459
+
+#: lambda/metaboxes/lambda.metapanel.php:3147
+
+#: lambda/metaboxes/lambda.slider.php:346
+
+#: lambda/slidermanager/index.php:622
+
+#: lambda/slidermanager/lambda.ajax.class.php:103
+
+#: lambda/slidermanager/lambda.slider.init.php:153
+
+#: lambda/tablemanager/index.php:379
+
+#@ Nevada
+
+msgid "Buttontext"
+
+msgstr "Buttontext"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:440
+
+#: lambda/metaboxes/lambda.metapanel.php:2925
+
+#: lambda/metaboxes/lambda.metapanel.php:3271
+
+#@ Nevada
+
+msgid "Author Image"
+
+msgstr "Author Image"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:442
+
+#@ Nevada
+
+msgid "Image size should be 200x200"
+
+msgstr "Image size should be 200x200"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:447
+
+#@ Nevada
+
+msgid "Author Name"
+
+msgstr "Author Name"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:450
+
+#@ Nevada
+
+msgid "Comment"
+
+msgstr "Comment"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:456
+
+#: lambda/metaboxes/lambda.metapanel.php:2936
+
+#: lambda/metaboxes/lambda.metapanel.php:3287
+
+#@ Nevada
+
+msgid "Testimonial Authors Company"
+
+msgstr "Testimonial Authors Company"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:471
+
+#: lambda/metaboxes/lambda.metapanel.php:2855
+
+#@ Nevada
+
+msgid "Testimonial Color"
+
+msgstr "Testimonial Color"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:473
+
+#: lambda/metaboxes/lambda.metapanel.php:2857
+
+#@ Nevada
+
+msgid "Select color ..."
+
+msgstr "Select color ..."
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:474
+
+#: lambda/metaboxes/lambda.metapanel.php:2858
+
+#@ Nevada
+
+msgid "white"
+
+msgstr "white"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:475
+
+#: lambda/metaboxes/lambda.metapanel.php:2859
+
+#@ Nevada
+
+msgid "darken"
+
+msgstr "darken"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:476
+
+#: lambda/metaboxes/lambda.metapanel.php:2860
+
+#@ Nevada
+
+msgid "alternating colors"
+
+msgstr "alternating colors"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:480
+
+#@ Nevada
+
+msgid "Choose Testimonials Page"
+
+msgstr "Choose Testimonials Page"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:503
+
+#: lambda/metaboxes/lambda.metapanel.php:707
+
+#: lambda/metaboxes/lambda.metapanel.php:2683
+
+#@ Nevada
+
+msgid "No Pages Available"
+
+msgstr "No Pages Available"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:508
+
+#@ Nevada
+
+msgid "Choose Testimonials from an existing <br /> Testimonials Template Page"
+
+msgstr "Choose Testimonials from an existing <br /> Testimonials Template Page"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:522
+
+#: lambda/metaboxes/lambda.metapanel.php:526
+
+#@ Nevada
+
+msgid "Choose Pricing Table"
+
+msgstr "Choose Pricing Table"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:559
+
+#: lambda/metaboxes/lambda.metapanel.php:2519
+
+#@ Nevada
+
+msgid "Load the last x items out of the portfolio"
+
+msgstr "Load the last x items out of the portfolio"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:563
+
+#: lambda/metaboxes/lambda.metapanel.php:1187
+
+#: lambda/metaboxes/lambda.metapanel.php:2523
+
+#@ Nevada
+
+msgid "Portfolio Column Layout"
+
+msgstr "Portfolio Column Layout"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:566
+
+#: lambda/metaboxes/lambda.metapanel.php:670
+
+#: lambda/metaboxes/lambda.metapanel.php:2526
+
+#@ Nevada
+
+msgid "Select Column Layout ..."
+
+msgstr "Select Column Layout ..."
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:567
+
+#: lambda/metaboxes/lambda.metapanel.php:672
+
+#: lambda/metaboxes/lambda.metapanel.php:2527
+
+#@ Nevada
+
+msgid "2 Columns"
+
+msgstr "2 Columns"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:568
+
+#: lambda/metaboxes/lambda.metapanel.php:673
+
+#: lambda/metaboxes/lambda.metapanel.php:2528
+
+#@ Nevada
+
+msgid "3 Columns"
+
+msgstr "3 Columns"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:569
+
+#: lambda/metaboxes/lambda.metapanel.php:674
+
+#: lambda/metaboxes/lambda.metapanel.php:2529
+
+#@ Nevada
+
+msgid "4 Columns"
+
+msgstr "4 Columns"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:573
+
+#: lambda/metaboxes/lambda.metapanel.php:2533
+
+#@ Nevada
+
+msgid "Display items out of the following category"
+
+msgstr "Display items out of the following category"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:587
+
+#: lambda/metaboxes/lambda.metapanel.php:1178
+
+#: lambda/metaboxes/lambda.metapanel.php:2544
+
+#@ Nevada
+
+msgid "No Portfolio Categories created yet!"
+
+msgstr "No Portfolio Categories created yet!"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:592
+
+#: lambda/metaboxes/lambda.metapanel.php:1262
+
+#: lambda/metaboxes/lambda.metapanel.php:2548
+
+#@ Nevada
+
+msgid "Show Portfolio Item Title"
+
+msgstr "Show Portfolio Item Title"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:598
+
+#: lambda/metaboxes/lambda.metapanel.php:640
+
+#: lambda/metaboxes/lambda.metapanel.php:657
+
+#: lambda/metaboxes/lambda.metapanel.php:2554
+
+#: lambda/metaboxes/lambda.metapanel.php:2629
+
+#: lambda/metaboxes/lambda.metapanel.php:2646
+
+#: lambda/tablemanager/index.php:303
+
+#@ Nevada
+
+msgid "on"
+
+msgstr "on"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:600
+
+#: lambda/metaboxes/lambda.metapanel.php:642
+
+#: lambda/metaboxes/lambda.metapanel.php:659
+
+#: lambda/metaboxes/lambda.metapanel.php:2556
+
+#: lambda/metaboxes/lambda.metapanel.php:2631
+
+#: lambda/metaboxes/lambda.metapanel.php:2648
+
+#: lambda/tablemanager/index.php:304
+
+#@ Nevada
+
+msgid "off"
+
+msgstr "off"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:617
+
+#: lambda/metaboxes/lambda.metapanel.php:2606
+
+#@ Nevada
+
+msgid "Activate featured Images?"
+
+msgstr "Activate featured Images?"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:623
+
+#: lambda/metaboxes/lambda.metapanel.php:917
+
+#: lambda/metaboxes/lambda.metapanel.php:1226
+
+#: lambda/metaboxes/lambda.metapanel.php:1268
+
+#: lambda/metaboxes/lambda.metapanel.php:2225
+
+#: lambda/metaboxes/lambda.metapanel.php:2250
+
+#: lambda/metaboxes/lambda.metapanel.php:2308
+
+#: lambda/metaboxes/lambda.metapanel.php:2366
+
+#: lambda/metaboxes/lambda.metapanel.php:2424
+
+#: lambda/metaboxes/lambda.metapanel.php:2497
+
+#: lambda/metaboxes/lambda.metapanel.php:2589
+
+#: lambda/metaboxes/lambda.metapanel.php:2612
+
+#: lambda/metaboxes/lambda.metapanel.php:2744
+
+#: lambda/metaboxes/lambda.metapanel.php:2980
+
+#: lambda/metaboxes/lambda.metapanel.php:3133
+
+#: lambda/metaboxes/lambda.slider.php:434
+
+#@ Nevada
+
+msgid "show"
+
+msgstr "show"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:625
+
+#: lambda/metaboxes/lambda.metapanel.php:919
+
+#: lambda/metaboxes/lambda.metapanel.php:1228
+
+#: lambda/metaboxes/lambda.metapanel.php:1270
+
+#: lambda/metaboxes/lambda.metapanel.php:2227
+
+#: lambda/metaboxes/lambda.metapanel.php:2252
+
+#: lambda/metaboxes/lambda.metapanel.php:2310
+
+#: lambda/metaboxes/lambda.metapanel.php:2368
+
+#: lambda/metaboxes/lambda.metapanel.php:2426
+
+#: lambda/metaboxes/lambda.metapanel.php:2499
+
+#: lambda/metaboxes/lambda.metapanel.php:2591
+
+#: lambda/metaboxes/lambda.metapanel.php:2614
+
+#: lambda/metaboxes/lambda.metapanel.php:2746
+
+#: lambda/metaboxes/lambda.metapanel.php:2982
+
+#: lambda/metaboxes/lambda.metapanel.php:3135
+
+#: lambda/metaboxes/lambda.slider.php:436
+
+#@ Nevada
+
+msgid "hide"
+
+msgstr "hide"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:634
+
+#: lambda/metaboxes/lambda.metapanel.php:2623
+
+#@ Nevada
+
+msgid "Activate Blog Excerpt"
+
+msgstr "Activate Blog Excerpt"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:651
+
+#: lambda/metaboxes/lambda.metapanel.php:2640
+
+#@ Nevada
+
+msgid "Activate \"Like Voting\""
+
+msgstr "Activate \"Like Voting\""
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:667
+
+#@ Nevada
+
+msgid "Blog Column Layout"
+
+msgstr "Blog Column Layout"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:671
+
+#@ Nevada
+
+msgid "Full Width"
+
+msgstr "Full Width"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:679
+
+#: lambda/metaboxes/lambda.metapanel.php:2656
+
+#@ Nevada
+
+msgid "Excerpt length"
+
+msgstr "Excerpt length"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:681
+
+#: lambda/metaboxes/lambda.metapanel.php:2658
+
+#@ Nevada
+
+msgid "for example: 55"
+
+msgstr "for example: 55"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:684
+
+#: lambda/metaboxes/lambda.metapanel.php:2661
+
+#@ Nevada
+
+msgid "Blog length"
+
+msgstr "Blog length"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:686
+
+#: lambda/metaboxes/lambda.metapanel.php:2663
+
+#@ Nevada
+
+msgid "how many items to display? for example: 6"
+
+msgstr "how many items to display? for example: 6"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:691
+
+#: lambda/metaboxes/lambda.metapanel.php:2666
+
+#@ Nevada
+
+msgid "Exclude Post (optional)"
+
+msgstr "Exclude Post (optional)"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:698
+
+#: lambda/metaboxes/lambda.metapanel.php:2674
+
+#@ Nevada
+
+msgid "Choose posts to exclude"
+
+msgstr "Choose posts to exclude"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:714
+
+#: lambda/metaboxes/lambda.metapanel.php:739
+
+#: lambda/metaboxes/lambda.metapanel.php:2687
+
+#: lambda/metaboxes/lambda.metapanel.php:2713
+
+#@ Nevada
+
+msgid "use shift or control to select multiple items"
+
+msgstr "use shift or control to select multiple items"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:719
+
+#: lambda/metaboxes/lambda.metapanel.php:2692
+
+#@ Nevada
+
+msgid "Show only Posts of this category (optional)"
+
+msgstr "Show only Posts of this category (optional)"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:726
+
+#: lambda/metaboxes/lambda.metapanel.php:2700
+
+#@ Nevada
+
+msgid "Choose"
+
+msgstr "Choose"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:735
+
+#: lambda/metaboxes/lambda.metapanel.php:2709
+
+#@ Nevada
+
+msgid "No Categories Available"
+
+msgstr "No Categories Available"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:752
+
+#: lambda/metaboxes/lambda.metapanel.php:1786
+
+#@ Nevada
+
+msgid "Address to display"
+
+msgstr "Address to display"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:754
+
+#: lambda/metaboxes/lambda.metapanel.php:1788
+
+#@ Nevada
+
+msgid "for example: 100 Biscayne Blvd. Florida 33148"
+
+msgstr "for example: 100 Biscayne Blvd. Florida 33148"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:757
+
+#: lambda/metaboxes/lambda.metapanel.php:1791
+
+#@ Nevada
+
+msgid "Zoom"
+
+msgstr "Zoom"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:759
+
+#: lambda/metaboxes/lambda.metapanel.php:1793
+
+#@ Nevada
+
+msgid "for example: 14"
+
+msgstr "for example: 14"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:762
+
+#: lambda/metaboxes/lambda.metapanel.php:1796
+
+#@ Nevada
+
+msgid "Map height"
+
+msgstr "Map height"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:764
+
+#: lambda/metaboxes/lambda.metapanel.php:1798
+
+#@ Nevada
+
+msgid "for example: 300"
+
+msgstr "for example: 300"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:777
+
+#: lambda/metaboxes/lambda.metapanel.php:3142
+
+#@ Nevada
+
+msgid "CTA Headline"
+
+msgstr "CTA Headline"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:779
+
+#: lambda/metaboxes/lambda.metapanel.php:3144
+
+#@ Nevada
+
+msgid "Headline for CTA Field"
+
+msgstr "Headline for CTA Field"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:784
+
+#: lambda/metaboxes/lambda.metapanel.php:789
+
+#: lambda/metaboxes/lambda.metapanel.php:1668
+
+#: lambda/metaboxes/lambda.metapanel.php:3092
+
+#: lambda/metaboxes/lambda.metapanel.php:3096
+
+#: lambda/metaboxes/lambda.metapanel.php:3149
+
+#: lambda/metaboxes/lambda.metapanel.php:3154
+
+#: lambda/metaboxes/lambda.metapanel.php:3492
+
+#: lambda/metaboxes/lambda.metapanel.php:3496
+
+#@ Nevada
+
+msgid "optional"
+
+msgstr "optional"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:787
+
+#: lambda/metaboxes/lambda.metapanel.php:3152
+
+#: lambda/metaboxes/lambda.slider.php:350
+
+#: lambda/slidermanager/index.php:610
+
+#: lambda/slidermanager/lambda.ajax.class.php:92
+
+#: lambda/slidermanager/lambda.slider.init.php:142
+
+#@ Nevada
+
+msgid "Buttonlink"
+
+msgstr "Buttonlink"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:840
+
+#@ Nevada
+
+msgid "Sidebar Settings"
+
+msgstr "Sidebar Settings"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:845
+
+#@ Nevada
+
+msgid "Choose Main Sidebar"
+
+msgstr "Choose Main Sidebar"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:861
+
+#@ Nevada
+
+msgid "overwrites the default sidebar"
+
+msgstr "overwrites the default sidebar"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:865
+
+#@ Nevada
+
+msgid "Choose Second Sidebar"
+
+msgstr "Choose Second Sidebar"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:881
+
+#@ Nevada
+
+msgid "only available when you choose <br /> Sidebar Alignement both"
+
+msgstr "only available when you choose <br /> Sidebar Alignement both"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:885
+
+#@ Nevada
+
+msgid "Sidebar Alignement"
+
+msgstr "Sidebar Alignement"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:889
+
+#@ Nevada
+
+msgid "right"
+
+msgstr "right"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:890
+
+#@ Nevada
+
+msgid "left"
+
+msgstr "left"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:891
+
+#@ Nevada
+
+msgid "both"
+
+msgstr "both"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:893
+
+#@ Nevada
+
+msgid "optional - not available in all templates!"
+
+msgstr "optional - not available in all templates!"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:905
+
+#@ Nevada
+
+msgid "Show Hide Author Box"
+
+msgstr "Show Hide Author Box"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:954
+
+#@ Nevada
+
+msgid "Main Background Settings"
+
+msgstr "Main Background Settings"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:955
+
+#@ Nevada
+
+msgid "Please note: This option will only take effect on the boxed layout"
+
+msgstr "Please note: This option will only take effect on the boxed layout"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:964
+
+#: lambda/metaboxes/lambda.slider.php:458
+
+#@ Nevada
+
+msgid "Choose Background Type"
+
+msgstr "Choose Background Type"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:965
+
+#@ Nevada
+
+msgid "Solid Color"
+
+msgstr "Solid Color"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:966
+
+#: lambda/metaboxes/lambda.slider.php:460
+
+#@ Nevada
+
+msgid "Background Pattern"
+
+msgstr "Background Pattern"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:967
+
+#@ Nevada
+
+msgid "FullSize Image (upload)"
+
+msgstr "FullSize Image (upload)"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:968
+
+#: lambda/metaboxes/lambda.slider.php:461
+
+#@ Nevada
+
+msgid "Background Texture"
+
+msgstr "Background Texture"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:969
+
+#@ Nevada
+
+msgid "Background Slider"
+
+msgstr "Background Slider"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1008
+
+#@ Nevada
+
+msgid "a solid backgroundcolor"
+
+msgstr "a solid backgroundcolor"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1052
+
+#@ Nevada
+
+msgid "Image Size should be 1600x900"
+
+msgstr "Image Size should be 1600x900"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1054
+
+#: lambda/metaboxes/lambda.metapanel.php:1662
+
+#: lambda/metaboxes/lambda.metapanel.php:1987
+
+#: lambda/metaboxes/lambda.metapanel.php:3086
+
+#: lambda/metaboxes/lambda.metapanel.php:3486
+
+#: lambda/metaboxes/lambda.slider.php:550
+
+#@ Nevada
+
+msgid "Image URL"
+
+msgstr "Image URL"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1098
+
+#@ Nevada
+
+msgid "Choose Backgroundslider"
+
+msgstr "Choose Backgroundslider"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1150
+
+#: lambda/metaboxes/lambda.metapanel.php:2509
+
+#@ Nevada
+
+msgid "Portfolio Settings"
+
+msgstr "Portfolio Settings"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1160
+
+#@ Nevada
+
+msgid "Choose Project Types"
+
+msgstr "Choose Project Types"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1181
+
+#@ Nevada
+
+msgid "show only projects of the checked type in this portfolio page"
+
+msgstr "show only projects of the checked type in this portfolio page"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1192
+
+#@ Nevada
+
+msgid "Portfolio 2 Column"
+
+msgstr "Portfolio 2 Column"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1195
+
+#@ Nevada
+
+msgid "Portfolio 3 Column"
+
+msgstr "Portfolio 3 Column"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1198
+
+#@ Nevada
+
+msgid "Portfolio 4 Column"
+
+msgstr "Portfolio 4 Column"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1220
+
+#@ Nevada
+
+msgid "Show / Hide Filter"
+
+msgstr "Show / Hide Filter"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1233
+
+#@ Nevada
+
+msgid "Portfolio Items per Page"
+
+msgstr "Portfolio Items per Page"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1236
+
+#@ Nevada
+
+msgid "default: 9"
+
+msgstr "default: 9"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1239
+
+#@ Nevada
+
+msgid "Pagination: previous text"
+
+msgstr "Pagination: previous text"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1242
+
+#@ Nevada
+
+msgid "Text for \"prev works\" link."
+
+msgstr "Text for \"prev works\" link."
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1245
+
+#@ Nevada
+
+msgid "Pagination: next text"
+
+msgstr "Pagination: next text"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1248
+
+#@ Nevada
+
+msgid "Text for \"next works\" link."
+
+msgstr "Text for \"next works\" link."
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1254
+
+#@ Nevada
+
+msgid "Portfolio Item Title"
+
+msgstr "Portfolio Item Title"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1321
+
+#@ Nevada
+
+msgid "Share a link!"
+
+msgstr "Share a link!"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1342
+
+#@ Nevada
+
+msgid "Share a Quote!"
+
+msgstr "Share a Quote!"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1358
+
+#@ Nevada
+
+msgid "Video Details"
+
+msgstr "Video Details"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1414
+
+#: lambda/metaboxes/lambda.metapanel.php:1541
+
+#@ Nevada
+
+msgid "Audio Details"
+
+msgstr "Audio Details"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1422
+
+#: lambda/metaboxes/lambda.metapanel.php:1549
+
+#@ Nevada
+
+msgid "The URL to Soundcloud"
+
+msgstr "The URL to Soundcloud"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1424
+
+#: lambda/metaboxes/lambda.metapanel.php:1551
+
+#@ Nevada
+
+msgid "or"
+
+msgstr "or"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1426
+
+#: lambda/metaboxes/lambda.metapanel.php:1553
+
+#@ Nevada
+
+msgid "MP3 URL"
+
+msgstr "MP3 URL"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1429
+
+#: lambda/metaboxes/lambda.metapanel.php:1556
+
+#@ Nevada
+
+msgid "URL to MP3 file"
+
+msgstr "URL to MP3 file"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1431
+
+#: lambda/metaboxes/lambda.metapanel.php:1558
+
+#@ Nevada
+
+msgid "OGG URL"
+
+msgstr "OGG URL"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1434
+
+#: lambda/metaboxes/lambda.metapanel.php:1561
+
+#@ Nevada
+
+msgid "URL to OGG file"
+
+msgstr "URL to OGG file"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1446
+
+#: lambda/metaboxes/lambda.metapanel.php:1453
+
+#: lambda/metaboxes/lambda.metapanel.php:1460
+
+#: lambda/metaboxes/lambda.metapanel.php:1467
+
+#@ Nevada
+
+msgid "No Post Settings available for this Format!"
+
+msgstr "No Post Settings available for this Format!"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1497
+
+#@ Nevada
+
+msgid "Project Items"
+
+msgstr "Project Items"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1507
+
+#@ Nevada
+
+msgid "Project Type"
+
+msgstr "Project Type"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1513
+
+#@ Nevada
+
+msgid "Portfolio Description Title"
+
+msgstr "Portfolio Description Title"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1516
+
+#@ Nevada
+
+msgid "displayed above the portfolio description"
+
+msgstr "displayed above the portfolio description"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1522
+
+#@ Nevada
+
+msgid "Choose Portfolio Type"
+
+msgstr "Choose Portfolio Type"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1523
+
+#@ Nevada
+
+msgid "Audio"
+
+msgstr "Audio"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1525
+
+#: lambda/metaboxes/lambda.slider.php:46
+
+#@ Nevada
+
+msgid "Slider"
+
+msgstr "Slider"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1526
+
+#@ Nevada
+
+msgid "Single Image"
+
+msgstr "Single Image"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1575
+
+#@ Nevada
+
+msgid "Manage your Video"
+
+msgstr "Manage your Video"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1576
+
+#@ Nevada
+
+msgid "to build up a video on the project page!"
+
+msgstr "to build up a video on the project page!"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1641
+
+#@ Nevada
+
+msgid "Manage your Project Items"
+
+msgstr "Manage your Project Items"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1642
+
+#@ Nevada
+
+msgid "to build up a gallery /slider on the project page!"
+
+msgstr "to build up a gallery /slider on the project page!"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1654
+
+#@ Nevada
+
+msgid "new slide"
+
+msgstr "new slide"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1665
+
+#: lambda/metaboxes/lambda.metapanel.php:1725
+
+#: lambda/metaboxes/lambda.metapanel.php:3089
+
+#: lambda/metaboxes/lambda.metapanel.php:3290
+
+#: lambda/metaboxes/lambda.metapanel.php:3489
+
+#@ Nevada
+
+msgid "Remove"
+
+msgstr "Remove"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1668
+
+#: lambda/metaboxes/lambda.metapanel.php:3096
+
+#: lambda/metaboxes/lambda.metapanel.php:3496
+
+#@ Nevada
+
+msgid "Set \"alt\" (for SEO)"
+
+msgstr "Set \"alt\" (for SEO)"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1679
+
+#@ Nevada
+
+msgid "Add New Item"
+
+msgstr "Add New Item"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1682
+
+#@ Nevada
+
+msgid "Remove All Items"
+
+msgstr "Remove All Items"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1693
+
+#@ Nevada
+
+msgid "Work Description"
+
+msgstr "Work Description"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1698
+
+#@ Nevada
+
+msgid "Work Description Title"
+
+msgstr "Work Description Title"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1701
+
+#@ Nevada
+
+msgid "displayed above the work description"
+
+msgstr "displayed above the work description"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1704
+
+#@ Nevada
+
+msgid "Add Work Description"
+
+msgstr "Add Work Description"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1711
+
+#@ Nevada
+
+msgid "new work description"
+
+msgstr "new work description"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1717
+
+#@ Nevada
+
+msgid "Title and Name / Description"
+
+msgstr "Title and Name / Description"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1724
+
+#@ Nevada
+
+msgid "Description is a link"
+
+msgstr "Description is a link"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1733
+
+#@ Nevada
+
+msgid "Add Description"
+
+msgstr "Add Description"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1759
+
+#@ Nevada
+
+msgid "Contact Form Settings & Builder"
+
+msgstr "Contact Form Settings & Builder"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1768
+
+#@ Nevada
+
+msgid "Google Maps"
+
+msgstr "Google Maps"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1775
+
+#@ Nevada
+
+msgid "show google map above contact form"
+
+msgstr "show google map above contact form"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1780
+
+#@ Nevada
+
+msgid "Map Title"
+
+msgstr "Map Title"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1782
+
+#@ Nevada
+
+msgid "Insert title for Google Map"
+
+msgstr "Insert title for Google Map"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1803
+
+#@ Nevada
+
+msgid "Email Settings"
+
+msgstr "Email Settings"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1810
+
+#@ Nevada
+
+msgid "Email Recipient"
+
+msgstr "Email Recipient"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1812
+
+#@ Nevada
+
+msgid "Send email to a specified email (leave empty to send an email to Admin)"
+
+msgstr "Send email to a specified email (leave empty to send an email to Admin)"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1818
+
+#@ Nevada
+
+msgid "Email subject"
+
+msgstr "Email subject"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1825
+
+#@ Nevada
+
+msgid "Text on submit button"
+
+msgstr "Text on submit button"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1834
+
+#@ Nevada
+
+msgid "Drag and Drop Elements to change the order! Click on item to unroll"
+
+msgstr "Drag and Drop Elements to change the order! Click on item to unroll"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1841
+
+#@ Nevada
+
+msgid "Contact Form Title"
+
+msgstr "Contact Form Title"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1854
+
+#@ Nevada
+
+msgid "new field"
+
+msgstr "new field"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1859
+
+#@ Nevada
+
+msgid "Field Name"
+
+msgstr "Field Name"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1861
+
+#@ Nevada
+
+msgid "Choose a Fieldname, for example: Name, Website, Message etc."
+
+msgstr "Choose a Fieldname, for example: Name, Website, Message etc."
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1867
+
+#@ Nevada
+
+msgid "Field Type"
+
+msgstr "Field Type"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1880
+
+#@ Nevada
+
+msgid "Enter Values"
+
+msgstr "Enter Values"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1882
+
+#@ Nevada
+
+msgid "semicolon delimited for example: Yes;No or Los Angels;San Francisco"
+
+msgstr "semicolon delimited for example: Yes;No or Los Angels;San Francisco"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1889
+
+#@ Nevada
+
+msgid "this field is required"
+
+msgstr "this field is required"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1894
+
+#@ Nevada
+
+msgid "Error Message"
+
+msgstr "Error Message"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1897
+
+#@ Nevada
+
+msgid "Enter custom error message"
+
+msgstr "Enter custom error message"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1901
+
+#@ Nevada
+
+msgid "min length"
+
+msgstr "min length"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1904
+
+#@ Nevada
+
+msgid "Min length of input (not available for radio / select or checkbox)"
+
+msgstr "Min length of input (not available for radio / select or checkbox)"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1908
+
+#@ Nevada
+
+msgid "Delete Field"
+
+msgstr "Delete Field"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1917
+
+#@ Nevada
+
+msgid "add new field"
+
+msgstr "add new field"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1945
+
+#@ Nevada
+
+msgid "Manage Template"
+
+msgstr "Manage Template"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1956
+
+#@ Nevada
+
+msgid "Add Team Member"
+
+msgstr "Add Team Member"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1966
+
+#@ Nevada
+
+msgid "new member"
+
+msgstr "new member"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1971
+
+#@ Nevada
+
+msgid "Member Name"
+
+msgstr "Member Name"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1975
+
+#@ Nevada
+
+msgid "Member Title"
+
+msgstr "Member Title"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1985
+
+#@ Nevada
+
+msgid "Image Size should be 140x140"
+
+msgstr "Image Size should be 140x140"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1994
+
+#@ Nevada
+
+msgid "Member Email"
+
+msgstr "Member Email"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:1998
+
+#@ Nevada
+
+msgid "Member Website"
+
+msgstr "Member Website"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2002
+
+#@ Nevada
+
+msgid "Member Twitter Account"
+
+msgstr "Member Twitter Account"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2006
+
+#@ Nevada
+
+msgid "Member Facebook Profile"
+
+msgstr "Member Facebook Profile"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2010
+
+#@ Nevada
+
+msgid "Member GogolePlus Account"
+
+msgstr "Member GogolePlus Account"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2026
+
+#@ Nevada
+
+msgid "Delete Member"
+
+msgstr "Delete Member"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2033
+
+#@ Nevada
+
+msgid "add new member"
+
+msgstr "add new member"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2060
+
+#@ Nevada
+
+msgid "Manage FAQ"
+
+msgstr "Manage FAQ"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2070
+
+#@ Nevada
+
+msgid "Add FAQ Item"
+
+msgstr "Add FAQ Item"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2080
+
+#@ Nevada
+
+msgid "new question"
+
+msgstr "new question"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2085
+
+#@ Nevada
+
+msgid "Question"
+
+msgstr "Question"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2095
+
+#@ Nevada
+
+msgid "Delete FAQ"
+
+msgstr "Delete FAQ"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2104
+
+#@ Nevada
+
+msgid "add new question"
+
+msgstr "add new question"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2110
+
+#@ Nevada
+
+msgid "Additional Content to display beneath the FAQ"
+
+msgstr "Additional Content to display beneath the FAQ"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2155
+
+#@ Nevada
+
+msgid "Manage Home Site"
+
+msgstr "Manage Home Site"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2186
+
+#: lambda/metaboxes/lambda.metapanel.php:2212
+
+#@ Nevada
+
+msgid "Service Columns"
+
+msgstr "Service Columns"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2188
+
+#@ Nevada
+
+msgid "Blog Excerpt"
+
+msgstr "Blog Excerpt"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2189
+
+#: lambda/metaboxes/lambda.metapanel.php:2730
+
+#@ Nevada
+
+msgid "Toggles & Testimonials"
+
+msgstr "Toggles & Testimonials"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2192
+
+#@ Nevada
+
+msgid "Element Order"
+
+msgstr "Element Order"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2219
+
+#@ Nevada
+
+msgid "Activate Service Columns"
+
+msgstr "Activate Service Columns"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2244
+
+#@ Nevada
+
+msgid "Activate Service Column 1"
+
+msgstr "Activate Service Column 1"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2302
+
+#@ Nevada
+
+msgid "Activate Service Column 2"
+
+msgstr "Activate Service Column 2"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2360
+
+#@ Nevada
+
+msgid "Activate Service Column 3"
+
+msgstr "Activate Service Column 3"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2418
+
+#@ Nevada
+
+msgid "Activate Service Column 4"
+
+msgstr "Activate Service Column 4"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2491
+
+#@ Nevada
+
+msgid "Activate Portfolio"
+
+msgstr "Activate Portfolio"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2576
+
+#@ Nevada
+
+msgid "Blog Intro Box"
+
+msgstr "Blog Intro Box"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2583
+
+#@ Nevada
+
+msgid "Activate latest Blog?"
+
+msgstr "Activate latest Blog?"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2737
+
+#@ Nevada
+
+msgid "Activate Toggles & Testimonials"
+
+msgstr "Activate Toggles & Testimonials"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2754
+
+#@ Nevada
+
+msgid "Service Headline"
+
+msgstr "Service Headline"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2756
+
+#@ Nevada
+
+msgid "headline above service toggles"
+
+msgstr "headline above service toggles"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2761
+
+#@ Nevada
+
+msgid "Toggle Content Type"
+
+msgstr "Toggle Content Type"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2763
+
+#: lambda/metaboxes/lambda.metapanel.php:3025
+
+#@ Nevada
+
+msgid "Select content ..."
+
+msgstr "Select content ..."
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2764
+
+#@ Nevada
+
+msgid "from an existing page (Service Template)"
+
+msgstr "from an existing page (Service Template)"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2765
+
+#@ Nevada
+
+msgid "create own toggles"
+
+msgstr "create own toggles"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2772
+
+#: lambda/metaboxes/lambda.metapanel.php:3035
+
+#@ Nevada
+
+msgid "Load last X client logos"
+
+msgstr "Load last X client logos"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2777
+
+#@ Nevada
+
+msgid "Choose Service Page"
+
+msgstr "Choose Service Page"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2805
+
+#: lambda/metaboxes/lambda.metapanel.php:3068
+
+#@ Nevada
+
+msgid "Choose Services from an existing <br /> Service Template"
+
+msgstr "Choose Services from an existing <br /> Service Template"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2815
+
+#: lambda/metaboxes/lambda.metapanel.php:3368
+
+#@ Nevada
+
+msgid "new tab"
+
+msgstr "new tab"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2820
+
+#: lambda/metaboxes/lambda.metapanel.php:3373
+
+#@ Nevada
+
+msgid "Tab Name"
+
+msgstr "Tab Name"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2833
+
+#: lambda/metaboxes/lambda.metapanel.php:2939
+
+#: lambda/metaboxes/lambda.metapanel.php:3385
+
+#: lambda/slidermanager/index.php:133
+
+#: lambda/tablemanager/index.php:103
+
+#@ Nevada
+
+msgid "Delete"
+
+msgstr "Delete"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2841
+
+#: lambda/metaboxes/lambda.metapanel.php:3107
+
+#@ Nevada
+
+msgid "add new tab"
+
+msgstr "add new tab"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2848
+
+#@ Nevada
+
+msgid "Testimonial Headline"
+
+msgstr "Testimonial Headline"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2850
+
+#@ Nevada
+
+msgid "headline above testimonials"
+
+msgstr "headline above testimonials"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2866
+
+#@ Nevada
+
+msgid "Testimonial Type"
+
+msgstr "Testimonial Type"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2868
+
+#@ Nevada
+
+msgid "Select testimonial type ..."
+
+msgstr "Select testimonial type ..."
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2869
+
+#@ Nevada
+
+msgid "from an existing page"
+
+msgstr "from an existing page"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2870
+
+#@ Nevada
+
+msgid "create own testimonials"
+
+msgstr "create own testimonials"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2875
+
+#@ Nevada
+
+msgid "Choose Testimonial Page"
+
+msgstr "Choose Testimonial Page"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2903
+
+#@ Nevada
+
+msgid "Choose Testimonials from an existing Testimonial Template"
+
+msgstr "Choose Testimonials from an existing Testimonial Template"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2913
+
+#: lambda/metaboxes/lambda.metapanel.php:3263
+
+#@ Nevada
+
+msgid "new testimonial"
+
+msgstr "new testimonial"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2927
+
+#: lambda/metaboxes/lambda.metapanel.php:3273
+
+#@ Nevada
+
+msgid "Image size should be 50x50"
+
+msgstr "Image size should be 50x50"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2932
+
+#@ Nevada
+
+msgid "Testimonial"
+
+msgstr "Testimonial"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2947
+
+#@ Nevada
+
+msgid "Add new testimonial"
+
+msgstr "Add new testimonial"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2966
+
+#@ Nevada
+
+msgid "Client Section"
+
+msgstr "Client Section"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2973
+
+#@ Nevada
+
+msgid "Activate Clients"
+
+msgstr "Activate Clients"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2990
+
+#@ Nevada
+
+msgid "Client Headline"
+
+msgstr "Client Headline"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2992
+
+#@ Nevada
+
+msgid "headline above client section"
+
+msgstr "headline above client section"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:2997
+
+#: lambda/metaboxes/lambda.metapanel.php:3435
+
+#@ Nevada
+
+msgid "Client - 4 Column"
+
+msgstr "Client - 4 Column"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3000
+
+#: lambda/metaboxes/lambda.metapanel.php:3438
+
+#@ Nevada
+
+msgid "Client - 5 Column"
+
+msgstr "Client - 5 Column"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3007
+
+#@ Nevada
+
+msgid "Client Column Layout"
+
+msgstr "Client Column Layout"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3023
+
+#@ Nevada
+
+msgid "Client Content Type"
+
+msgstr "Client Content Type"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3026
+
+#@ Nevada
+
+msgid "from an existing page (Client Template)"
+
+msgstr "from an existing page (Client Template)"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3027
+
+#@ Nevada
+
+msgid "create own client list"
+
+msgstr "create own client list"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3040
+
+#@ Nevada
+
+msgid "Choose Client Page"
+
+msgstr "Choose Client Page"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3092
+
+#: lambda/metaboxes/lambda.metapanel.php:3492
+
+#@ Nevada
+
+msgid "Client URL"
+
+msgstr "Client URL"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3126
+
+#@ Nevada
+
+msgid "Activate Call to Action Box"
+
+msgstr "Activate Call to Action Box"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3174
+
+#@ Nevada
+
+msgid "Order the Start Elements"
+
+msgstr "Order the Start Elements"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3243
+
+#@ Nevada
+
+msgid "Manage Testimonial Template"
+
+msgstr "Manage Testimonial Template"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3253
+
+#@ Nevada
+
+msgid "Manage Testimonial"
+
+msgstr "Manage Testimonial"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3278
+
+#@ Nevada
+
+msgid "Testimonial Author Name"
+
+msgstr "Testimonial Author Name"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3281
+
+#@ Nevada
+
+msgid "Testimonial Comment"
+
+msgstr "Testimonial Comment"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3298
+
+#@ Nevada
+
+msgid "add new testimonial"
+
+msgstr "add new testimonial"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3304
+
+#@ Nevada
+
+msgid "Additional Content to display beneath the Testimonials"
+
+msgstr "Additional Content to display beneath the Testimonials"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3347
+
+#@ Nevada
+
+msgid "Manage Service Template"
+
+msgstr "Manage Service Template"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3358
+
+#@ Nevada
+
+msgid "Manage Tabs"
+
+msgstr "Manage Tabs"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3393
+
+#@ Nevada
+
+msgid "add new service tab"
+
+msgstr "add new service tab"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3418
+
+#@ Nevada
+
+msgid "Manage Client Template"
+
+msgstr "Manage Client Template"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3428
+
+#@ Nevada
+
+msgid "Manage Layout"
+
+msgstr "Manage Layout"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3464
+
+#@ Nevada
+
+msgid "Manage Clients"
+
+msgstr "Manage Clients"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3469
+
+#@ Nevada
+
+msgid "We recommend to use identical logo sizes for each client"
+
+msgstr "We recommend to use identical logo sizes for each client"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3508
+
+#@ Nevada
+
+msgid "Add New Client"
+
+msgstr "Add New Client"
+
+
+
+#: lambda/metaboxes/lambda.metapanel.php:3511
+
+#@ Nevada
+
+msgid "Remove All Clients"
+
+msgstr "Remove All Clients"
+
+
+
+#: lambda/metaboxes/lambda.slider.php:31
+
+#: lambda/metaboxes/lambda.slider.php:43
+
+#@ Nevada
+
+msgid "Choose Header Type"
+
+msgstr "Choose Header Type"
+
+
+
+#: lambda/metaboxes/lambda.slider.php:44
+
+#: lambda/metaboxes/lambda.slider.php:81
+
+#: lambda/metaboxes/lambda.slider.php:87
+
+#@ Nevada
+
+msgid "Static Image"
+
+msgstr "Static Image"
+
+
+
+#: lambda/metaboxes/lambda.slider.php:45
+
+#: lambda/metaboxes/lambda.slider.php:139
+
+#@ Nevada
+
+msgid "Static Video"
+
+msgstr "Static Video"
+
+
+
+#: lambda/metaboxes/lambda.slider.php:47
+
+#@ Nevada
+
+msgid "Static Video + Text"
+
+msgstr "Static Video + Text"
+
+
+
+#: lambda/metaboxes/lambda.slider.php:87
+
+#@ Nevada
+
+msgid "This Image should be at least 980px wide"
+
+msgstr "This Image should be at least 980px wide"
+
+
+
+#: lambda/metaboxes/lambda.slider.php:99
+
+#@ Nevada
+
+msgid "URL (optional)"
+
+msgstr "URL (optional)"
+
+
+
+#: lambda/metaboxes/lambda.slider.php:105
+
+#@ Nevada
+
+msgid "Caption (optional)"
+
+msgstr "Caption (optional)"
+
+
+
+#: lambda/metaboxes/lambda.slider.php:113
+
+#@ Nevada
+
+msgid "Image width"
+
+msgstr "Image width"
+
+
+
+#: lambda/metaboxes/lambda.slider.php:119
+
+#@ Nevada
+
+msgid "centered"
+
+msgstr "centered"
+
+
+
+#: lambda/metaboxes/lambda.slider.php:121
+
+#@ Nevada
+
+msgid "fullwidth"
+
+msgstr "fullwidth"
+
+
+
+#: lambda/metaboxes/lambda.slider.php:123
+
+#@ Nevada
+
+msgid "only takes effect on full width layouts!"
+
+msgstr "only takes effect on full width layouts!"
+
+
+
+#: lambda/metaboxes/lambda.slider.php:206
+
+#@ Nevada
+
+msgid "Static Slider"
+
+msgstr "Static Slider"
+
+
+
+#: lambda/metaboxes/lambda.slider.php:257
+
+#@ Nevada
+
+msgid "Static Video & Text"
+
+msgstr "Static Video & Text"
+
+
+
+#: lambda/metaboxes/lambda.slider.php:300
+
+#@ Nevada
+
+msgid "Headline Color"
+
+msgstr "Headline Color"
+
+
+
+#: lambda/metaboxes/lambda.slider.php:305
+
+#: lambda/widgets/lambda_video.php:24
+
+#@ Nevada
+
+msgid "Text"
+
+msgstr "Text"
+
+
+
+#: lambda/metaboxes/lambda.slider.php:341
+
+#@ Nevada
+
+msgid "Textcolor"
+
+msgstr "Textcolor"
+
+
+
+#: lambda/metaboxes/lambda.slider.php:421
+
+#@ Nevada
+
+msgid "Hide Teaser?"
+
+msgstr "Hide Teaser?"
+
+
+
+#: lambda/metaboxes/lambda.slider.php:449
+
+#@ Nevada
+
+msgid "Background Settings"
+
+msgstr "Background Settings"
+
+
+
+#: lambda/metaboxes/lambda.slider.php:459
+
+#@ Nevada
+
+msgid "Image or Color"
+
+msgstr "Image or Color"
+
+
+
+#: lambda/metaboxes/lambda.taxonomy.php:2
+
+#@ Nevada
+
+msgid "SortID"
+
+msgstr "SortID"
+
+
+
+#: lambda/slidermanager/index.php:113
+
+#@ Nevada
+
+msgid "Manage your Sliders"
+
+msgstr "Manage your Sliders"
+
+
+
+#: lambda/slidermanager/index.php:123
+
+#@ Nevada
+
+msgid "List of created sliders"
+
+msgstr "List of created sliders"
+
+
+
+#: lambda/slidermanager/index.php:128
+
+#: lambda/tablemanager/index.php:99
+
+#@ Nevada
+
+msgid "ID"
+
+msgstr "ID"
+
+
+
+#: lambda/slidermanager/index.php:129
+
+#: lambda/slidermanager/index.php:203
+
+#@ Nevada
+
+msgid "Slider Name"
+
+msgstr "Slider Name"
+
+
+
+#: lambda/slidermanager/index.php:130
+
+#@ Nevada
+
+msgid "Slider Type"
+
+msgstr "Slider Type"
+
+
+
+#: lambda/slidermanager/index.php:131
+
+#: lambda/tablemanager/index.php:101
+
+#: lambda/tinymce/lambda.sc.generator.php:345
+
+#@ Nevada
+
+msgid "Shortcode"
+
+msgstr "Shortcode"
+
+
+
+#: lambda/slidermanager/index.php:132
+
+#: lambda/tablemanager/index.php:102
+
+#: loop-page.php:38
+
+#: loop-pagebuilder.php:110
+
+#: loop-pagecreator.php:120
+
+#: loop-portfolio.php:134
+
+#: loop-single.php:87
+
+#: loop-sliderpage.php:23
+
+#: loop.php:159
+
+#: loop.php:272
+
+#: loop.php:398
+
+#: loop.php:478
+
+#: loop.php:574
+
+#: loop.php:677
+
+#@ Nevada
+
+msgid "Edit"
+
+msgstr "Edit"
+
+
+
+#: lambda/slidermanager/index.php:200
+
+#@ Nevada
+
+msgid "Enter Slider Name"
+
+msgstr "Enter Slider Name"
+
+
+
+#: lambda/slidermanager/index.php:206
+
+#@ Nevada
+
+msgid "Choose Slider Type"
+
+msgstr "Choose Slider Type"
+
+
+
+#: lambda/slidermanager/index.php:211
+
+#@ Nevada
+
+msgid "Select Slidertype"
+
+msgstr "Select Slidertype"
+
+
+
+#: lambda/slidermanager/index.php:212
+
+#@ Nevada
+
+msgid "Camera Slider"
+
+msgstr "Camera Slider"
+
+
+
+#: lambda/slidermanager/index.php:213
+
+#@ Nevada
+
+msgid "superSized Slider"
+
+msgstr "superSized Slider"
+
+
+
+#: lambda/slidermanager/index.php:221
+
+#: lambda/tablemanager/index.php:174
+
+#@ Nevada
+
+msgid "* Do not use spaces or special characters in the name. This Name is only for internal use!"
+
+msgstr "* Do not use spaces or special characters in the name. This Name is only for internal use!"
+
+
+
+#: lambda/slidermanager/index.php:301
+
+#@ Nevada
+
+msgid "Slider deleted"
+
+msgstr "Slider deleted"
+
+
+
+#: lambda/slidermanager/index.php:316
+
+#@ Nevada
+
+msgid "Slider deactivated"
+
+msgstr "Slider deactivated"
+
+
+
+#: lambda/slidermanager/index.php:331
+
+#@ Nevada
+
+msgid "Slider activated"
+
+msgstr "Slider activated"
+
+
+
+#: lambda/slidermanager/index.php:377
+
+#@ Nevada
+
+msgid "Slider Manager"
+
+msgstr "Slider Manager"
+
+
+
+#: lambda/slidermanager/index.php:378
+
+#: lambda/slidermanager/index.php:655
+
+#: lambda/tablemanager/index.php:282
+
+#@ Nevada
+
+msgid "Save Settings"
+
+msgstr "Save Settings"
+
+
+
+#: lambda/slidermanager/index.php:388
+
+#@ Nevada
+
+msgid "General Slider Settings"
+
+msgstr "General Slider Settings"
+
+
+
+#: lambda/slidermanager/index.php:392
+
+#@ Nevada
+
+msgid "Add Slider Items"
+
+msgstr "Add Slider Items"
+
+
+
+#: lambda/slidermanager/index.php:480
+
+#@ Nevada
+
+msgid "Choose Category"
+
+msgstr "Choose Category"
+
+
+
+#: lambda/slidermanager/index.php:487
+
+#@ Nevada
+
+msgid "All Categories"
+
+msgstr "All Categories"
+
+
+
+#: lambda/slidermanager/index.php:500
+
+#@ Nevada
+
+msgid "Add Slide"
+
+msgstr "Add Slide"
+
+
+
+#: lambda/slidermanager/index.php:524
+
+#: lambda/slidermanager/lambda.ajax.class.php:22
+
+#: lambda/slidermanager/lambda.slider.init.php:85
+
+#@ Nevada
+
+msgid "Choose an Image"
+
+msgstr "Choose an Image"
+
+
+
+#: lambda/slidermanager/index.php:542
+
+#: lambda/slidermanager/lambda.ajax.class.php:34
+
+#: lambda/slidermanager/lambda.slider.init.php:97
+
+#@ Nevada
+
+msgid "or place an embedded video code"
+
+msgstr "or place an embedded video code"
+
+
+
+#: lambda/slidermanager/index.php:547
+
+#: lambda/slidermanager/lambda.ajax.class.php:38
+
+#: lambda/slidermanager/lambda.slider.init.php:101
+
+#@ Nevada
+
+msgid "You can also insert an image if using a video, this will be used as a poster!"
+
+msgstr "You can also insert an image if using a video, this will be used as a poster!"
+
+
+
+#: lambda/slidermanager/index.php:557
+
+#: lambda/slidermanager/lambda.ajax.class.php:48
+
+#: lambda/slidermanager/lambda.slider.init.php:111
+
+#@ Nevada
+
+msgid "Caption Headline"
+
+msgstr "Caption Headline"
+
+
+
+#: lambda/slidermanager/index.php:572
+
+#: lambda/slidermanager/lambda.ajax.class.php:60
+
+#: lambda/slidermanager/lambda.slider.init.php:122
+
+#@ Nevada
+
+msgid "Caption Text"
+
+msgstr "Caption Text"
+
+
+
+#: lambda/slidermanager/lambda.ajax.class.php:27
+
+#: lambda/slidermanager/lambda.slider.init.php:90
+
+#@ Nevada
+
+msgid "upload"
+
+msgstr "upload"
+
+
+
+#: lambda/slidermanager/lambda.slider.init.php:78
+
+#@ Nevada
+
+msgid "New Slide"
+
+msgstr "New Slide"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:69
+
+#@ Nevada
+
+msgid "Transition Effect"
+
+msgstr "Transition Effect"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:70
+
+#@ Nevada
+
+msgid "Select your transition effect type"
+
+msgstr "Select your transition effect type"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:77
+
+#@ Nevada
+
+msgid "Easing Effect"
+
+msgstr "Easing Effect"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:78
+
+#@ Nevada
+
+msgid "Select your easing effect type"
+
+msgstr "Select your easing effect type"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:84
+
+#@ Nevada
+
+msgid "Slide Show Height"
+
+msgstr "Slide Show Height"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:85
+
+#@ Nevada
+
+msgid "here you can type pixels (for instance 300px), a percentage (relative to the width of the slideshow, for instance 50%)"
+
+msgstr "here you can type pixels (for instance 300px), a percentage (relative to the width of the slideshow, for instance 50%)"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:91
+
+#@ Nevada
+
+msgid "Slide Show Speed"
+
+msgstr "Slide Show Speed"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:92
+
+#@ Nevada
+
+msgid "milliseconds between the end of the sliding effect and the start of the nex one"
+
+msgstr "milliseconds between the end of the sliding effect and the start of the nex one"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:97
+
+#@ Nevada
+
+msgid "Animation Speed"
+
+msgstr "Animation Speed"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:98
+
+#@ Nevada
+
+msgid "length of the sliding effect in milliseconds"
+
+msgstr "length of the sliding effect in milliseconds"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:105
+
+#@ Nevada
+
+msgid "Loader Style"
+
+msgstr "Loader Style"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:106
+
+#@ Nevada
+
+msgid "even if you choose \"pie\", old browsers like IE8- can't display it... they will display always a loading bar"
+
+msgstr "even if you choose \"pie\", old browsers like IE8- can't display it... they will display always a loading bar"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:113
+
+#@ Nevada
+
+msgid "Loader Position"
+
+msgstr "Loader Position"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:114
+
+#@ Nevada
+
+msgid "choose one of the 4 Positions"
+
+msgstr "choose one of the 4 Positions"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:121
+
+#@ Nevada
+
+msgid "Loader Opacity"
+
+msgstr "Loader Opacity"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:122
+
+#@ Nevada
+
+msgid "Change the loader opacity"
+
+msgstr "Change the loader opacity"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:129
+
+#@ Nevada
+
+msgid "Display Controls on hover?"
+
+msgstr "Display Controls on hover?"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:130
+
+#@ Nevada
+
+msgid "if true the navigation button (prev, next and play/stop buttons) will be visible on hover state only, if false they will be visible always"
+
+msgstr "if true the navigation button (prev, next and play/stop buttons) will be visible on hover state only, if false they will be visible always"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:137
+
+#@ Nevada
+
+msgid "Display Bullets?"
+
+msgstr "Display Bullets?"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:138
+
+#@ Nevada
+
+msgid "If true each slide will create a bullet instead of a thumbnail"
+
+msgstr "If true each slide will create a bullet instead of a thumbnail"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:145
+
+#@ Nevada
+
+msgid "Display Thumbnails?"
+
+msgstr "Display Thumbnails?"
+
+
+
+#: lambda/slidermanager/slider-plugins/lambda.cameraslider.init.php:146
+
+#@ Nevada
+
+msgid "If true the user will see thumbnails as an additional menu when hovering the bullets"
+
+msgstr "If true the user will see thumbnails as an additional menu when hovering the bullets"
+
+
+
+#: lambda/tablemanager/index.php:84
+
+#@ Nevada
+
+msgid "Manage your Tables"
+
+msgstr "Manage your Tables"
+
+
+
+#: lambda/tablemanager/index.php:94
+
+#@ Nevada
+
+msgid "List of created Tables"
+
+msgstr "List of created Tables"
+
+
+
+#: lambda/tablemanager/index.php:100
+
+#: lambda/tablemanager/index.php:167
+
+#@ Nevada
+
+msgid "Table Name"
+
+msgstr "Table Name"
+
+
+
+#: lambda/tablemanager/index.php:164
+
+#@ Nevada
+
+msgid "Enter Table Name"
+
+msgstr "Enter Table Name"
+
+
+
+#: lambda/tablemanager/index.php:170
+
+#@ Nevada
+
+msgid "Add new Table"
+
+msgstr "Add new Table"
+
+
+
+#: lambda/tablemanager/index.php:259
+
+#@ Nevada
+
+msgid "Table deleted"
+
+msgstr "Table deleted"
+
+
+
+#: lambda/tablemanager/index.php:279
+
+#@ Nevada
+
+msgid "Table Manager"
+
+msgstr "Table Manager"
+
+
+
+#: lambda/tablemanager/index.php:297
+
+#@ Nevada
+
+msgid "Activate Column?"
+
+msgstr "Activate Column?"
+
+
+
+#: lambda/tablemanager/index.php:315
+
+#@ Nevada
+
+msgid "Column is featured?"
+
+msgstr "Column is featured?"
+
+
+
+#: lambda/tablemanager/index.php:321
+
+#@ Nevada
+
+msgid "yes"
+
+msgstr "yes"
+
+
+
+#: lambda/tablemanager/index.php:322
+
+#@ Nevada
+
+msgid "no"
+
+msgstr "no"
+
+
+
+#: lambda/tablemanager/index.php:333
+
+#@ Nevada
+
+msgid "Column Headline"
+
+msgstr "Column Headline"
+
+
+
+#: lambda/tablemanager/index.php:338
+
+#@ Nevada
+
+msgid "Column Price"
+
+msgstr "Column Price"
+
+
+
+#: lambda/tablemanager/index.php:343
+
+#@ Nevada
+
+msgid "Price Currency"
+
+msgstr "Price Currency"
+
+
+
+#: lambda/tablemanager/index.php:348
+
+#@ Nevada
+
+msgid "Period"
+
+msgstr "Period"
+
+
+
+#: lambda/tablemanager/index.php:353
+
+#@ Nevada
+
+msgid "Features"
+
+msgstr "Features"
+
+
+
+#: lambda/tablemanager/index.php:367
+
+#@ Nevada
+
+msgid "Add Row"
+
+msgstr "Add Row"
+
+
+
+#: lambda/tablemanager/index.php:374
+
+#@ Nevada
+
+msgid "Custom URL"
+
+msgstr "Custom URL"
+
+
+
+#: lambda/themeupdater/class-envato-protected-api.php:67
+
+#@ envato
+
+msgid "Please enter your Envato Marketplace Username."
+
+msgstr ""
+
+
+
+#: lambda/themeupdater/class-envato-protected-api.php:71
+
+#@ envato
+
+msgid "Please enter your Envato Marketplace API Key."
+
+msgstr ""
+
+
+
+#: lambda/themeupdater/class-envato-protected-api.php:96
+
+#@ envato
+
+msgid "The API \"set\" is a required parameter."
+
+msgstr ""
+
+
+
+#: lambda/themeupdater/class-envato-protected-api.php:167
+
+#@ envato
+
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+
+msgstr ""
+
+
+
+#: lambda/themeupdater/class-envato-wordpress-theme-upgrader.php:279
+
+#@ envato
+
+msgid "Downloading upgrade package from the Envato API&#8230;"
+
+msgstr ""
+
+
+
+#: lambda/themeupdater/class-envato-wordpress-theme-upgrader.php:290
+
+#@ envato
+
+msgid "Downloading install package from the Envato API&#8230;"
+
+msgstr ""
+
+
+
+#: lambda/themeupdater/index.php:55
+
+#@ Nevada
+
+msgid "There is a new Version available at Themeforest. We recommend to update the theme!"
+
+msgstr "There is a new Version available at Themeforest. We recommend to update the theme!"
+
+
+
+#: lambda/themeupdater/index.php:61
+
+#@ Nevada
+
+msgid "Congratulations! You are running the newest theme version"
+
+msgstr "Congratulations! You are running the newest theme version"
+
+
+
+#: lambda/themeupdater/index.php:128
+
+#@ Nevada
+
+msgid "Copyright"
+
+msgstr "Copyright"
+
+
+
+#: lambda/themeupdater/index.php:131
+
+#@ Nevada
+
+msgid "Copyrightlink"
+
+msgstr "Copyrightlink"
+
+
+
+#: lambda/themeupdater/index.php:134
+
+#@ Nevada
+
+msgid "change"
+
+msgstr "change"
+
+
+
+#: lambda/tinymce/lambda.button.popup.php:72
+
+#: lambda/tinymce/lambda.cta.popup.php:68
+
+#@ Nevada
+
+msgid "Lambda Button Generator"
+
+msgstr "Lambda Button Generator"
+
+
+
+#: lambda/tinymce/lambda.google.popup.php:13
+
+#@ Nevada
+
+msgid "Insert your individual Google Map"
+
+msgstr "Insert your individual Google Map"
+
+
+
+#: lambda/tinymce/lambda.google.popup.php:64
+
+#@ Nevada
+
+msgid "Map information"
+
+msgstr "Map information"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:8
+
+#@ Nevada
+
+msgid "One Third Column Shortcodes"
+
+msgstr "One Third Column Shortcodes"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:9
+
+#@ Nevada
+
+msgid "One Third Column"
+
+msgstr "One Third Column"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:10
+
+#@ Nevada
+
+msgid "Two Thirds Column"
+
+msgstr "Two Thirds Column"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:13
+
+#@ Nevada
+
+msgid "One Half Column Shortcodes"
+
+msgstr "One Half Column Shortcodes"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:14
+
+#@ Nevada
+
+msgid "One Half Column"
+
+msgstr "One Half Column"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:17
+
+#@ Nevada
+
+msgid "One Fourth Column Shortcodes"
+
+msgstr "One Fourth Column Shortcodes"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:18
+
+#@ Nevada
+
+msgid "One Fourth Column"
+
+msgstr "One Fourth Column"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:19
+
+#@ Nevada
+
+msgid "Three Fourths Column"
+
+msgstr "Three Fourths Column"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:22
+
+#@ Nevada
+
+msgid "One Fifth Column Shortcodes"
+
+msgstr "One Fifth Column Shortcodes"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:23
+
+#@ Nevada
+
+msgid "One Fifth Column"
+
+msgstr "One Fifth Column"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:24
+
+#@ Nevada
+
+msgid "Two Fifth Column"
+
+msgstr "Two Fifth Column"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:25
+
+#@ Nevada
+
+msgid "Three Fifth Column"
+
+msgstr "Three Fifth Column"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:26
+
+#@ Nevada
+
+msgid "Four Fifth Column"
+
+msgstr "Four Fifth Column"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:29
+
+#@ Nevada
+
+msgid "One Sixth Column Shortcodes"
+
+msgstr "One Sixth Column Shortcodes"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:30
+
+#@ Nevada
+
+msgid "One Sixth Column"
+
+msgstr "One Sixth Column"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:31
+
+#@ Nevada
+
+msgid "Five Sixth Column"
+
+msgstr "Five Sixth Column"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:36
+
+#@ Nevada
+
+msgid "Elements"
+
+msgstr "Elements"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:39
+
+#@ Nevada
+
+msgid "Toggle Panel"
+
+msgstr "Toggle Panel"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:42
+
+#@ Nevada
+
+msgid "Tabs"
+
+msgstr "Tabs"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:45
+
+#@ Nevada
+
+msgid "Blockquote (left)"
+
+msgstr "Blockquote (left)"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:48
+
+#@ Nevada
+
+msgid "Blockquote (right)"
+
+msgstr "Blockquote (right)"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:51
+
+#@ Nevada
+
+msgid "Highlight (style one)"
+
+msgstr "Highlight (style one)"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:52
+
+#@ Nevada
+
+msgid "Highlight (style two)"
+
+msgstr "Highlight (style two)"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:53
+
+#@ Nevada
+
+msgid "Highlight (style three)"
+
+msgstr "Highlight (style three)"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:54
+
+#@ Nevada
+
+msgid "Highlight (style four)"
+
+msgstr "Highlight (style four)"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:57
+
+#@ Nevada
+
+msgid "Dropcap One"
+
+msgstr "Dropcap One"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:58
+
+#@ Nevada
+
+msgid "Dropcap Two"
+
+msgstr "Dropcap Two"
+
+
+
+#: lambda/tinymce/lambda.sc.definitions.php:61
+
+#@ Nevada
+
+msgid "Notification Box"
+
+msgstr "Notification Box"
+
+
+
+#: lambda/tinymce/lambda.sc.generator.php:48
+
+#@ Nevada
+
+msgid "Manage Items"
+
+msgstr "Manage Items"
+
+
+
+#: lambda/tinymce/lambda.sc.generator.php:52
+
+#@ Nevada
+
+msgid "Add Item"
+
+msgstr "Add Item"
+
+
+
+#: lambda/tinymce/lambda.sc.generator.php:92
+
+#@ Nevada
+
+msgid "Lambda Shortcode Generator"
+
+msgstr "Lambda Shortcode Generator"
+
+
+
+#: lambda/tinymce/lambda.sc.generator.php:97
+
+#@ Nevada
+
+msgid "Choose a Shortcode"
+
+msgstr "Choose a Shortcode"
+
+
+
+#: lambda/tinymce/lambda.sc.generator.php:125
+
+#@ Nevada
+
+msgid "Shortcode Generator"
+
+msgstr "Shortcode Generator"
+
+
+
+#: lambda/tinymce/lambda.sc.generator.php:364
+
+#@ Nevada
+
+msgid "Insert Shortcode"
+
+msgstr "Insert Shortcode"
+
+
+
+#: lambda/tinymce/lambda.slider.popup.php:13
+
+#@ Nevada
+
+msgid "Insert your individual Slider"
+
+msgstr "Insert your individual Slider"
+
+
+
+#: lambda/tinymce/lambda.slider.popup.php:61
+
+#@ Nevada
+
+msgid "available Sliders"
+
+msgstr "available Sliders"
+
+
+
+#: lambda/tinymce/lambda.soundcloud.popup.php:13
+
+#@ Nevada
+
+msgid "Insert Soundcloud"
+
+msgstr "Insert Soundcloud"
+
+
+
+#: lambda/tinymce/lambda.soundcloud.popup.php:61
+
+#@ Nevada
+
+msgid "Insert Soundcloud URL"
+
+msgstr "Insert Soundcloud URL"
+
+
+
+#: lambda/tinymce/lambda.table.popup.php:13
+
+#@ Nevada
+
+msgid "Insert your individual Table"
+
+msgstr "Insert your individual Table"
+
+
+
+#: lambda/tinymce/lambda.table.popup.php:61
+
+#@ Nevada
+
+msgid "available Tables"
+
+msgstr "available Tables"
+
+
+
+#: lambda/tinymce/lambda.vimeo.popup.php:13
+
+#@ Nevada
+
+msgid "Insert Vimeo Video"
+
+msgstr "Insert Vimeo Video"
+
+
+
+#: lambda/tinymce/lambda.vimeo.popup.php:61
+
+#@ Nevada
+
+msgid "Insert Vimeo ID"
+
+msgstr "Insert Vimeo ID"
+
+
+
+#: lambda/tinymce/lambda.youtube.popup.php:13
+
+#@ Nevada
+
+msgid "Insert Youtube Video"
+
+msgstr "Insert Youtube Video"
+
+
+
+#: lambda/tinymce/lambda.youtube.popup.php:61
+
+#@ Nevada
+
+msgid "Insert Youtube ID"
+
+msgstr "Insert Youtube ID"
+
+
+
+#: lambda/widgets/lambda_contact.php:14
+
+#@ Nevada
+
+msgid "Insert your contact data in here!"
+
+msgstr "Insert your contact data in here!"
+
+
+
+#: lambda/widgets/lambda_contact.php:15
+
+#@ Nevada
+
+msgid "Lambda - Contact"
+
+msgstr "Lambda - Contact"
+
+
+
+#: lambda/widgets/lambda_contact.php:25
+
+#@ Nevada
+
+msgid "Address"
+
+msgstr "Address"
+
+
+
+#: lambda/widgets/lambda_contact.php:26
+
+#@ Nevada
+
+msgid "Phone"
+
+msgstr "Phone"
+
+
+
+#: lambda/widgets/lambda_contact.php:27
+
+#@ Nevada
+
+msgid "Fax"
+
+msgstr "Fax"
+
+
+
+#: lambda/widgets/lambda_contact.php:29
+
+#@ Nevada
+
+msgid "Internet"
+
+msgstr "Internet"
+
+
+
+#: lambda/widgets/lambda_flickr.php:16
+
+#@ Nevada
+
+msgid "Displays Flickr images by user or tags."
+
+msgstr "Displays Flickr images by user or tags."
+
+
+
+#: lambda/widgets/lambda_flickr.php:17
+
+#@ Nevada
+
+msgid "Lambda - Flickrstream"
+
+msgstr "Lambda - Flickrstream"
+
+
+
+#: lambda/widgets/lambda_flickr.php:31
+
+#: lambda/widgets/lambda_recent_comment.php:99
+
+#: lambda/widgets/lambda_recent_post.php:110
+
+#: lambda/widgets/lambda_social.php:192
+
+#: lambda/widgets/lambda_twitter.php:54
+
+#@ Nevada
+
+msgid "Title:"
+
+msgstr "Title:"
+
+
+
+#: lambda/widgets/lambda_flickr.php:36
+
+#@ Nevada
+
+msgid "Flickr ID:"
+
+msgstr "Flickr ID:"
+
+
+
+#: lambda/widgets/lambda_flickr.php:40
+
+#@ Nevada
+
+msgid "Limit:"
+
+msgstr "Limit:"
+
+
+
+#: lambda/widgets/lambda_like.php:14
+
+#@ Nevada
+
+msgid "Widget to display most liked posts for a given time range."
+
+msgstr "Widget to display most liked posts for a given time range."
+
+
+
+#: lambda/widgets/lambda_like.php:15
+
+#@ Nevada
+
+msgid "Lambda - Most Liked Posts"
+
+msgstr "Lambda - Most Liked Posts"
+
+
+
+#: lambda/widgets/lambda_like.php:27
+
+#@ Nevada
+
+msgid "Most Liked Posts"
+
+msgstr "Most Liked Posts"
+
+
+
+#: lambda/widgets/lambda_like.php:41
+
+#@ Nevada
+
+msgid "All time"
+
+msgstr "All time"
+
+
+
+#: lambda/widgets/lambda_like.php:42
+
+#@ Nevada
+
+msgid "Last one day"
+
+msgstr "Last one day"
+
+
+
+#: lambda/widgets/lambda_like.php:43
+
+#@ Nevada
+
+msgid "Last two days"
+
+msgstr "Last two days"
+
+
+
+#: lambda/widgets/lambda_like.php:44
+
+#@ Nevada
+
+msgid "Last three days"
+
+msgstr "Last three days"
+
+
+
+#: lambda/widgets/lambda_like.php:45
+
+#@ Nevada
+
+msgid "Last one week"
+
+msgstr "Last one week"
+
+
+
+#: lambda/widgets/lambda_like.php:46
+
+#@ Nevada
+
+msgid "Last two weeks"
+
+msgstr "Last two weeks"
+
+
+
+#: lambda/widgets/lambda_like.php:47
+
+#@ Nevada
+
+msgid "Last three weeks"
+
+msgstr "Last three weeks"
+
+
+
+#: lambda/widgets/lambda_like.php:48
+
+#@ Nevada
+
+msgid "Last one month"
+
+msgstr "Last one month"
+
+
+
+#: lambda/widgets/lambda_like.php:49
+
+#@ Nevada
+
+msgid "Last two months"
+
+msgstr "Last two months"
+
+
+
+#: lambda/widgets/lambda_like.php:50
+
+#@ Nevada
+
+msgid "Last three months"
+
+msgstr "Last three months"
+
+
+
+#: lambda/widgets/lambda_like.php:51
+
+#@ Nevada
+
+msgid "Last six months"
+
+msgstr "Last six months"
+
+
+
+#: lambda/widgets/lambda_like.php:52
+
+#@ Nevada
+
+msgid "Last one year"
+
+msgstr "Last one year"
+
+
+
+#: lambda/widgets/lambda_like.php:55
+
+#@ Nevada
+
+msgid "Most Liked"
+
+msgstr "Most Liked"
+
+
+
+#: lambda/widgets/lambda_like.php:55
+
+#@ Nevada
+
+msgid "Recently Liked"
+
+msgstr "Recently Liked"
+
+
+
+#: lambda/widgets/lambda_like.php:62
+
+#@ Nevada
+
+msgid "Number of posts to show"
+
+msgstr "Number of posts to show"
+
+
+
+#: lambda/widgets/lambda_like.php:66
+
+#@ Nevada
+
+msgid "Time range"
+
+msgstr "Time range"
+
+
+
+#: lambda/widgets/lambda_like.php:77
+
+#@ Nevada
+
+msgid "Show like count"
+
+msgstr "Show like count"
+
+
+
+#: lambda/widgets/lambda_like.php:134
+
+#@ Nevada
+
+msgid "No posts liked yet."
+
+msgstr "No posts liked yet."
+
+
+
+#: lambda/widgets/lambda_recent_comment.php:14
+
+#@ Nevada
+
+msgid "The most recent comments with Avatar"
+
+msgstr "The most recent comments with Avatar"
+
+
+
+#: lambda/widgets/lambda_recent_comment.php:15
+
+#@ Nevada
+
+msgid "Lambda - Recent Comments"
+
+msgstr "Lambda - Recent Comments"
+
+
+
+#: lambda/widgets/lambda_recent_comment.php:56
+
+#@ Nevada
+
+msgid "Recent Comments"
+
+msgstr "Recent Comments"
+
+
+
+#: lambda/widgets/lambda_recent_comment.php:71
+
+#, php-format
+
+#@ Nevada
+
+msgctxt "widgets"
+
+msgid "%1$s on %2$s"
+
+msgstr ""
+
+
+
+#: lambda/widgets/lambda_recent_comment.php:102
+
+#@ Nevada
+
+msgid "Number of comments to show:"
+
+msgstr "Number of comments to show:"
+
+
+
+#: lambda/widgets/lambda_recent_post.php:14
+
+#@ Nevada
+
+msgid "The most recent posts with on your site with postformats"
+
+msgstr "The most recent posts with on your site with postformats"
+
+
+
+#: lambda/widgets/lambda_recent_post.php:15
+
+#@ Nevada
+
+msgid "Lambda - Recent Posts"
+
+msgstr "Lambda - Recent Posts"
+
+
+
+#: lambda/widgets/lambda_recent_post.php:40
+
+#@ Nevada
+
+msgid "Recent Posts"
+
+msgstr "Recent Posts"
+
+
+
+#: lambda/widgets/lambda_recent_post.php:66
+
+#, php-format
+
+#@ Nevada
+
+msgid "Permanent link to %s"
+
+msgstr "Permanent link to %s"
+
+
+
+#: lambda/widgets/lambda_recent_post.php:113
+
+#@ Nevada
+
+msgid "Number of posts to show:"
+
+msgstr "Number of posts to show:"
+
+
+
+#: lambda/widgets/lambda_social.php:15
+
+#@ Nevada
+
+msgid "Displays Social messages by User!"
+
+msgstr "Displays Social messages by User!"
+
+
+
+#: lambda/widgets/lambda_social.php:16
+
+#@ Nevada
+
+msgid "Lambda - Social"
+
+msgstr "Lambda - Social"
+
+
+
+#: lambda/widgets/lambda_social.php:137
+
+#: lambda/widgets/lambda_social.php:217
+
+#: lambda/widgets/lambda_social.php:241
+
+#@ Nevada
+
+msgid "Icon"
+
+msgstr "Icon"
+
+
+
+#: lambda/widgets/lambda_social.php:148
+
+#: lambda/widgets/lambda_social.php:231
+
+#: lambda/widgets/lambda_social.php:255
+
+#@ Nevada
+
+msgid "remove"
+
+msgstr "remove"
+
+
+
+#: lambda/widgets/lambda_social.php:196
+
+#@ Nevada
+
+msgid "Color:"
+
+msgstr "Color:"
+
+
+
+#: lambda/widgets/lambda_social.php:202
+
+#@ Nevada
+
+msgid "Black Icons"
+
+msgstr "Black Icons"
+
+
+
+#: lambda/widgets/lambda_social.php:203
+
+#@ Nevada
+
+msgid "White Icons"
+
+msgstr "White Icons"
+
+
+
+#: lambda/widgets/lambda_social.php:269
+
+#@ default
+
+msgid "Please \"save\" first <br /> to activate the Widget!"
+
+msgstr ""
+
+
+
+#: lambda/widgets/lambda_twitter.php:16
+
+#@ Nevada
+
+msgid "Displays Twitter messages by User!"
+
+msgstr "Displays Twitter messages by User!"
+
+
+
+#: lambda/widgets/lambda_twitter.php:17
+
+#@ Nevada
+
+msgid "Lambda - Twitter"
+
+msgstr "Lambda - Twitter"
+
+
+
+#: lambda/widgets/lambda_twitter.php:57
+
+#@ Nevada
+
+msgid "The widgets title."
+
+msgstr "The widgets title."
+
+
+
+#: lambda/widgets/lambda_twitter.php:59
+
+#@ Nevada
+
+msgid "Username(s):"
+
+msgstr "Username(s):"
+
+
+
+#: lambda/widgets/lambda_twitter.php:62
+
+#@ Nevada
+
+msgid "Enter one or more usernames seperated by comma."
+
+msgstr "Enter one or more usernames seperated by comma."
+
+
+
+#: lambda/widgets/lambda_twitter.php:64
+
+#@ Nevada
+
+msgid "Count:"
+
+msgstr "Count:"
+
+
+
+#: lambda/widgets/lambda_twitter.php:67
+
+#@ Nevada
+
+msgid "How many tweets to display."
+
+msgstr "How many tweets to display."
+
+
+
+#: lambda/widgets/lambda_twitter.php:69
+
+#@ Nevada
+
+msgid "Text loading:"
+
+msgstr "Text loading:"
+
+
+
+#: lambda/widgets/lambda_twitter.php:72
+
+#@ Nevada
+
+msgid "Optional loading text, displayed while tweets load."
+
+msgstr "Optional loading text, displayed while tweets load."
+
+
+
+#: lambda/widgets/lambda_video.php:14
+
+#@ Nevada
+
+msgid "Insert your embedded code in here!"
+
+msgstr "Insert your embedded code in here!"
+
+
+
+#: lambda/widgets/lambda_video.php:15
+
+#@ Nevada
+
+msgid "Lambda - Embedded Video"
+
+msgstr "Lambda - Embedded Video"
+
+
+
+#: loop-contactform.php:63
+
+#@ Nevada
+
+msgid "Message has been sent!"
+
+msgstr "Message has been sent!"
+
+
+
+#: loop-contactform.php:66
+
+#@ Nevada
+
+msgid "Message has not been sent! Reason: Incorrect Caption!"
+
+msgstr "Message has not been sent! Reason: Incorrect Caption!"
+
+
+
+#: loop-contactform.php:124
+
+#@ Nevada
+
+msgid "Submit"
+
+msgstr "Submit"
+
+
+
+#: loop-contactform.php:129
+
+#: loop-page.php:32
+
+#: loop-page.php:33
+
+#: loop-portfolio.php:102
+
+#: loop-single.php:62
+
+#: loop-sliderpage.php:19
+
+#: loop.php:673
+
+#@ Nevada
+
+#@ woothemes
+
+msgid "Pages:"
+
+msgstr "Pages:"
+
+
+
+#: loop-portfolio.php:113
+
+#@ Nevada
+
+msgid "Visit Site"
+
+msgstr "Visit Site"
+
+
+
+#: loop-single.php:27
+
+#: loop.php:96
+
+#: loop.php:206
+
+#: loop.php:319
+
+#: loop.php:430
+
+#: loop.php:508
+
+#: loop.php:604
+
+#@ Nevada
+
+msgid "By "
+
+msgstr "By "
+
+
+
+#: loop-single.php:75
+
+#, php-format
+
+#@ Nevada
+
+msgid "<span class=\"%1$s\"></span> %2$s"
+
+msgstr "<span class=\"%1$s\"></span> %2$s"
+
+
+
+#: loop-single.php:105
+
+#@ Nevada
+
+msgid "About "
+
+msgstr "About "
+
+
+
+#: loop-single.php:176
+
+#@ Nevada
+
+msgctxt "Previous post link"
+
+msgid "&#8656;"
+
+msgstr ""
+
+
+
+#: loop-single.php:177
+
+#@ Nevada
+
+msgctxt "Next post link"
+
+msgid "&#8658;"
+
+msgstr ""
+
+
+
+#: loop.php:36
+
+#@ Nevada
+
+msgid "Not Found"
+
+msgstr ""
+
+
+
+#: loop.php:38
+
+#@ Nevada
+
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+
+msgstr "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+
+
+
+#: loop.php:67
+
+#@ Nevada
+
+msgctxt "gallery category slug"
+
+msgid "gallery"
+
+msgstr ""
+
+
+
+#: loop.php:143
+
+#: loop.php:256
+
+#: loop.php:383
+
+#: loop.php:472
+
+#: loop.php:568
+
+#: loop.php:657
+
+#@ Nevada
+
+msgid "Read more <span class=\"meta-nav\">&#043;</span>"
+
+msgstr ""
+
+
+
+#: loop.php:174
+
+#@ Nevada
+
+msgctxt "video category slug"
+
+msgid "videos"
+
+msgstr ""
+
+
+
+#: loop.php:287
+
+#@ Nevada
+
+msgctxt "audio category slug"
+
+msgid "audio"
+
+msgstr ""
+
+
+
+#: loop.php:411
+
+#@ Nevada
+
+msgctxt "link category slug"
+
+msgid "links"
+
+msgstr ""
+
+
+
+#: loop.php:490
+
+#@ Nevada
+
+msgctxt "quote category slug"
+
+msgid "quotes"
+
+msgstr ""
+
+
+
+#: loop.php:694
+
+#@ Nevada
+
+msgid "<span class=\"meta-nav\">&#8656;</span> Older posts"
+
+msgstr "<span class=\"meta-nav\">&#8656;</span> Older posts"
+
+
+
+#: loop.php:695
+
+#@ Nevada
+
+msgid "Newer posts <span class=\"meta-nav\">&#8658;</span>"
+
+msgstr "Newer posts <span class=\"meta-nav\">&#8658;</span>"
+
+
+
+#: revslider/inc_php/revslider_widget.class.php:8
+
+#@ Nevada
+
+msgid "Displays a revolution slider on the page"
+
+msgstr "Displays a revolution slider on the page"
+
+
+
+#: revslider/inc_php/revslider_widget.class.php:24
+
+#@ Nevada
+
+msgid "No sliders found, Please create a slider"
+
+msgstr "No sliders found, Please create a slider"
+
+
+
+#: search.php:34
+
+#, php-format
+
+#@ Nevada
+
+msgid "Search Results for:<span> %s </span>"
+
+msgstr "Search Results for:<span> %s </span>"
+
+
+
+#: search.php:44
+
+#@ Nevada
+
+msgid "Nothing Found"
+
+msgstr "Nothing Found"
+
+
+
+#: search.php:46
+
+#@ Nevada
+
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+
+msgstr "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+
+
+
+#: tag.php:21
+
+#, php-format
+
+#@ Nevada
+
+msgid "Tag Archives: %s"
+
+msgstr "Tag Archives: %s"
+
+
+
+#: template-archiv.php:48
+
+#@ Nevada
+
+msgid "Last 30 Posts"
+
+msgstr "Last 30 Posts"
+
+
+
+#: template-archiv.php:70
+
+#@ Nevada
+
+msgid "Top 10 Likes"
+
+msgstr "Top 10 Likes"
+
+
+
+#: template-archiv.php:86
+
+#@ Nevada
+
+msgid "No posts voted yet."
+
+msgstr "No posts voted yet."
+
+
+
+#: template-archiv.php:102
+
+#@ Nevada
+
+msgid "Archives by Subject:"
+
+msgstr "Archives by Subject:"
+
+
+
+#: template-archiv.php:116
+
+#@ Nevada
+
+msgid "Archives by Month:"
+
+msgstr "Archives by Month:"
+
+
+
+#: template-part-teaser.php:41
+
+#@ Nevada
+
+msgid "404 Error"
+
+msgstr "404 Error"
+
+
+
+#: template-part-teaser.php:47
+
+#: template-part-teaser.php:50
+
+#: template-part-teaser.php:53
+
+#: template-part-teaser.php:56
+
+#, php-format
+
+#@ Nevada
+
+msgid "%s"
+
+msgstr "%s"
+
+
+
+#: template-part-teaser.php:60
+
+#@ Nevada
+
+msgid "Blog Archives"
+
+msgstr "Blog Archives"
