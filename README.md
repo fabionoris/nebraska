@@ -15,7 +15,7 @@ You can see an archived live demo of Nebraska [here](https://web.archive.org/web
 
 ## Nebraska Fixed
 
-The purpose of this project is to make Nebraska theme works with the current version of WordPress and a recent version of PHP. I tested it with **WordPress 5.9.3** and **PHP 7.4.28**, but it probably supports different versions too: just give it a try.
+The purpose of this project is to make Nebraska theme works with the current version of WordPress and a recent version of PHP. I tested it with **WordPress 6.1.1** and **PHP 7.4.28**, but it probably supports different versions too: just give it a try.
 
 Nebraska Fixed is built upon Nebraska 1.3.2 (framework version 2.1).
 
