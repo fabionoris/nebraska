@@ -3,7 +3,7 @@ Nebraska
 
 Nebraska is a responsive multi-purpose theme for WordPress.
 
-<img src="https://web.archive.org/web/20140625171221im_/http://www.unitedthemes.com/wp-content/uploads/2013/02/nebraska-premium-theme.png" alt="preview" width="450"/>
+<img src="preview.png" alt="preview" width="450"/>
 
 
 ## History
